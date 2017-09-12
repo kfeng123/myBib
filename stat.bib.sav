@@ -400,15 +400,19 @@
   groups  = {variance test},
 }
 
-@Article{Bai2004CLT,
-  author  = {Bai, Z. D.},
-  title   = {CLT FOR LINEAR SPECTRAL STATISTICS OF LARGE-DIMENSIONAL SAMPLE COVARIANCE MATRICES},
-  journal = {Annals of Probability An Official Journal of the Institute of Mathematical Statistics},
-  year    = {2004},
-  volume  = {32},
-  number  = {3},
-  pages   = {553-605},
-  groups  = {variance test},
+@Article{Silverstein2004,
+  author    = {Jack W. Silverstein and Z. D. Bai},
+  title     = {{CLT} for linear spectral statistics of large-dimensional sample covariance matrices},
+  journal   = {The Annals of Probability},
+  year      = {2004},
+  volume    = {32},
+  number    = {1A},
+  pages     = {553--605},
+  month     = {jan},
+  doi       = {10.1214/aop/1078415845},
+  file      = {Silverstein2004.pdf:Silverstein2004.pdf:PDF},
+  publisher = {Institute of Mathematical Statistics},
+  url       = {https://doi.org/10.1214/aop/1078415845},
 }
 
 @Article{Bai1993Limit,
@@ -847,8 +851,9 @@
   volume  = {131},
   number  = {4},
   pages   = {174-196},
+  doi     = {10.1016/j.jmva.2014.07.002},
   file    = {Cai2014High.pdf:Cai2014High.pdf:PDF},
-  groups  = {mean test},
+  groups  = {mean test, MANOVA},
 }
 
 @Article{Cai2016Rate,
@@ -1173,6 +1178,7 @@
   author = {Diciccio, Cyrus J. and Romano, Joseph P.},
   title  = {Robust Permutation Tests For Correlation And Regression Coefficients},
   year   = {2016},
+  doi    = {10.1080/01621459.2016.1202117},
   file   = {Diciccio2016Robust.pdf:Diciccio2016Robust.pdf:PDF},
   groups = {randomization test},
 }
@@ -2554,6 +2560,7 @@
   volume  = {116},
   number  = {2},
   pages   = {410-421},
+  doi     = {10.1016/j.jmva.2013.01.008},
   file    = {Katayama2013Asymptotic.pdf:Katayama2013Asymptotic.pdf:PDF},
   groups  = {MANOVA},
 }
@@ -3263,7 +3270,7 @@
   author        = {Pascal Massart,Jean Picard,Ecole Dete De Probabilites De Saintflour},
   title         = {Concentration inequalities and model selection},
   year          = {2007},
-  __markedentry = {[kfeng123:]},
+  __markedentry = {[kfeng123:5]},
   file          = {massart2007concentration.pdf:massart2007concentration.pdf:PDF},
   groups        = {book},
 }
@@ -3279,14 +3286,15 @@
 }
 
 @Article{paul2007asymptotics,
-  author  = {Paul, Debashis},
-  title   = {Asymptotics of sample eigenstruture for a large dimensional spiked covariance model},
-  journal = {Statistica Sinica},
-  year    = {2007},
-  volume  = {17},
-  pages   = {1617},
-  file    = {paul2007asymptotics.pdf:paul2007asymptotics.pdf:PDF},
-  groups  = {factor and PCA},
+  author        = {Paul, Debashis},
+  title         = {Asymptotics of sample eigenstruture for a large dimensional spiked covariance model},
+  journal       = {Statistica Sinica},
+  year          = {2007},
+  volume        = {17},
+  pages         = {1617},
+  __markedentry = {[kfeng123:1]},
+  file          = {paul2007asymptotics.pdf:paul2007asymptotics.pdf:PDF},
+  groups        = {factor and PCA},
 }
 
 @Article{Pauly2015Analysis,
@@ -4865,39 +4873,31 @@
 }
 
 @Book{book:73769,
-  title     = {Introduction to nonparametric estimation},
-  publisher = {Springer},
-  year      = {2009},
-  author    = {Alexandre B. Tsybakov},
-  series    = {Springer series in statistics},
-  edition   = {1},
-  isbn      = {0387790527,0387790519,9780387790527,9780387790510},
-  file      = {book\:73769.pdf:book\:73769.pdf:PDF},
-  groups    = {book},
-  url       = {http://gen.lib.rus.ec/book/index.php?md5=22D1D831EA6180B4C49DDEF2C9BA23A4},
-}
-
-@Book{,
-  owner     = {kfeng123},
-  timestamp = {2017.05.10},
-}
-
-@Book{,
-  owner     = {kfeng123},
-  timestamp = {2017.05.10},
+  title         = {Introduction to nonparametric estimation},
+  publisher     = {Springer},
+  year          = {2009},
+  author        = {Alexandre B. Tsybakov},
+  series        = {Springer series in statistics},
+  edition       = {1},
+  isbn          = {0387790527,0387790519,9780387790527,9780387790510},
+  __markedentry = {[kfeng123:5]},
+  file          = {book\:73769.pdf:book\:73769.pdf:PDF},
+  groups        = {book},
+  url           = {http://gen.lib.rus.ec/book/index.php?md5=22D1D831EA6180B4C49DDEF2C9BA23A4},
 }
 
 @Book{ThomasM.Cover2006,
-  title     = {Elements of Information Theory},
-  publisher = {Wiley-Interscience},
-  year      = {2006},
-  author    = {Thomas M. Cover, Joy A. Thomas},
-  series    = {Wiley Series in Telecommunications and Signal Processing},
-  edition   = {2nd ed},
-  isbn      = {9780471241959,0471241954},
-  file      = {book\:23705.djvu:book\:23705.djvu:Djvu},
-  groups    = {book},
-  url       = {http://gen.lib.rus.ec/book/index.php?md5=F84D706DD712F25317DF40949026F072},
+  title         = {Elements of Information Theory},
+  publisher     = {Wiley-Interscience},
+  year          = {2006},
+  author        = {Thomas M. Cover, Joy A. Thomas},
+  series        = {Wiley Series in Telecommunications and Signal Processing},
+  edition       = {2nd ed},
+  isbn          = {9780471241959,0471241954},
+  __markedentry = {[kfeng123:5]},
+  file          = {book\:23705.djvu:book\:23705.djvu:Djvu},
+  groups        = {book},
+  url           = {http://gen.lib.rus.ec/book/index.php?md5=F84D706DD712F25317DF40949026F072},
 }
 
 @Book{book:540353,
@@ -4991,6 +4991,638 @@
   url       = {http://gen.lib.rus.ec/book/index.php?md5=3a9c1b80e93a3fc593b3b34fb78eaa56},
 }
 
+@Article{Schott2007Some,
+  author  = {Schott, James R.},
+  title   = {Some high-dimensional tests for a one-way MANOVA},
+  journal = {Journal of Multivariate Analysis},
+  year    = {2007},
+  volume  = {98},
+  number  = {9},
+  pages   = {1825-1839},
+  doi     = {10.1016/j.jmva.2006.11.007},
+  file    = {Schott2007Some.pdf:Schott2007Some.pdf:PDF},
+  groups  = {MANOVA},
+}
+
+@Article{Srivastava2013,
+  author  = {Srivastava, Muni S. and Kubokawa, Tatsuya},
+  title   = {Tests for multivariate analysis of variance in high dimension under non-normality},
+  journal = {Journal of Multivariate Analysis},
+  year    = {2013},
+  volume  = {115},
+  number  = {1},
+  pages   = {204-216},
+  doi     = {10.1016/j.jmva.2012.10.011},
+  file    = {Srivastava2013.pdf:Srivastava2013.pdf:PDF},
+  groups  = {MANOVA},
+}
+
+@Article{Berman1962A,
+  author  = {Berman, Simeon M.},
+  title   = {A Law of Large Numbers for the Maximum in a Stationary Gaussian Sequence},
+  journal = {Annals of Mathematical Statistics},
+  year    = {1962},
+  volume  = {33},
+  number  = {1},
+  pages   = {93-97},
+  doi     = {10.1214/aoms/1177704714},
+  file    = {Berman1962A.pdf:Berman1962A.pdf:PDF},
+  groups  = {large deviation},
+}
+
+@Article{Arias2011GLOBAL,
+  author  = {Arias-Castro, Ery and Candès, Emmanuel J. and Plan, Yaniv},
+  title   = {GLOBAL TESTING UNDER SPARSE ALTERNATIVES: ANOVA, MULTIPLE COMPARISONS AND THE HIGHER CRITICISM},
+  journal = {Annals of Statistics},
+  year    = {2011},
+  volume  = {39},
+  number  = {5},
+  pages   = {2533-2556},
+  doi     = {10.1214/11-aos910},
+  file    = {Arias2011GLOBAL.pdf:Arias2011GLOBAL.pdf:PDF},
+  groups  = {MANOVA},
+}
+
+@Article{Baraud2002Non,
+  author  = {Baraud, Yannick},
+  title   = {Non-Asymptotic Minimax Rates of Testing in Signal Detection},
+  journal = {Bernoulli},
+  year    = {2002},
+  volume  = {8},
+  number  = {5},
+  pages   = {577-606},
+  groups  = {minimax},
+}
+
+@Article{Chakraborty2015Tests,
+  author  = {Chakraborty, Anirvan and Chaudhuri, Probal},
+  title   = {Tests for high dimensional data based on means, spatial signs and spatial ranks},
+  journal = {The Annals of Statistics},
+  year    = {2017},
+  doi     = {10.1214/16-aos1467},
+  file    = {Chakraborty2015Tests.pdf:Chakraborty2015Tests.pdf:PDF},
+  groups  = {mean test},
+}
+
+@Article{MR3650393,
+  author   = {Li, Jun and Zhong, Ping-Shou},
+  title    = {A rate optimal procedure for recovering sparse differences between high-dimensional means under dependence},
+  journal  = {Ann. Statist.},
+  year     = {2017},
+  volume   = {45},
+  number   = {2},
+  pages    = {557--590},
+  issn     = {0090-5364},
+  doi      = {10.1214/16-AOS1459},
+  file     = {MR3650393.pdf:MR3650393.pdf:PDF},
+  fjournal = {The Annals of Statistics},
+  groups   = {mean test},
+  mrclass  = {62H15 (62G20)},
+  mrnumber = {3650393},
+  url      = {http://dx.doi.org/10.1214/16-AOS1459},
+}
+
+@Article{MR2827526,
+  author   = {Wang, Haiyan and Akritas, Michael G.},
+  title    = {Asymptotically distribution free tests in heteroscedastic unbalanced high dimensional {ANOVA}},
+  journal  = {Statist. Sinica},
+  year     = {2011},
+  volume   = {21},
+  number   = {3},
+  pages    = {1341--1377},
+  issn     = {1017-0405},
+  doi      = {10.5705/ss.2009.061},
+  file     = {MR2827526.pdf:MR2827526.pdf:PDF},
+  fjournal = {Statistica Sinica},
+  groups   = {MANOVA},
+  mrclass  = {62G10 (62G20 62J10)},
+  mrnumber = {2827526},
+  url      = {http://dx.doi.org/10.5705/ss.2009.061},
+}
+
+@Article{MR2089128,
+  author     = {Gr\"unwald, Peter D. and Dawid, A. Philip},
+  title      = {Game theory, maximum entropy, minimum discrepancy and robust {B}ayesian decision theory},
+  journal    = {Ann. Statist.},
+  year       = {2004},
+  volume     = {32},
+  number     = {4},
+  pages      = {1367--1433},
+  issn       = {0090-5364},
+  doi        = {10.1214/009053604000000553},
+  file       = {MR2089128.pdf:MR2089128.pdf:PDF},
+  fjournal   = {The Annals of Statistics},
+  groups     = {minimax},
+  mrclass    = {62C20 (91A05 91A35 94A17)},
+  mrnumber   = {2089128},
+  mrreviewer = {Mariano Ruiz Espejo},
+  url        = {http://dx.doi.org/10.1214/009053604000000553},
+}
+
+@Book{book:401484,
+  title     = {The Minimum Description Length Principle},
+  publisher = {The MIT Press},
+  year      = {2007},
+  author    = {Peter D. Grunwald, Jorma Rissanen},
+  series    = {Adaptive Computation and Machine Learning},
+  isbn      = {0262072815,9780262072816,9781429465601},
+  file      = {book\:401484.pdf:book\:401484.pdf:PDF},
+  groups    = {book},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=50810050CFAD5D19D812D2A31C2EC698},
+}
+
+@Article{Anderson2010A,
+  author  = {Anderson, Marti J},
+  title   = {A new method for non‐parametric multivariate analysis of variance},
+  journal = {Austral Ecology},
+  year    = {2010},
+  volume  = {26},
+  number  = {1},
+  pages   = {32-46},
+  groups  = {MANOVA},
+}
+
+@Article{Pillar2013Title,
+  author  = {Pillar, Valério D},
+  title   = {Title: How accurate and powerful are randomization tests in multivariate analysis of variance?},
+  journal = {Community Ecology},
+  year    = {2013},
+  volume  = {14},
+  number  = {2},
+  pages   = {153-163},
+  groups  = {MANOVA},
+}
+
+@Article{Ullah2015Regularised,
+  author  = {Ullah, Insha and Jones, Beatrix},
+  title   = {Regularised Manova for High‐Dimensional Data},
+  journal = {Australian \& New Zealand Journal of Statistics},
+  year    = {2015},
+  volume  = {57},
+  number  = {3},
+  pages   = {377-389},
+  file    = {Ullah2015Regularised.pdf:Ullah2015Regularised.pdf:PDF},
+  groups  = {MANOVA},
+}
+
+@Article{Tsai2009,
+  author  = {Tsai, Chen-An and Chen, James J.},
+  title   = {Multivariate analysis of variance test for gene set analysis},
+  journal = {Bioinformatics},
+  year    = {2009},
+  volume  = {25},
+  number  = {7},
+  pages   = {897},
+  doi     = {10.1093/bioinformatics/btp098},
+  eprint  = {/oup/backfile/content_public/journal/bioinformatics/25/7/10.1093_bioinformatics_btp098/1/btp098.pdf},
+  file    = {Tsai2009.pdf:Tsai2009.pdf:PDF},
+  groups  = {MANOVA},
+  url     = { + http://dx.doi.org/10.1093/bioinformatics/btp098},
+}
+
+@Article{Zwick1985Nonparametric,
+  author  = {Zwick, Rebecca},
+  title   = {Nonparametric one-way multivariate analysis of variance: A computational approach based on the Pillai-Bartlett trace.},
+  journal = {Psychological Bulletin},
+  year    = {1985},
+  volume  = {97},
+  number  = {1},
+  pages   = {148-52},
+}
+
+@Article{Cuevas2014A,
+  author  = {Cuevas, Antonio},
+  title   = {A partial overview of the theory of statistics with functional data},
+  journal = {Journal of Statistical Planning \& Inference},
+  year    = {2014},
+  volume  = {147},
+  number  = {4},
+  pages   = {1-23},
+  file    = {Cuevas2014A.pdf:Cuevas2014A.pdf:PDF},
+  groups  = {functional data},
+}
+
+@Article{Rumcheva2017An,
+  author  = {Rumcheva, Pavlina and Presnell, Brett},
+  title   = {An improved test of equality of mean directions for the Langevin‐von Mises‐Fisher distribution},
+  journal = {Australian \& New Zealand Journal of Statistics},
+  year    = {2017},
+  volume  = {59},
+  file    = {Rumcheva2017An.pdf:Rumcheva2017An.pdf:PDF},
+}
+
+@Article{Feng2018,
+  author    = {Long Feng and Changliang Zou and Zhaojun Wang and Lixing Zhu},
+  title     = {Composite $T^2$ test for high-dimensional data},
+  journal   = {Statistica Sinica},
+  year      = {2018},
+  doi       = {10.5705/ss.202015.0199},
+  file      = {Feng2018.pdf:Feng2018.pdf:PDF},
+  groups    = {mean test},
+  publisher = {Institute of Statistical Science},
+  url       = {https://doi.org/10.5705/ss.202015.0199},
+}
+
+@Article{Croux2018,
+  author    = {Christophe Croux, and Luis Angel Garc{\'{\i}}a-Escudero and Alfonso Gordaliza and Christel Ruwet and Roberto San Mart{\'{\i}}n},
+  title     = {Robust principal component analysis based on trimming around affine subspaces},
+  journal   = {Statistica Sinica},
+  year      = {2018},
+  doi       = {10.5705/ss.202015.0185},
+  file      = {Croux2018.pdf:Croux2018.pdf:PDF},
+  groups    = {factor and PCA},
+  publisher = {Institute of Statistical Science},
+  url       = {https://doi.org/10.5705/ss.202015.0185},
+}
+
+@Article{Mudholkar1974,
+  author        = {Govind S Mudholkar and Michael L Davidson and Perla Subbaiah},
+  title         = {A note on the Union-Intersection character of some {MANOVA} procedures},
+  journal       = {Journal of Multivariate Analysis},
+  year          = {1974},
+  volume        = {4},
+  number        = {4},
+  pages         = {486--493},
+  month         = {dec},
+  __markedentry = {[kfeng123:1]},
+  doi           = {10.1016/0047-259x(74)90027-x},
+  file          = {Mudholkar1974.pdf:Mudholkar1974.pdf:PDF},
+  groups        = {MANOVA},
+  publisher     = {Elsevier {BV}},
+  url           = {https://doi.org/10.1016/0047-259x(74)90027-x},
+}
+
+@Article{Cohen1994,
+  author    = {Arthur Cohen and J. H. B. Kemperman and H. B. Sackrowitz},
+  title     = {Projected Tests for Order Restricted Alternatives},
+  journal   = {The Annals of Statistics},
+  year      = {1994},
+  volume    = {22},
+  number    = {3},
+  pages     = {1539--1546},
+  month     = {sep},
+  doi       = {10.1214/aos/1176325641},
+  file      = {Cohen1994.pdf:Cohen1994.pdf:PDF},
+  groups    = {MANOVA},
+  publisher = {Institute of Mathematical Statistics},
+  url       = {https://doi.org/10.1214/aos/1176325641},
+}
+
+@Article{Roy1953,
+  author    = {S. N. Roy},
+  title     = {On a Heuristic Method of Test Construction and its use in Multivariate Analysis},
+  journal   = {The Annals of Mathematical Statistics},
+  year      = {1953},
+  volume    = {24},
+  number    = {2},
+  pages     = {220--238},
+  month     = {jun},
+  doi       = {10.1214/aoms/1177729029},
+  file      = {Roy1953.pdf:Roy1953.pdf:PDF},
+  publisher = {Institute of Mathematical Statistics},
+  url       = {https://doi.org/10.1214/aoms/1177729029},
+}
+
+@Article{Merhav1998,
+  author    = {N. Merhav and M. Feder},
+  title     = {Universal prediction},
+  journal   = {{IEEE} Transactions on Information Theory},
+  year      = {1998},
+  volume    = {44},
+  number    = {6},
+  pages     = {2124--2147},
+  doi       = {10.1109/18.720534},
+  file      = {Merhav1998.pdf:Merhav1998.pdf:PDF},
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+  url       = {https://doi.org/10.1109/18.720534},
+}
+
+@Article{Aelst2011Robust,
+  author  = {Aelst, Stefan Van and Willems, Gert},
+  title   = {Robust and Efficient One-Way MANOVA Tests},
+  journal = {Journal of the American Statistical Association},
+  year    = {2011},
+  volume  = {106},
+  number  = {494},
+  pages   = {706-718},
+  file    = {Aelst2011Robust.pdf:Aelst2011Robust.pdf:PDF},
+  groups  = {MANOVA},
+}
+
+@Article{Baringhaus2015,
+  author    = {Ludwig Baringhaus and Norbert Henze},
+  title     = {Revisiting the two-sample runs test},
+  journal   = {{TEST}},
+  year      = {2015},
+  volume    = {25},
+  number    = {3},
+  pages     = {432--448},
+  month     = {oct},
+  doi       = {10.1007/s11749-015-0463-1},
+  file      = {Baringhaus2015.pdf:Baringhaus2015.pdf:PDF},
+  groups    = {mean test},
+  publisher = {Springer Nature},
+  url       = {https://doi.org/10.1007/s11749-015-0463-1},
+}
+
+@Article{Passemier2015,
+  author    = {Damien Passemier and Zhaoyuan Li and Jianfeng Yao},
+  title     = {On estimation of the noise variance in high dimensional probabilistic principal component analysis},
+  journal   = {Journal of the Royal Statistical Society: Series B (Statistical Methodology)},
+  year      = {2015},
+  volume    = {79},
+  number    = {1},
+  pages     = {51--67},
+  month     = {dec},
+  doi       = {10.1111/rssb.12153},
+  publisher = {Wiley-Blackwell},
+  url       = {https://doi.org/10.1111/rssb.12153},
+}
+
+@Book{andersonMultivariate,
+  title     = {An Introduction to Multivariate Statistical Analysis},
+  publisher = {Wiley},
+  year      = {2003},
+  author    = {Anderson, T. W.},
+  address   = {New York},
+  edition   = {3rd edition},
+  owner     = {kfeng123},
+  timestamp = {2017.07.12},
+}
+
+@Article{ZHU20081841,
+  author  = {Lixing Zhu and Ruoqing Zhu and Song Song},
+  title   = {Diagnostic checking for multivariate regression models},
+  journal = {Journal of Multivariate Analysis},
+  year    = {2008},
+  volume  = {99},
+  number  = {9},
+  pages   = {1841 - 1859},
+  issn    = {0047-259X},
+  doi     = {http://dx.doi.org/10.1016/j.jmva.2008.01.022},
+  file    = {ZHU20081841.pdf:ZHU20081841.pdf:PDF},
+  groups  = {randomization test},
+  url     = {http://www.sciencedirect.com/science/article/pii/S0047259X08000298},
+}
+
+@Article{Zhu2000N,
+  author  = {Li-Xing Zhu and Georg Neuhaus},
+  title   = {Nonparametric Monte Carlo tests for multivariate distributions},
+  journal = {Biometrika},
+  year    = {2000},
+  volume  = {87},
+  number  = {4},
+  pages   = {919-928},
+  file    = {Zhu2000N.pdf:Zhu2000N.pdf:PDF},
+  groups  = {randomization test},
+}
+
+@Article{Muralidhar2003,
+  author   = {Muralidhar, Krishnamurty and Sarathy, Rathindra},
+  title    = {A theoretical basis for perturbation methods},
+  journal  = {Statistics and Computing},
+  year     = {2003},
+  volume   = {13},
+  number   = {4},
+  pages    = {329--335},
+  month    = {Oct},
+  issn     = {1573-1375},
+  day      = {01},
+  doi      = {10.1023/A:1025610705286},
+  file     = {Muralidhar2003.pdf:Muralidhar2003.pdf:PDF},
+  groups   = {randomization test},
+  keywords = {rank5},
+  url      = {http://dx.doi.org/10.1023/A:1025610705286},
+}
+
+@Article{Pesarin2012,
+  author  = {Pesarin, Fortunato and Salmaso, Luigi},
+  title   = {A review and some new results on permutation testing for multivariate problems},
+  journal = {Statistics and Computing},
+  year    = {2012},
+  volume  = {22},
+  number  = {2},
+  pages   = {639--646},
+  month   = {Mar},
+  issn    = {1573-1375},
+  day     = {01},
+  doi     = {10.1007/s11222-011-9261-0},
+  file    = {Pesarin2012.pdf:Pesarin2012.pdf:PDF},
+  url     = {http://dx.doi.org/10.1007/s11222-011-9261-0},
+}
+
+@Article{Zhao2017,
+  author    = {Junlong Zhao and Hongyu Zhao and Lixing Zhu},
+  title     = {Pivotal variable detection of the covariance matrix and its application to high-dimensional factor models},
+  journal   = {Statistics and Computing},
+  year      = {2017},
+  month     = {jul},
+  doi       = {10.1007/s11222-017-9762-6},
+  file      = {Zhao2017.pdf:Zhao2017.pdf:PDF},
+  publisher = {Springer Nature},
+  url       = {https://doi.org/10.1007/s11222-017-9762-6},
+}
+
+@Book{book:12095,
+  title     = {Extreme Value Theory: An Introduction},
+  publisher = {Springer},
+  year      = {2006},
+  author    = {Laurens de Haan, Ana Ferreira},
+  series    = {Springer Series in Operations Research},
+  edition   = {1},
+  isbn      = {9780387239460,0387239464},
+  file      = {book\:12095.djvu:book\:12095.djvu:Djvu},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=E04997DBC4E43E316F821F320D8CB0F5},
+}
+
+@Article{Brombin2010,
+  author    = {Chiara Brombin and Luigi Salmaso and Giuseppe Ferronato and Pier-Francesco Galzignato},
+  title     = {Multi-Aspect Procedures for Paired Data with Application to Biometric Morphing},
+  journal   = {Communications in Statistics - Simulation and Computation},
+  year      = {2010},
+  volume    = {40},
+  number    = {1},
+  pages     = {1--12},
+  month     = {dec},
+  doi       = {10.1080/03610918.2010.526738},
+  file      = {Brombin2010.pdf:Brombin2010.pdf:PDF},
+  publisher = {Informa {UK} Limited},
+  url       = {https://doi.org/10.1080/03610918.2010.526738},
+}
+
+@Book{book:22684,
+  title     = {Statistical decision theory and bayesian analysis},
+  publisher = {Springer-Verlag},
+  year      = {1993},
+  author    = {James O. Berger},
+  series    = {Springer series in statistics},
+  edition   = {2nd ed},
+  isbn      = {9780387960982,0-387-96098-8},
+  file      = {book\:22684.pdf:book\:22684.pdf:PDF},
+  groups    = {book},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=01F83A9B6D55AA72408853539222D553},
+}
+
+@Article{Bondar1981,
+  author   = {Bondar, James V. and Milnes, Paul},
+  title    = {Amenability: A survey for statistical applications of hunt-stein and related conditions on groups},
+  journal  = {Zeitschrift f{\"u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},
+  year     = {1981},
+  volume   = {57},
+  number   = {1},
+  pages    = {103--128},
+  month    = {Mar},
+  issn     = {1432-2064},
+  abstract = {A number of conditions on groups have appeared in the literature of invariant statistical models in connection with minimaxity, approximation of invariant Bayes priors by proper priors, the relationship between Bayesian and classical inference, ergodic theorems, and other matters. In the last decade, rapid development has occurred in the field and many of these conditions are now known to be equivalent. We survey the subject, make the equivalences explicit, and list some groups of statistical interest which do, and also some which do not, have these properties. In particular, it is shown that the existence of the asymptotically invariant sequence of probabilities in the hypothesis of the Hunt-Stein theorem is equivalent to amenability, a condition that has been much studied by functional analysts.},
+  day      = {01},
+  doi      = {10.1007/BF00533716},
+  file     = {Bondar1981.pdf:Bondar1981.pdf:PDF},
+  groups   = {minimax},
+  url      = {https://doi.org/10.1007/BF00533716},
+}
+
+@Book{DAVIDSON2001317,
+  title     = {Handbook of the Geometry of Banach Spaces},
+  publisher = {North-Holland},
+  year      = {2001},
+  author    = {Kenneth R. Davidson and Stanislaw J. Szarek},
+  volume    = {1},
+  address   = {Amsterdam},
+  note      = {Handbook of the Geometry of Banach Spaces},
+  doi       = {http://dx.doi.org/10.1016/S1874-5849(01)80010-3},
+  file      = {DAVIDSON2001317.pdf:DAVIDSON2001317.pdf:PDF},
+  issn      = {1874-5849},
+  journal   = {Handbook of the Geometry of Banach Spaces},
+  pages     = {317 - 366},
+  url       = {http://www.sciencedirect.com/science/article/pii/S1874584901800103},
+}
+
+@Article{Moore1978Risk,
+  author  = {Moore, Terry and Brook, Richard J.},
+  title   = {Risk Estimate Optimality of James-Stein Estimators},
+  journal = {Annals of Statistics},
+  year    = {1978},
+  volume  = {6},
+  number  = {4},
+  pages   = {917-919},
+  file    = {Moore1978Risk.pdf:Moore1978Risk.pdf:PDF},
+}
+
+@Book{book:12217,
+  title     = {The Bayesian choice: from decision-theoretic foundations to computational implementation},
+  publisher = {Springer},
+  year      = {2007},
+  author    = {Christian P. Robert},
+  series    = {Springer texts in statistics},
+  edition   = {2nd ed},
+  isbn      = {0387715983,978-0-387-71598-8},
+  file      = {book\:12217.pdf:book\:12217.pdf:PDF},
+  groups    = {book},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=98759C838DDCAE7E84BD6109CEDBC5EA},
+}
+
+@Book{book:783701,
+  title     = {Fundamentals of Statistical Exponential Families: with Applications in Statistical Decision Theory},
+  publisher = {IMS},
+  year      = {1986},
+  author    = {Lawrence D. Brown},
+  series    = {IMS Lecture Notes - Monograph Series 9},
+  isbn      = {0940600102,9780940600102},
+  file      = {book\:783701.pdf:book\:783701.pdf:PDF},
+  groups    = {book},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=F5D2EE263EF9969CDC3F3CFDE79EB4C2},
+}
+
+@Article{Brown1971Admissible,
+  author  = {Brown, L. D.},
+  title   = {Admissible Estimators, Recurrent Diffusions, and Insoluble Boundary Value Problems},
+  journal = {Annals of Mathematical Statistics},
+  year    = {1971},
+  volume  = {42},
+  number  = {3},
+  pages   = {855-903},
+  file    = {Brown1971Admissible.pdf:Brown1971Admissible.pdf:PDF},
+  groups  = {minimax},
+}
+
+@Article{Takemura2005Distribution,
+  author  = {Takemura, Akimichi and Sheena, Yo},
+  title   = {Distribution of eigenvalues and eigenvectors of Wishart matrix when the population eigenvalues are infinitely dispersed and its application to minimax estimation of covariance matrix},
+  journal = {Journal of Multivariate Analysis},
+  year    = {2005},
+  volume  = {94},
+  number  = {2},
+  pages   = {271-299},
+  file    = {Takemura2005Distribution.pdf:Takemura2005Distribution.pdf:PDF},
+  groups  = {factor and PCA},
+}
+
+@Article{Mck1971On,
+  author  = {Mck, B.},
+  title   = {On the Admissible Estimators for Certain Fixed Sample Binomial Problems},
+  journal = {Annals of Mathematical Statistics},
+  year    = {1971},
+  volume  = {42},
+  number  = {5},
+  pages   = {1579-1587},
+  file    = {Mck1971On.pdf:Mck1971On.pdf:PDF},
+  groups  = {minimax},
+}
+
+@Book{book:1448903,
+  title     = {The Best Writing on Mathematics 2015},
+  publisher = {Princeton University Press},
+  year      = {2016},
+  author    = {Mircea Pitici (editor)},
+  isbn      = {0691169659, 9780691169651},
+  file      = {book\:1448903.pdf:book\:1448903.pdf:PDF},
+  groups    = {book},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=d38aaaec94c3c2583287b40c5fe803a0},
+}
+
+@Book{book:981704,
+  title     = {The Jackknife and Bootstrap},
+  publisher = {Springer-Verlag New York},
+  year      = {1995},
+  author    = {Jun Shao, Dongsheng Tu (auth.)},
+  series    = {Springer Series in Statistics},
+  edition   = {1},
+  isbn      = {978-1-4612-6903-8,978-1-4612-0795-5},
+  file      = {book\:981704.pdf:book\:981704.pdf:PDF},
+  groups    = {book},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=e0a60184f43148e27ba895b9b66aad88},
+}
+
+@Book{book:1244195,
+  title     = {Topics in Matrix Analysis},
+  publisher = {Cambridge University Press},
+  year      = {1991},
+  author    = {Roger A. Horn, Charles R. Johnson},
+  isbn      = {9780521305877,0-521-30587-X},
+  file      = {book\:1244195.djvu:book\:1244195.djvu:Djvu},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=299C7C5C2E287F85BC0A82FABF6CED57},
+}
+
+@Book{book:872578,
+  title     = {Matrix analysis},
+  publisher = {Springer},
+  year      = {1997},
+  author    = {Rajendra Bhatia},
+  series    = {Graduate texts in mathematics, 169},
+  isbn      = {0387948465,9780387948461},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=d06e48840dd8d3cfd6efbab0679bcfaf},
+}
+
+@Book{LADR,
+  title     = {Linear Algebra Done Right},
+  year      = {2015},
+  author    = {Sheldon Axler},
+  edition   = {3rd},
+  file      = {LADR.pdf:LADR.pdf:PDF},
+  owner     = {kfeng123},
+  timestamp = {2017.09.08},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
@@ -4999,14 +5631,15 @@
 1 StaticGroup:bayes\;0\;1\;\;\;\;;
 1 StaticGroup:beta regression\;0\;1\;\;\;\;;
 1 StaticGroup:book\;0\;1\;\;\;\;;
-1 StaticGroup:minimax\;0\;1\;\;\;\;;
 1 StaticGroup:CLT\;0\;1\;\;\;\;;
 1 StaticGroup:desparsify\;0\;1\;\;\;\;;
 1 StaticGroup:econometric\;0\;1\;\;\;\;;
 1 StaticGroup:empirical process\;0\;1\;\;\;\;;
 1 StaticGroup:ev\;0\;1\;\;\;\;;
 1 StaticGroup:factor and PCA\;0\;1\;\;\;\;;
+1 StaticGroup:functional data\;0\;1\;\;\;\;;
 1 StaticGroup:GWAS\;0\;1\;\;\;\;;
+1 StaticGroup:Information theory\;0\;1\;\;\;\;;
 1 StaticGroup:invariance, sufficient, completeness\;0\;1\;\;\;\;;
 1 StaticGroup:large deviation\;0\;1\;\;\;\;;
 1 StaticGroup:large sample theory\;0\;1\;\;\;\;;
@@ -5016,10 +5649,12 @@
 1 StaticGroup:machine learning\;0\;1\;\;\;\;;
 1 StaticGroup:MANOVA\;0\;1\;\;\;\;;
 1 StaticGroup:mean test\;0\;1\;\;\;\;;
+1 StaticGroup:minimax\;0\;1\;\;\;\;;
 1 StaticGroup:mixed model\;0\;1\;\;\;\;;
 1 StaticGroup:mixture\;0\;1\;\;\;\;;
 1 StaticGroup:model selection\;0\;1\;\;\;\;;
 1 StaticGroup:monotonic optimization\;0\;1\;\;\;\;;
+1 StaticGroup:Network\;0\;1\;\;\;\;;
 1 StaticGroup:randomization test\;0\;1\;\;\;\;;
 1 StaticGroup:regularized regression\;0\;1\;\;\;\;;
 1 StaticGroup:screening\;0\;1\;\;\;\;;
@@ -5029,7 +5664,6 @@
 1 StaticGroup:testing regression\;0\;1\;\;\;\;;
 1 StaticGroup:variance estimation\;0\;1\;\;\;\;;
 1 StaticGroup:variance test\;0\;1\;\;\;\;;
-1 StaticGroup:Network\;0\;1\;\;\;\;;
 }
 
 @Comment{jabref-meta: groupsversion:
