@@ -125,8 +125,8 @@
 @Article{Anderson1986Asymptotic,
   author  = {Anderson, T. W.},
   title   = {Asymptotic Theory for Principal Component Analysis},
-  journal = {Annals of Mathematical Statistics},
-  year    = {1986},
+  journal = {The Annals of Mathematical Statistics},
+  year    = {1963},
   volume  = {34},
   number  = {1},
   pages   = {122-148},
@@ -1265,13 +1265,14 @@
 }
 
 @Book{dudleyProbability,
-  title     = {Real Analysis And Probability},
-  year      = {2004},
-  author    = {R. M. Dudley},
-  file      = {dudleyProbability.pdf:dudleyProbability.pdf:PDF},
-  groups    = {book},
-  owner     = {kfeng123},
-  timestamp = {2016.10.13},
+  title         = {Real Analysis And Probability},
+  year          = {2004},
+  author        = {R. M. Dudley},
+  __markedentry = {[kfeng123:5]},
+  file          = {dudleyProbability.pdf:dudleyProbability.pdf:PDF},
+  groups        = {book},
+  owner         = {kfeng123},
+  timestamp     = {2016.10.13},
 }
 
 @InProceedings{Durot2006An,
