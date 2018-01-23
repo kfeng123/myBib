@@ -6423,6 +6423,7 @@
   month     = {04},
   doi       = {10.1214/aos/1176324524},
   fjournal  = {The Annals of Statistics},
+  groups    = {likelihood},
   publisher = {The Institute of Mathematical Statistics},
   url       = {https://doi.org/10.1214/aos/1176324524},
 }
