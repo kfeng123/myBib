@@ -36,16 +36,19 @@
   groups  = {testing regression},
 }
 
-@Article{Ahn2009Eigenvalue,
-  author  = {Ahn, Seung C. and Horenstein, Alex R.},
-  title   = {Eigenvalue Ratio Test for the Number of Factors},
-  journal = {Econometrica},
-  year    = {2009},
-  volume  = {81},
-  number  = {3},
-  pages   = {1203-1227},
-  file    = {Ahn2009Eigenvalue.pdf:Ahn2009Eigenvalue.pdf:PDF},
-  groups  = {factor and PCA},
+@Article{AhnEigenvalue,
+  author    = {SEUNG C. AHN AND ALEX R. H ORENSTEIN},
+  title     = {Eigenvalue Ratio Test for the Number of Factors},
+  journal   = {Econometrica},
+  year      = {2013},
+  volume    = {81},
+  number    = {3},
+  pages     = {1203--1227},
+  doi       = {10.3982/ecta8968},
+  file      = {:AhnEigenvalue.pdf:PDF},
+  groups    = {factor and PCA},
+  publisher = {The Econometric Society},
+  url       = {https://doi.org/10.3982/ecta8968},
 }
 
 @Article{Aitkin1991Posterior,
@@ -178,18 +181,6 @@
   file          = {bonnet2015heritability.pdf:bonnet2015heritability.pdf:PDF},
   groups        = {mixed model},
   publisher     = {Institute of Mathematical Statistics},
-}
-
-@Article{Aoshima_2018,
-  author        = {Makoto Aoshima and Kazuyoshi Yata},
-  title         = {Two-sample tests for high-dimension, strongly spiked eigenvalue models},
-  journal       = {Statistica Sinica},
-  year          = {2018},
-  __markedentry = {[kfeng123:5]},
-  doi           = {10.5705/ss.202016.0063},
-  file          = {Aoshima2016Two.pdf:Aoshima2016Two.pdf:PDF},
-  groups        = {mean test},
-  publisher     = {Institute of Statistical Science},
 }
 
 @Article{Arcones2005Bahadur,
@@ -1433,13 +1424,20 @@
 }
 
 @Article{Fan2015An,
-  author        = {Fan, Jianqing and Liao, Yuan and Liu, Han},
-  title         = {An Overview on the Estimation of Large Covariance and Precision Matrices},
-  journal       = {Eprint Arxiv},
-  year          = {2015},
+  author        = {Jianqing Fan and Yuan Liao and Han Liu},
+  title         = {An overview of the estimation of large covariance and precision matrices},
+  journal       = {The Econometrics Journal},
+  year          = {2016},
+  volume        = {19},
+  number        = {1},
+  pages         = {C1--C32},
+  month         = {feb},
   __markedentry = {[kfeng123:1]},
-  file          = {Fan2015An.pdf:Fan2015An.pdf:PDF},
+  doi           = {10.1111/ectj.12061},
+  file          = {:Fan2015An.pdf:PDF},
   groups        = {variance estimation},
+  publisher     = {Wiley-Blackwell},
+  url           = {https://doi.org/10.1111/ectj.12061},
 }
 
 @Article{Fan2014PROJECTED,
@@ -3513,7 +3511,7 @@
   number  = {6},
   pages   = {2850--2885},
   file    = {Rao2010Statistical.pdf:Rao2010Statistical.pdf:PDF},
-  groups  = {mean test},
+  groups  = {mean test, factor and PCA},
 }
 
 @Article{Reid2013A,
@@ -3763,11 +3761,15 @@
   groups        = {mean test},
 }
 
-@Article{SerflingApproximation,
-  author = {Serfling, Robert J},
-  title  = {Approximation theorems of mathematical statistics},
-  file   = {SerflingApproximation.pdf:SerflingApproximation.pdf:PDF},
-  groups = {book},
+@Article{Jin20161,
+  author    = {Jiashun Jin and Zheng Tracy Ke},
+  title     = {Rare and weak effects in large-scale inference: methods and phase diagrams},
+  journal   = {Statistica Sinica},
+  year      = {2016},
+  doi       = {10.5705/ss.2014.138},
+  file      = {:Jin20161.pdf:PDF},
+  publisher = {Institute of Statistical Science},
+  url       = {https://doi.org/10.5705/ss.2014.138},
 }
 
 @Article{Shaffer1991The,
@@ -5735,17 +5737,6 @@
   groups  = {factor and PCA},
 }
 
-@Article{Lan2014,
-  author  = {Lan, Wei and Wang, Hansheng and Tsai, Chih Ling},
-  title   = {Testing covariates in high-dimensional regression},
-  journal = {Annals of the Institute of Statistical Mathematics},
-  year    = {2014},
-  volume  = {66},
-  number  = {2},
-  pages   = {279-301},
-  groups  = {testing regression},
-}
-
 @Article{Xia2016Hypothesis,
   author  = {Xia, Yin and Li, Lexin},
   title   = {Hypothesis testing of matrix graph model with application to brain connectivity analysis},
@@ -6524,8 +6515,293 @@
   pages    = {602 - 612},
   issn     = {0304-4076},
   doi      = {https://doi.org/10.1016/j.jeconom.2013.08.035},
+  groups   = {bayes},
   keywords = {Bayes factor, Decision theory, EM algorithm, Deviance, Markov chain Monte Carlo, Latent variable models},
   url      = {http://www.sciencedirect.com/science/article/pii/S0304407613001991},
+}
+
+@Book{book:1505925,
+  title     = {Introduction to classical real analysis},
+  publisher = {Wadsworth International Group},
+  year      = {1981},
+  author    = {Stromberg, Karl Robert},
+  isbn      = {9780534980122,0-534-98012-0},
+  file      = {:book\:1505925.djvu:Djvu},
+  groups    = {book},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=4d6de543431b447c17e0ce7fbd085e52},
+}
+
+@Book{troppMatrix,
+  title     = {An Introduction to Matrix Concentration Inequalities},
+  year      = {2014},
+  author    = {Joel A. Tropp},
+  file      = {:troppMatrix.pdf:PDF},
+  groups    = {book},
+  owner     = {kfeng123},
+  timestamp = {2018.03.01},
+}
+
+@Article{efron2008,
+  author    = {Efron, Bradley},
+  title     = {Simultaneous inference: When should hypothesis testing problems be combined?},
+  journal   = {Ann. Appl. Stat.},
+  year      = {2008},
+  volume    = {2},
+  number    = {1},
+  pages     = {197--223},
+  month     = {03},
+  doi       = {10.1214/07-AOAS141},
+  file      = {:efron2008.pdf:PDF},
+  fjournal  = {The Annals of Applied Statistics},
+  groups    = {large scale inference},
+  publisher = {The Institute of Mathematical Statistics},
+  url       = {https://doi.org/10.1214/07-AOAS141},
+}
+
+@Article{RSSB:RSSB532,
+  author    = {Yuan, Ming and Lin, Yi},
+  title     = {Model selection and estimation in regression with grouped variables},
+  journal   = {Journal of the Royal Statistical Society: Series B (Statistical Methodology)},
+  year      = {2006},
+  volume    = {68},
+  number    = {1},
+  pages     = {49--67},
+  issn      = {1467-9868},
+  doi       = {10.1111/j.1467-9868.2005.00532.x},
+  file      = {:RSSB\:RSSB532.pdf:PDF},
+  groups    = {regularized regression},
+  keywords  = {Analysis of variance, Lasso, Least angle regression, Non-negative garrotte, Piecewise linear solution path},
+  publisher = {Blackwell Publishing Ltd},
+  url       = {http://dx.doi.org/10.1111/j.1467-9868.2005.00532.x},
+}
+
+@Article{Cai2014,
+  author    = {Tony T. Cai and Yihong Wu},
+  title     = {Optimal Detection of Sparse Mixtures Against a Given Null Distribution},
+  journal   = {{IEEE} Transactions on Information Theory},
+  year      = {2014},
+  volume    = {60},
+  number    = {4},
+  pages     = {2217--2232},
+  month     = {apr},
+  doi       = {10.1109/tit.2014.2304295},
+  file      = {:Cai2014.pdf:PDF},
+  groups    = {large scale inference},
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+  url       = {https://doi.org/10.1109/tit.2014.2304295},
+}
+
+@Article{RSSB:RSSB12171,
+  author   = {Tony Cai, T. and Sun, Wenguang},
+  title    = {Optimal screening and discovery of sparse signals with applications to multistage high throughput studies},
+  journal  = {Journal of the Royal Statistical Society: Series B (Statistical Methodology)},
+  year     = {2017},
+  volume   = {79},
+  number   = {1},
+  pages    = {197--223},
+  issn     = {1467-9868},
+  doi      = {10.1111/rssb.12171},
+  file     = {:RSSB\:RSSB12171.pdf:PDF},
+  groups   = {large scale inference},
+  keywords = {Data screening, Discovery boundary, False discovery rate, False negative rate, High throughput screening, Multistage adaptive testing, Phase transition, Screening boundary},
+  url      = {http://dx.doi.org/10.1111/rssb.12171},
+}
+
+@Article{tonySimultanious,
+  author    = {T. Tony Cai and Wenguang Sun},
+  title     = {Simultaneous Testing of Grouped Hypotheses: Finding Needles in Multiple Haystacks},
+  journal   = {Journal of the American Statistical Association},
+  year      = {2009},
+  volume    = {104},
+  number    = {488},
+  pages     = {1467-1481},
+  doi       = {10.1198/jasa.2009.tm08415},
+  eprint    = {https://doi.org/10.1198/jasa.2009.tm08415},
+  file      = {:tonySimultanious.pdf:PDF},
+  groups    = {large scale inference},
+  publisher = {Taylor \& Francis},
+  url       = { 
+        https://doi.org/10.1198/jasa.2009.tm08415
+    
+},
+}
+
+@Article{104355,
+  author  = {T. Tony Cai and Wenguang Sun},
+  title   = {Large-Scale Global and Simultaneous Inference: Estimation and Testing in Very High Dimensions},
+  journal = {Annual Review of Economics},
+  year    = {2017},
+  volume  = {9},
+  number  = {1},
+  pages   = {411-439},
+  doi     = {10.1146/annurev-economics-063016-104355},
+}
+
+@Article{wen2012,
+  author    = {Wenguang Sun and Alexander C. McLain},
+  title     = {Multiple Testing of Composite Null Hypotheses in Heteroscedastic Models},
+  journal   = {Journal of the American Statistical Association},
+  year      = {2012},
+  volume    = {107},
+  number    = {498},
+  pages     = {673-687},
+  doi       = {10.1080/01621459.2012.664505},
+  eprint    = {https://doi.org/10.1080/01621459.2012.664505},
+  file      = {:wen2012.pdf:PDF},
+  publisher = {Taylor \& Francis},
+  url       = { 
+        https://doi.org/10.1080/01621459.2012.664505
+    
+},
+}
+
+@Book{book:8410,
+  title     = {General topology},
+  publisher = {Springer-Verlag},
+  year      = {1975},
+  author    = {John L. Kelley},
+  series    = {Graduate texts in mathematics 27},
+  isbn      = {9780387901251,0387901256},
+  file      = {:book\:8410.djvu:Djvu},
+  groups    = {book},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=4DC0B99973FFE29FF92B1CE770C266E4},
+}
+
+@Book{book:783389,
+  title     = {Topology for Analysis},
+  publisher = {Ginn and Company},
+  year      = {1970},
+  author    = {Albert Wilansky},
+  isbn      = {0486469034,9780486469034,9780898743432},
+  file      = {:book\:783389.djvu:Djvu},
+  groups    = {book},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=F4985FC70DD9570D534EFEE7EA957445},
+}
+
+@Book{book:438099,
+  title     = {A Course on Borel Sets},
+  publisher = {Springer},
+  year      = {1998},
+  author    = {S. M. Srivastava},
+  series    = {Graduate Texts in Mathematics},
+  edition   = {1},
+  isbn      = {0387984127,9780387984124,9780387227672},
+  file      = {:book\:438099.djvu:Djvu},
+  groups    = {book},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=597EE784DD357B4067C61A0C3E284FB6},
+}
+
+@Article{donoho50years,
+  author    = {David Donoho},
+  title     = {50 Years of Data Science},
+  journal   = {Journal of Computational and Graphical Statistics},
+  year      = {2017},
+  volume    = {26},
+  number    = {4},
+  pages     = {745-766},
+  doi       = {10.1080/10618600.2017.1384734},
+  eprint    = {https://doi.org/10.1080/10618600.2017.1384734},
+  file      = {:donoho50years.pdf:PDF},
+  publisher = {Taylor \& Francis},
+  url       = { 
+        https://doi.org/10.1080/10618600.2017.1384734
+    
+},
+}
+
+@Article{BODNAR2016125,
+  author   = {Taras Bodnar and Markus Reiß},
+  title    = {Exact and asymptotic tests on a factor model in low and large dimensions with applications},
+  journal  = {Journal of Multivariate Analysis},
+  year     = {2016},
+  volume   = {150},
+  pages    = {125 - 151},
+  issn     = {0047-259X},
+  doi      = {https://doi.org/10.1016/j.jmva.2016.05.011},
+  keywords = {Factor model, Exact test, Asymptotic test, High-dimensional test, High-dimensional asymptotics, Precision matrix, Inverse Wishart distribution, Random matrix theory},
+  url      = {http://www.sciencedirect.com/science/article/pii/S0047259X16300392},
+}
+
+@Article{Aoshima2018,
+  author    = {Makoto Aoshima and Kazuyoshi Yata},
+  title     = {Two-sample tests for high-dimension, strongly spiked eigenvalue models},
+  journal   = {Statistica Sinica},
+  year      = {2018},
+  volume    = {28},
+  number    = {1},
+  pages     = {43-62},
+  doi       = {10.5705/ss.202016.0063},
+  groups    = {mean test},
+  publisher = {Institute of Statistical Science},
+  url       = {https://doi.org/10.5705/ss.202016.0063},
+}
+
+@Article{Roger2017,
+  author    = {Roger S. Zoh and Abhra Sarkar and Raymond J. Carroll and Bani K. Mallick},
+  title     = {A Powerful Bayesian Test for Equality of Means in High Dimensions},
+  journal   = {Journal of the American Statistical Association},
+  year      = {2017},
+  volume    = {0},
+  number    = {ja},
+  pages     = {0-0},
+  doi       = {10.1080/01621459.2017.1371024},
+  eprint    = {https://doi.org/10.1080/01621459.2017.1371024},
+  file      = {:Roger2017.pdf:PDF},
+  groups    = {mean test},
+  publisher = {Taylor \& Francis},
+  url       = { 
+        https://doi.org/10.1080/01621459.2017.1371024
+    
+},
+}
+
+@Article{Xu2016,
+  author    = {Gongjun Xu and Lifeng Lin and Peng Wei and Wei Pan},
+  title     = {An adaptive two-sample test for high-dimensional means},
+  journal   = {Biometrika},
+  year      = {2016},
+  volume    = {103},
+  number    = {3},
+  pages     = {609--624},
+  month     = {sep},
+  doi       = {10.1093/biomet/asw029},
+  file      = {:Xu2016.pdf:PDF},
+  groups    = {mean test},
+  publisher = {Oxford University Press ({OUP})},
+  url       = {https://doi.org/10.1093/biomet/asw029},
+}
+
+@Article{Seokho2015,
+  author    = {Seokho Lee and Johan Lim and Insuk Sohn and Sin-Ho Jung and Cheol-Keun Park},
+  title     = {Two sample test for high-dimensional partially paired data},
+  journal   = {Journal of Applied Statistics},
+  year      = {2015},
+  volume    = {42},
+  number    = {9},
+  pages     = {1946-1961},
+  doi       = {10.1080/02664763.2015.1014890},
+  eprint    = {https://doi.org/10.1080/02664763.2015.1014890},
+  file      = {:Seokho2015.pdf:PDF},
+  groups    = {mean test},
+  publisher = {Taylor \& Francis},
+  url       = { 
+        https://doi.org/10.1080/02664763.2015.1014890
+    
+},
+}
+
+@Article{FANG20181,
+  author   = {Kuangnan Fang and Xinyan Fan and Qingzhao Zhang and Shuangge Ma},
+  title    = {Integrative sparse principal component analysis},
+  journal  = {Journal of Multivariate Analysis},
+  year     = {2018},
+  volume   = {166},
+  pages    = {1 - 16},
+  issn     = {0047-259X},
+  doi      = {https://doi.org/10.1016/j.jmva.2018.02.002},
+  file     = {:FANG20181.pdf:PDF},
+  keywords = {62H25, Contrasted penalization, Integrative analysis, Sparse PCA},
+  url      = {http://www.sciencedirect.com/science/article/pii/S0047259X17305262},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
