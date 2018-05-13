@@ -3907,7 +3907,7 @@
 
 @Article{Spokoiny2013Bernstein,
   author  = {Spokoiny, Vladimir},
-  title   = {Bernstein - von Mises Theorem for growing parameter dimension},
+  title   = {Bernstein-von Mises Theorem for growing parameter dimension},
   journal = {Statistics},
   year    = {2013},
   file    = {Spokoiny2013Bernstein.pdf:Spokoiny2013Bernstein.pdf:PDF},
@@ -4134,7 +4134,7 @@
 }
 
 @Article{Tony2013,
-  author        = {Cai, Tony and Liu, Weidong and Xia, Yin and Fryzlewicz, P. and Keilegom, I. Van},
+  author        = {Cai, Tony and Liu, Weidong and Xia, Yin},
   title         = {Two-sample test of high dimensional means under dependence},
   journal       = {Journal of the Royal Statistical Society},
   year          = {2013},
@@ -4167,13 +4167,17 @@
 }
 
 @Book{van2000asymptotic,
-  title     = {Asymptotic statistics},
-  publisher = {Cambridge university press},
-  year      = {2000},
-  author    = {A.W. Van der Vaart},
-  file      = {van2000asymptotic.pdf:van2000asymptotic.pdf:PDF},
-  groups    = {book},
-  isnb      = {9780521784504},
+  title      = {Asymptotic Statistics},
+  publisher  = {Cambridge University Press},
+  year       = {1998},
+  author     = {Vaart, A. W. van der},
+  editor     = {1},
+  series     = {Cambridge Series in Statistical and Probabilistic Mathematics},
+  collection = {Cambridge Series in Statistical and Probabilistic Mathematics},
+  doi        = {10.1017/CBO9780511802256},
+  file       = {:van2000asymptotic.pdf:PDF},
+  groups     = {book},
+  place      = {Cambridge},
 }
 
 @Book{Vaart1996,
@@ -6459,6 +6463,7 @@
   volume  = {78},
   number  = {5},
   pages   = {1103--1130},
+  file    = {:walker2016general.pdf:PDF},
   groups  = {bayes},
 }
 
@@ -7655,28 +7660,6 @@
   primaryclass  = {math.ST},
 }
 
-@Book{Vershynin2018,
-  title     = {High-Dimensional Probability: An Introduction with Applications in Data Science},
-  year      = {2018},
-  author    = {Roman Vershynin},
-  file      = {:Roman2018.pdf:PDF},
-  groups    = {book},
-  owner     = {kfeng123},
-  timestamp = {2018.04.14},
-}
-
-@Article{Feng2018a,
-  author    = {Long Feng and Changliang Zou and Zhaojun Wang and Lixing Zhu},
-  title     = {Composite $T^2$ test for high-dimensional data},
-  journal   = {Statistica Sinica},
-  year      = {2018},
-  doi       = {10.5705/ss.202015.0199},
-  file      = {Feng2018.pdf:Feng2018.pdf:PDF},
-  groups    = {mean test},
-  publisher = {Institute of Statistical Science},
-  url       = {https://doi.org/10.5705/ss.202015.0199},
-}
-
 @Article{Fang2018,
   author   = {Kuangnan Fang and Xinyan Fan and Qingzhao Zhang and Shuangge Ma},
   title    = {Integrative sparse principal component analysis},
@@ -7721,21 +7704,6 @@
   url       = {https://doi.org/10.1214/17-AOS1563},
 }
 
-@Article{Bai2018a,
-  author   = {Ray Bai and Malay Ghosh},
-  title    = {High-dimensional multivariate posterior consistency under global-local shrinkage priors},
-  journal  = {Journal of Multivariate Analysis},
-  year     = {2018},
-  pages    = {-},
-  issn     = {0047-259X},
-  abstract = {Abstract We consider sparse Bayesian estimation in the classical multivariate linear regression model with p regressors and q response variables. In univariate Bayesian linear regression with a single response y , shrinkage priors which can be expressed as scale mixtures of normalnormal densities are popular for obtaining sparse estimates of the coefficients. In this paper, we extend the use of these priors to the multivariate case to estimate a p × q coefficients matrix B . We derive sufficient conditions for posterior consistency under the Bayesian multivariate linear regression framework and prove that our method achieves posterior consistency even when p &gt; n andeven when p grows at nearly exponential rate with the sample size. We derive an efficient Gibbs sampling algorithm and provide the implementation in a comprehensive R package called MBSP. Finally, we demonstrate through simulations and data analysis that our model has excellent finite sample performance. },
-  doi      = {https://doi.org/10.1016/j.jmva.2018.04.010},
-  file     = {:Bai2018.pdf:PDF},
-  groups   = {bayes},
-  keywords = {Heavy tail, High-dimensional data, Posterior consistency, Shrinkage estimation, Sparsity, Variable selection},
-  url      = {https://www.sciencedirect.com/science/article/pii/S0047259X17306905},
-}
-
 @Article{yunyang2017,
   author        = {{Yang}, Y. and {Pati}, D. and {Bhattacharya}, A.},
   title         = {{$\alpha$-Variational Inference with Statistical Guarantees}},
@@ -7750,6 +7718,106 @@
   groups        = {bayes},
   keywords      = {Mathematics - Statistics Theory, Statistics - Computation, Statistics - Methodology, Statistics - Machine Learning},
   primaryclass  = {math.ST},
+}
+
+@Article{Alquier2017,
+  author        = {{Alquier}, P. and {Ridgway}, J.},
+  title         = {{Concentration of tempered posteriors and of their variational approximations}},
+  journal       = {ArXiv e-prints},
+  year          = {2017},
+  month         = jun,
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {http://adsabs.harvard.edu/abs/2017arXiv170609293A},
+  archiveprefix = {arXiv},
+  eprint        = {1706.09293},
+  file          = {:Alquier2017.pdf:PDF},
+  groups        = {bayes},
+  keywords      = {Mathematics - Statistics Theory, Computer Science - Learning},
+  primaryclass  = {math.ST},
+}
+
+@Article{judith2016,
+  author   = {Judith Rousseau},
+  title    = {On the Frequentist Properties of Bayesian Nonparametric Methods},
+  journal  = {Annual Review of Statistics and Its Application},
+  year     = {2016},
+  volume   = {3},
+  number   = {1},
+  pages    = {211-231},
+  abstract = { In this paper, I review the main results on the asymptotic properties of the posterior distribution in nonparametric or high-dimensional models. In particular, I explain how posterior concentration rates can be derived and what we learn from such analysis in terms of the impact of the prior distribution on high-dimensional models. These results concern fully Bayes and empirical Bayes procedures. I also describe some of the results that have been obtained recently in semiparametric models, focusing mainly on the Bernstein–von Mises property. Although these results are theoretical in nature, they shed light on some subtle behaviors of the prior models and sharpen our understanding of the family of functionals that can be well estimated for a given prior model. },
+  doi      = {10.1146/annurev-statistics-041715-033523},
+  eprint   = {https://doi.org/10.1146/annurev-statistics-041715-033523},
+  file     = {:judith2016.pdf:PDF},
+  groups   = {bayes},
+  url      = { 
+        https://doi.org/10.1146/annurev-statistics-041715-033523
+    
+},
+}
+
+@Article{Bha2016,
+  author        = {{Bhattacharya}, A. and {Pati}, D. and {Yang}, Y.},
+  title         = {{Bayesian fractional posteriors}},
+  journal       = {ArXiv e-prints},
+  year          = {2016},
+  month         = nov,
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {http://adsabs.harvard.edu/abs/2016arXiv161101125B},
+  archiveprefix = {arXiv},
+  eprint        = {1611.01125},
+  file          = {:Bha2016.pdf:PDF},
+  groups        = {bayes},
+  keywords      = {Mathematics - Statistics Theory},
+  primaryclass  = {math.ST},
+}
+
+@Article{pati2017,
+  author        = {{Pati}, D. and {Bhattacharya}, A. and {Yang}, Y.},
+  title         = {{On Statistical Optimality of Variational Bayes}},
+  journal       = {ArXiv e-prints},
+  year          = {2017},
+  month         = dec,
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {http://adsabs.harvard.edu/abs/2017arXiv171208983P},
+  archiveprefix = {arXiv},
+  eprint        = {1712.08983},
+  file          = {:pati2017.pdf:PDF},
+  groups        = {bayes},
+  keywords      = {Mathematics - Statistics Theory, Statistics - Machine Learning},
+  primaryclass  = {math.ST},
+}
+
+@Article{fan2018,
+  author        = {{Fan}, J. and {Sun}, Q. and {Zhou}, W.-X. and {Zhu}, Z.},
+  title         = {{Principal component analysis for big data}},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = jan,
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {http://adsabs.harvard.edu/abs/2018arXiv180101602F},
+  archiveprefix = {arXiv},
+  eprint        = {1801.01602},
+  file          = {:fan2018.pdf:PDF},
+  groups        = {factor and PCA},
+  keywords      = {Statistics - Methodology},
+  primaryclass  = {stat.ME},
+}
+
+@Article{kar10563,
+  author        = {Stephen G. Walker and Nils Lid Hjort},
+  title         = {On Bayesian consistency},
+  journal       = {Journal of the Royal Statistical Society: Series B (Statistical Methodology)},
+  year          = {2001},
+  volume        = {63},
+  number        = {4},
+  pages         = {811--821},
+  month         = {April},
+  __markedentry = {[kfeng123:1]},
+  file          = {:kar10563.pdf:PDF},
+  groups        = {bayes},
+  keywords      = {Asymptotics ? Bayesian sieve ? Bayes nonparametrics ? Consistency},
+  publisher     = {The Royal Statistical Society and Blackwell Publishing Ltd},
+  url           = {http://kar.kent.ac.uk/10563/},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
