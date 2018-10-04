@@ -155,7 +155,7 @@
   publisher = {Chapman and Hall/CRC},
   year      = {2013},
   author    = {Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, Donald B. Rubin},
-  groups    = {book},
+  groups    = {books},
   owner     = {kfeng123},
   timestamp = {2016.10.27},
 }
@@ -226,7 +226,7 @@
   series    = {Probability and Mathematical Statistics},
   isbn      = {1483175618,9781483175614},
   file      = {book\:1437995.pdf:book\:1437995.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=c447af55961748e17e8e54d7d96370eb},
 }
 
@@ -341,7 +341,7 @@
   author    = {Bai, Zhidong and Silverstein, Jack W},
   volume    = {20},
   file      = {:bai2010spectral.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
 }
 
 @Article{Bai2012On,
@@ -423,7 +423,7 @@
   author        = {Douglas M. Bates},
   __markedentry = {[kfeng123:]},
   file          = {lme4Book.pdf:lme4Book.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
   owner         = {kfeng123},
   timestamp     = {2016.05.10},
 }
@@ -520,7 +520,7 @@
   year      = {2011},
   author    = {Bhlmann, Peter and Sara, Van De Geer,},
   file      = {Bhlmann2011Statistics.pdf:Bhlmann2011Statistics.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   pages     = {247-249},
 }
 
@@ -634,7 +634,7 @@
   number        = {11},
   __markedentry = {[kfeng123:4]},
   file          = {Boyd2006Convex.pdf:Boyd2006Convex.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
   journal       = {IEEE Transactions on Automatic Control},
   pages         = {1859-1859},
   url           = {http://web.stanford.edu/~boyd/cvxbook/},
@@ -661,7 +661,7 @@
   edition   = {2},
   isbn      = {1466560991,9781466560994},
   file      = {book\:1201277.pdf:book\:1201277.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=DC37B85E2953E1C8D263F734C495105D},
 }
 
@@ -770,7 +770,7 @@
   year   = {2008},
   author = {Cai, Tony and Shen, Xiaotong},
   file   = {Cai2008High.pdf:Cai2008High.pdf:PDF},
-  groups = {book},
+  groups = {books},
   pages  = {320},
 }
 
@@ -989,7 +989,7 @@
   title  = {Bayes factor consistency},
   year   = {2016},
   file   = {Chib2016Bayes.pdf:Chib2016Bayes.pdf:PDF},
-  groups = {bayes},
+  groups = {bayes, Bayes factor},
 }
 
 @Article{di2011likelihood,
@@ -1056,7 +1056,7 @@
   edition   = {2},
   isbn      = {978-1-4614-6955-1,978-1-4614-6956-8},
   file      = {book\:992991.pdf:book\:992991.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=2F37E55C5A9B4F14C5E64697DCF71306},
 }
 
@@ -1099,7 +1099,7 @@
   isbn          = {0387759700,9780387759708},
   __markedentry = {[kfeng123:4]},
   file          = {book\:336898.pdf:book\:336898.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
   url           = {http://gen.lib.rus.ec/book/index.php?md5=A654AEFD453562DE220808A898DCF4CB},
 }
 
@@ -1244,9 +1244,9 @@
   title         = {Real Analysis And Probability},
   year          = {2004},
   author        = {R. M. Dudley},
-  __markedentry = {[kfeng123:5]},
+  __markedentry = {[kfeng123:1]},
   file          = {dudleyProbability.pdf:dudleyProbability.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
   owner         = {kfeng123},
   timestamp     = {2016.10.13},
 }
@@ -1269,7 +1269,7 @@
   pages         = {586},
   __markedentry = {[kfeng123:5]},
   file          = {durrett2010probability.pdf:durrett2010probability.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
 }
 
 @Book{Lehmann,
@@ -1279,7 +1279,7 @@
   author    = {E. L. Lehmann, Joseph P. Romano},
   doi       = {10.1007/0-387-27605-X},
   file      = {Lehmann.pdf:Lehmann.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
 }
 
 @Article{Eaton1983Multivariate,
@@ -1289,7 +1289,7 @@
   volume = {80},
   number = {392},
   pages  = {72},
-  groups = {book},
+  groups = {books},
 }
 
 @Book{book:1378391,
@@ -1301,7 +1301,7 @@
   edition   = {4th ed},
   isbn      = {978-1-4200-1181-4,1420011812},
   file      = {book\:1378391.pdf:book\:1378391.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=D5BC445D2386E0FB2E67F097BBEB72F2},
 }
 
@@ -1331,7 +1331,7 @@
   journal = {Cambridge University Press Cambridge},
   year    = {2010},
   file    = {Efron2010Large.pdf:Efron2010Large.pdf:PDF},
-  groups  = {book},
+  groups  = {books},
 }
 
 @Article{efron1977stein's,
@@ -1489,7 +1489,7 @@
   author    = {Fan, Jianqing and Ritov, Ya'acov and Wu, CF Jeff},
   volume    = {13},
   file      = {fan2012selected.pdf:fan2012selected.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
 }
 
 @Article{wang2017As,
@@ -1728,7 +1728,7 @@
   author = {Geert Verbeke,Geert Molenberghs},
   title  = {Linear Mixed Models for Longitudinal Data},
   year   = {2000},
-  groups = {book},
+  groups = {books},
 }
 
 @Article{Gehrke2014Fifty,
@@ -1750,7 +1750,7 @@
   author    = {Golub, Gene H. and Van Loan, Charles F.},
   edition   = {Fourth},
   file      = {matrixComputations.pdf:matrixComputations.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   owner     = {kfeng123},
   timestamp = {2017.04.20},
 }
@@ -1787,7 +1787,7 @@
   author    = {Giraud, Christophe},
   volume    = {138},
   file      = {giraud2014introduction.pdf:giraud2014introduction.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
 }
 
 @Article{giraud2010low,
@@ -1821,7 +1821,7 @@
   volume = {25},
   number = {18},
   file   = {Phillip.pdf:Phillip.pdf:PDF},
-  groups = {book},
+  groups = {books},
   pages  = {3224--3225},
 }
 
@@ -1858,7 +1858,7 @@
   year      = {2015},
   author    = {Guido W. Imbens, Donald B. Rubin},
   file      = {causalInference.pdf:causalInference.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   owner     = {kfeng123},
   timestamp = {2017.01.09},
 }
@@ -1927,7 +1927,7 @@
   year      = {2011},
   author    = {william H. greene},
   file      = {econometric.pdf:econometric.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   owner     = {kfeng123},
   timestamp = {2016.11.09},
 }
@@ -1951,7 +1951,7 @@
   volume  = {88},
   number  = {421},
   file    = {Hall1993The.pdf:Hall1993The.pdf:PDF},
-  groups  = {book},
+  groups  = {books},
 }
 
 @Article{Hall2005Geo,
@@ -1990,7 +1990,7 @@
   year    = {1980},
   pages   = {301–308},
   file    = {Heyde1980Index.pdf:Heyde1980Index.pdf:PDF},
-  groups  = {book},
+  groups  = {books},
 }
 
 @Article{hopfner2014asymptotic,
@@ -1998,7 +1998,7 @@
   title  = {Asymptotic statistics : with a view to stochastic processes},
   year   = {2014},
   file   = {hopfner2014asymptotic.pdf:hopfner2014asymptotic.pdf:PDF},
-  groups = {book},
+  groups = {books},
 }
 
 @Book{Horn1985Matrix,
@@ -2011,7 +2011,7 @@
   isbn          = {9780521548236},
   __markedentry = {[kfeng123:5]},
   file          = {Horn1985Matrix.pdf:Horn1985Matrix.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
 }
 
 @Article{Hu2014On,
@@ -2091,7 +2091,7 @@
   author        = {Izenman, Alan J.},
   __markedentry = {[kfeng123:5]},
   file          = {Izenman2008Modern.pdf:Izenman2008Modern.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
   pages         = {996},
 }
 
@@ -2162,7 +2162,7 @@
   year      = {2010},
   author    = {Jiang, Jiming},
   file      = {Jiang2010Large.pdf:Jiang2010Large.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   pages     = {xviii+609},
 }
 
@@ -2176,7 +2176,7 @@
   isbn          = {0387479414,9780387479415,9780387479460},
   __markedentry = {[kfeng123:5]},
   file          = {book\:478898.pdf:book\:478898.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
   url           = {http://gen.lib.rus.ec/book/index.php?md5=D0F191FB985EAC5B712E4AF3F883F66C},
 }
 
@@ -2585,7 +2585,7 @@
   number  = {1},
   pages   = {354-381},
   file    = {Kleijn2012The.pdf:Kleijn2012The.pdf:PDF},
-  groups  = {bayes},
+  groups  = {bayes, Bernstain-von Mises},
 }
 
 @Article{Konietschke2014Bootstrapping,
@@ -2605,7 +2605,7 @@
   title  = {Introduction to empirical processes and semiparametric inference},
   year   = {2008},
   file   = {kosorok2008introduction.pdf:kosorok2008introduction.pdf:PDF},
-  groups = {book},
+  groups = {books},
 }
 
 @Article{krzciuk2014some,
@@ -2712,7 +2712,7 @@
   year          = {2008},
   __markedentry = {[kfeng123:]},
   file          = {Lax2008Linear.pdf:Lax2008Linear.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
 }
 
 @Article{lecam1970assumptions,
@@ -2959,7 +2959,7 @@
   edition   = {2},
   isbn      = {978-1-4612-7030-0,978-1-4612-1166-2},
   file      = {book\:981865.pdf:book\:981865.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=5d0d8711993bb1bcf43c098084d434a2},
 }
 
@@ -3021,7 +3021,7 @@
   series    = {Chapman \& Hall/CRC Biostatistics Series},
   isbn      = {978-1-4822-2650-8,1482226502,978-1-4822-2651-5},
   file      = {book\:1197656.pdf:book\:1197656.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=9375da8399d650b4c31c027a31204301},
 }
 
@@ -3031,7 +3031,7 @@
   year      = {1997},
   author    = {Marsden, Jerrold E. and Ratiu, Tudor S.},
   file      = {Marsden1997Introduction.pdf:Marsden1997Introduction.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   pages     = {558},
 }
 
@@ -3042,7 +3042,7 @@
   volume = {76},
   number = {374},
   file   = {Marshall1981Inequalities.pdf:Marshall1981Inequalities.pdf:PDF},
-  groups = {book},
+  groups = {books},
 }
 
 @Article{delattre2014a,
@@ -3092,7 +3092,7 @@
   series    = {Monographs on Statistics and Applied Probability},
   isbn      = {978-0-412-39860-5,978-1-4899-3306-5},
   file      = {book\:1130025.pdf:book\:1130025.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=675d2424b7a94d5cad50d4790f4d11a3},
 }
 
@@ -3114,7 +3114,7 @@
   year    = {1998},
   pages   = {224},
   file    = {Mikosch1998Elementary.pdf:Mikosch1998Elementary.pdf:PDF},
-  groups  = {book},
+  groups  = {books},
 }
 
 @Article{miller1974jackknife,
@@ -3207,7 +3207,7 @@
   year    = {1989},
   author  = {P. McCullagh, John A. Nelder},
   file    = {Edition1989Generalized.PDF:Edition1989Generalized.PDF:PDF},
-  groups  = {book},
+  groups  = {books},
   journal = {Chapman \& Hall},
 }
 
@@ -3229,7 +3229,7 @@
   volume  = {10},
   number  = {3},
   file    = {Panov2015Finite.pdf:Panov2015Finite.pdf:PDF},
-  groups  = {bayes},
+  groups  = {bayes, Bernstain-von Mises},
 }
 
 @Article{Park2013A,
@@ -3252,7 +3252,7 @@
   volume  = {37},
   number  = {156},
   file    = {parlett1998the.pdf:parlett1998the.pdf:PDF},
-  groups  = {book},
+  groups  = {books},
   journal = {Mathematics of Computation},
   pages   = {599},
 }
@@ -3263,7 +3263,7 @@
   year          = {2007},
   __markedentry = {[kfeng123:5]},
   file          = {massart2007concentration.pdf:massart2007concentration.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
 }
 
 @Article{passemier2015,
@@ -3369,7 +3369,7 @@
   title  = {Mixed-effects models in S and S-PLUS},
   year   = {2000},
   file   = {pinheiro2000mixed-effects.pdf:pinheiro2000mixed-effects.pdf:PDF},
-  groups = {book},
+  groups = {books},
 }
 
 @Article{Pollard2013A,
@@ -3398,7 +3398,7 @@
   year          = {1984},
   __markedentry = {[kfeng123:1]},
   file          = {pollard1984convergence.pdf:pollard1984convergence.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
 }
 
 @Book{Pourahmadi2013High,
@@ -3408,7 +3408,7 @@
   author        = {Pourahmadi, Mohsen},
   __markedentry = {[kfeng123:5]},
   file          = {Pourahmadi2013High.pdf:Pourahmadi2013High.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
 }
 
 @Article{Pourahmadi2012Covariance,
@@ -3455,7 +3455,7 @@
   isbn          = {0-201-10168},
   __markedentry = {[kfeng123:5]},
   file          = {book\:114207.pdf:book\:114207.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
   url           = {http://gen.lib.rus.ec/book/index.php?md5=F05525FABE599C88F88FEE2EAB62A151},
 }
 
@@ -3487,7 +3487,7 @@
   year    = {2008},
   author  = {Rao, C. Radhakrishna and Dr. Shalabh and Toutenburg, Helge and Heumann, Christian},
   file    = {Rao2008Linear.pdf:Rao2008Linear.pdf:PDF},
-  groups  = {book},
+  groups  = {books},
   journal = {Springer},
 }
 
@@ -3574,7 +3574,7 @@
   year      = {2014},
   author    = {Rohde, Charles A.},
   file      = {Rohde2014Introductory.pdf:Rohde2014Introductory.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
 }
 
 @Book{subsampling,
@@ -3582,7 +3582,7 @@
   year      = {1999},
   author    = {Joseph Romano},
   file      = {subsampling.pdf:subsampling.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   owner     = {kfeng123},
   timestamp = {2017.01.14},
 }
@@ -3709,7 +3709,7 @@
   year   = {2012},
   author = {Schilling, René L. and Partzsch, Lothar},
   file   = {Schilling2012Brownian.pdf:Schilling2012Brownian.pdf:PDF},
-  groups = {book},
+  groups = {books},
   pages  = {6},
 }
 
@@ -3734,7 +3734,7 @@
   edition   = {1},
   isbn      = {0470009594},
   file      = {book\:270675.pdf:book\:270675.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=3AB286449143B44CD143B8C2BE2201ED},
 }
 
@@ -3856,7 +3856,7 @@
   title  = {Empirical processes with applications to statistics},
   year   = {1986},
   file   = {Shorack1987Empirical.djvu:Shorack1987Empirical.djvu:Djvu},
-  groups = {book},
+  groups = {books},
 }
 
 @Article{Simas2010Skewness,
@@ -3904,7 +3904,7 @@
   number  = {1},
   pages   = {121--160},
   file    = {spitzner2008an.pdf:spitzner2008an.pdf:PDF},
-  groups  = {bayes},
+  groups  = {bayes, Bayes factor},
 }
 
 @Article{Spokoiny2013Bernstein,
@@ -3913,7 +3913,7 @@
   journal = {Statistics},
   year    = {2013},
   file    = {Spokoiny2013Bernstein.pdf:Spokoiny2013Bernstein.pdf:PDF},
-  groups  = {bayes},
+  groups  = {bayes, Bernstain-von Mises},
 }
 
 @Article{srivastava2003singular,
@@ -4009,7 +4009,7 @@
   isbn          = {0199535256,9780199535255},
   __markedentry = {[kfeng123:5]},
   file          = {book\:1165241.pdf:book\:1165241.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
   url           = {http://gen.lib.rus.ec/book/index.php?md5=dffb9f61109fa67211a100613fafbbea},
 }
 
@@ -4040,7 +4040,7 @@
   title  = {Constrained Principal Component Analysis (CPCA) and Related Techniques},
   year   = {2014},
   file   = {takane2014two.pdf:takane2014two.pdf:PDF},
-  groups = {book},
+  groups = {books},
 }
 
 @Article{Tang2010Penalized,
@@ -4132,7 +4132,7 @@
   year      = {2005},
   author    = {Tõnu Kollo, Dietrich von Rosen},
   file      = {advancedMultivariate.pdf:advancedMultivariate.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   owner     = {kfeng123},
   timestamp = {2016.12.23},
 }
@@ -4155,7 +4155,7 @@
   title  = {Statistical learning with sparsity : the lasso and generalizations},
   year   = {2015},
   file   = {hastie2015statistical.pdf:hastie2015statistical.pdf:PDF},
-  groups = {book},
+  groups = {books},
 }
 
 @Article{Tuy2000Monotonic,
@@ -4180,7 +4180,7 @@
   collection = {Cambridge Series in Statistical and Probabilistic Mathematics},
   doi        = {10.1017/CBO9780511802256},
   file       = {:van2000asymptotic.pdf:PDF},
-  groups     = {book},
+  groups     = {books},
   place      = {Cambridge},
 }
 
@@ -4190,7 +4190,7 @@
   author        = {Vaart, A. Van Der and Wellner, J. and Vaart, A. Van Der},
   __markedentry = {[kfeng123:5]},
   file          = {Vaart1996.pdf:Vaart1996.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
   journal       = {Series in Statistics},
 }
 
@@ -4377,7 +4377,7 @@
   author        = {Larry Wasserman},
   __markedentry = {[kfeng123:1]},
   file          = {Larry2010All.pdf:Larry2010All.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
   pages         = {xii},
 }
 
@@ -4430,7 +4430,7 @@
   author        = {Wickham, Hadley},
   __markedentry = {[kfeng123:]},
   file          = {Wickham2009.PDF:Wickham2009.PDF:PDF},
-  groups        = {book},
+  groups        = {books},
 }
 
 @Article{Wilks1938The,
@@ -4460,7 +4460,7 @@
   author    = {T. J. Willmore},
   isbn      = {0198514921,9780198514923},
   file      = {book\:459858.pdf:book\:459858.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=E79C5FA50FB7C4EF8E10589EB8B8DA94},
 }
 
@@ -4515,7 +4515,7 @@
   year   = {2006},
   author = {Simon N Wood},
   file   = {wood2006generalized.pdf:wood2006generalized.pdf:PDF},
-  groups = {book},
+  groups = {books},
 }
 
 @Book{wu2009mixed,
@@ -4523,7 +4523,7 @@
   year   = {2009},
   author = {Lang Wu},
   file   = {wu2009mixed.pdf:wu2009mixed.pdf:PDF},
-  groups = {book},
+  groups = {books},
 }
 
 @Article{Wu2006A,
@@ -4764,7 +4764,7 @@
   edition   = {2},
   isbn      = {0486675513,9780486675510},
   file      = {book\:564518.pdf:book\:564518.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=20E6A1C9ABAEA5C8F937653B199C2F41},
 }
 
@@ -4852,7 +4852,7 @@
   author        = {John Duchi},
   __markedentry = {[kfeng123:5]},
   file          = {full_notes.pdf:full_notes.pdf:PDF},
-  groups        = {minimax, book},
+  groups        = {minimax, books},
   owner         = {kfeng123},
   timestamp     = {2017.05.07},
 }
@@ -4880,7 +4880,7 @@
   year      = {1990},
   author    = {Gray R.M.},
   file      = {book\:18511.pdf:book\:18511.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=4B43341E5E0BDD13F812102217F56360},
 }
 
@@ -4894,7 +4894,7 @@
   isbn          = {0387790527,0387790519,9780387790527,9780387790510},
   __markedentry = {[kfeng123:5]},
   file          = {book\:73769.pdf:book\:73769.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
   url           = {http://gen.lib.rus.ec/book/index.php?md5=22D1D831EA6180B4C49DDEF2C9BA23A4},
 }
 
@@ -4908,7 +4908,7 @@
   isbn          = {9780471241959,0471241954},
   __markedentry = {[kfeng123:5]},
   file          = {book\:23705.djvu:book\:23705.djvu:Djvu},
-  groups        = {book},
+  groups        = {books},
   url           = {http://gen.lib.rus.ec/book/index.php?md5=F84D706DD712F25317DF40949026F072},
 }
 
@@ -5142,7 +5142,7 @@
   series    = {Adaptive Computation and Machine Learning},
   isbn      = {0262072815,9780262072816,9781429465601},
   file      = {book\:401484.pdf:book\:401484.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=50810050CFAD5D19D812D2A31C2EC698},
 }
 
@@ -5460,7 +5460,7 @@
   edition   = {2nd ed},
   isbn      = {9780387960982,0-387-96098-8},
   file      = {book\:22684.pdf:book\:22684.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=01F83A9B6D55AA72408853539222D553},
 }
 
@@ -5518,7 +5518,7 @@
   edition   = {2nd ed},
   isbn      = {0387715983,978-0-387-71598-8},
   file      = {book\:12217.pdf:book\:12217.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=98759C838DDCAE7E84BD6109CEDBC5EA},
 }
 
@@ -5530,7 +5530,7 @@
   series    = {IMS Lecture Notes - Monograph Series 9},
   isbn      = {0940600102,9780940600102},
   file      = {book\:783701.pdf:book\:783701.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=F5D2EE263EF9969CDC3F3CFDE79EB4C2},
 }
 
@@ -5577,7 +5577,7 @@
   author    = {Mircea Pitici (editor)},
   isbn      = {0691169659, 9780691169651},
   file      = {book\:1448903.pdf:book\:1448903.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=d38aaaec94c3c2583287b40c5fe803a0},
 }
 
@@ -5590,7 +5590,7 @@
   edition   = {1},
   isbn      = {978-1-4612-6903-8,978-1-4612-0795-5},
   file      = {book\:981704.pdf:book\:981704.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=e0a60184f43148e27ba895b9b66aad88},
 }
 
@@ -5807,7 +5807,7 @@
   edition   = {1°},
   isbn      = {0762310758,9780762310753},
   file      = {:book\:723961.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=064B0EABDB120BE29DD6C1320DB39747},
 }
 
@@ -5825,7 +5825,7 @@
   author    = {Serge Lang},
   edition   = {4},
   file      = {:Lang1998.djvu:Djvu},
-  groups    = {book},
+  groups    = {books},
   owner     = {kfeng123},
   timestamp = {2017.11.01},
 }
@@ -5836,7 +5836,7 @@
   author    = {Walter Rudin},
   edition   = {3},
   file      = {:Rudin1987.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   owner     = {kfeng123},
   timestamp = {2017.11.01},
 }
@@ -5940,7 +5940,7 @@
   edition   = {1},
   isbn      = {3540856358,9783540856351,3540856366,9783540856368},
   file      = {:book\:661164.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=C2205172ED9B5A78FD479F937999A220},
 }
 
@@ -5953,7 +5953,7 @@
   edition   = {1},
   isbn      = {9780387987392,0387987398},
   file      = {:book\:12064.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=47221F25E206DD88CD8C3FCA9B00074A},
 }
 
@@ -5990,7 +5990,7 @@
   edition   = {4th ed},
   isbn      = {978-7-111-31305-2},
   file      = {:book\:903136.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=19bc4d740cdca0186c14a5521bd7431f},
 }
 
@@ -6039,7 +6039,7 @@
   author        = {J.K. Ghosh, R.V. Ramamoorthi},
   __markedentry = {[kfeng123:5]},
   file          = {:book\:24801.pdf:PDF},
-  groups        = {book, bayes},
+  groups        = {bayes, books},
   md5           = {964ead41e35e1f92925aa29a02221518},
   resid         = {24801},
   size          = {3561540},
@@ -6056,7 +6056,7 @@
   edition   = {1},
   isbn      = {0387400842,9780387400846},
   file      = {:book\:12123.djvu:Djvu},
-  groups    = {book, bayes},
+  groups    = {bayes, books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=4FAE2F01E7EBF1E93850C8AE57AC4139},
 }
 
@@ -6064,7 +6064,7 @@
   title  = {Statistical estimation. Asymptotic theory},
   author = {I.A. Ibragimov, R.Z. Has'minskii, S. Kotz},
   file   = {:book\:144748.djvu:Djvu},
-  groups = {book},
+  groups = {books},
   md5    = {4c279b599726c4dacfd3a7a0adff2e4f},
   resid  = {144748},
   size   = {2792577},
@@ -6129,7 +6129,7 @@
   series    = {Classics in Applied Mathematics, 30},
   isbn      = {9780898714616,0898714613},
   file      = {:book\:263774.djvu:Djvu},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=653F1C9044415534FF611042EFD9ECA2},
 }
 
@@ -6158,7 +6158,7 @@
   volume  = {72},
   pages   = {33-37},
   file    = {:Robert2016The.pdf:PDF},
-  groups  = {bayes},
+  groups  = {bayes, Bayes factor},
 }
 
 @Article{ripamonti2017,
@@ -6213,7 +6213,7 @@
   journal = {Journal of Statistical Planning and Inference},
   year    = {2017},
   file    = {:wang2017posterior.pdf:PDF},
-  groups  = {bayes},
+  groups  = {bayes, consistency},
 }
 
 @Article{raftery2006estimating,
@@ -6258,7 +6258,7 @@
   series    = {Monographs on statistics and applied probability (Series), 116},
   isbn      = {978-1-4200-9343-8,1420093436},
   file      = {:book\:1042037.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=ea38a127c8018e6da0e79ecdc395f926},
 }
 
@@ -6299,7 +6299,7 @@
   volume = {15},
   number = {19},
   file   = {:Bernardo1994Bayesian.djvu:Djvu},
-  groups = {book},
+  groups = {books},
   pages  = {13-23},
 }
 
@@ -6336,7 +6336,7 @@
   edition   = {2},
   isbn      = {0126423504,9780126423501,9780585492292},
   file      = {:book\:12140.djvu:Djvu},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=1B1749CE85E5629F66EA1F4356267471},
 }
 
@@ -6422,7 +6422,7 @@
   address   = {Cambridge},
   edition   = {1},
   file      = {:scientificInference.djvu:Djvu},
-  groups    = {bayes, book},
+  groups    = {bayes, books},
   owner     = {kfeng123},
   timestamp = {2018.01.23},
 }
@@ -6443,9 +6443,9 @@
 
 @Article{martin2016optimal,
   author  = {Ryan {Martin} and Stephen G. {Walker}},
-  title   = {Optimal Bayesian posterior concentration rates with empirical priors},
+  title   = {Empirical priors for targeted posterior concentration rates},
   journal = {arXiv preprint arXiv:1604.05734},
-  year    = {2016},
+  year    = {2018},
   file    = {:martin2016optimal.pdf:PDF},
   groups  = {bayes},
 }
@@ -6520,7 +6520,7 @@
   author    = {Stromberg, Karl Robert},
   isbn      = {9780534980122,0-534-98012-0},
   file      = {:book\:1505925.djvu:Djvu},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=4d6de543431b447c17e0ce7fbd085e52},
 }
 
@@ -6529,7 +6529,7 @@
   year      = {2014},
   author    = {Joel A. Tropp},
   file      = {:troppMatrix.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   owner     = {kfeng123},
   timestamp = {2018.03.01},
 }
@@ -6656,7 +6656,7 @@
   series    = {Graduate texts in mathematics 27},
   isbn      = {9780387901251,0387901256},
   file      = {:book\:8410.djvu:Djvu},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=4DC0B99973FFE29FF92B1CE770C266E4},
 }
 
@@ -6667,7 +6667,7 @@
   author    = {Albert Wilansky},
   isbn      = {0486469034,9780486469034,9780898743432},
   file      = {:book\:783389.djvu:Djvu},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=F4985FC70DD9570D534EFEE7EA957445},
 }
 
@@ -6680,7 +6680,7 @@
   edition   = {1},
   isbn      = {0387984127,9780387984124,9780387227672},
   file      = {:book\:438099.djvu:Djvu},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=597EE784DD357B4067C61A0C3E284FB6},
 }
 
@@ -6794,7 +6794,7 @@
   edition   = {1},
   isbn      = {0470748265,9780470748268,9780470669730,047066973X},
   file      = {:book\:832912.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=d79e8c161a8e6c296af4d6a227e49b88},
 }
 
@@ -6807,7 +6807,7 @@
   edition   = {1974},
   isbn      = {978-0-387-90104-6, 978-1-4757-1645-0},
   file      = {:book\:1513057.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=fb076adc4cb08f63e184b00397428567},
 }
 
@@ -6819,7 +6819,7 @@
   address   = {Oxford},
   publisher = {Oxford University Press},
   file      = {:rousseau2007.pdf:PDF},
-  groups    = {bayes},
+  groups    = {bayes, Bayes factor},
   owner     = {kfeng123},
   timestamp = {2018.04.04},
 }
@@ -6975,20 +6975,21 @@
 }
 
 @Article{nonlocalPrior,
-  author   = {Valen E. Johnson and David Rossell},
-  title    = {On the use of non‐local prior densities in Bayesian hypothesis tests},
-  journal  = {Journal of the Royal Statistical Society: Series B (Statistical Methodology)},
-  year     = {2010},
-  volume   = {72},
-  number   = {2},
-  pages    = {143-170},
-  abstract = {Summary.  We examine philosophical problems and sampling deficiencies that are associated with current Bayesian hypothesis testing methodology, paying particular attention to objective Bayes methodology. Because the prior densities that are used to define alternative hypotheses in many Bayesian tests assign non‐negligible probability to regions of the parameter space that are consistent with null hypotheses, resulting tests provide exponential accumulation of evidence in favour of true alternative hypotheses, but only sublinear accumulation of evidence in favour of true null hypotheses. Thus, it is often impossible for such tests to provide strong evidence in favour of a true null hypothesis, even when moderately large sample sizes have been obtained. We review asymptotic convergence rates of Bayes factors in testing precise null hypotheses and propose two new classes of prior densities that ameliorate the imbalance in convergence rates that is inherited by most Bayesian tests. Using members of these classes, we obtain analytic expressions for Bayes factors in linear models and derive approximations to Bayes factors in large sample settings.},
-  doi      = {10.1111/j.1467-9868.2009.00730.x},
-  eprint   = {https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9868.2009.00730.x},
-  file     = {:nonlocalPrior.pdf:PDF},
-  groups   = {bayes},
-  keywords = {Fractional Bayes factor, Intrinsic Bayes factor, Intrinsic prior, Inverse moment density function, Moment density function, Objective Bayes analysis},
-  url      = {https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9868.2009.00730.x},
+  author        = {Valen E. Johnson and David Rossell},
+  title         = {On the use of non‐local prior densities in Bayesian hypothesis tests},
+  journal       = {Journal of the Royal Statistical Society: Series B (Statistical Methodology)},
+  year          = {2010},
+  volume        = {72},
+  number        = {2},
+  pages         = {143-170},
+  __markedentry = {[kfeng123:5]},
+  abstract      = {Summary.  We examine philosophical problems and sampling deficiencies that are associated with current Bayesian hypothesis testing methodology, paying particular attention to objective Bayes methodology. Because the prior densities that are used to define alternative hypotheses in many Bayesian tests assign non‐negligible probability to regions of the parameter space that are consistent with null hypotheses, resulting tests provide exponential accumulation of evidence in favour of true alternative hypotheses, but only sublinear accumulation of evidence in favour of true null hypotheses. Thus, it is often impossible for such tests to provide strong evidence in favour of a true null hypothesis, even when moderately large sample sizes have been obtained. We review asymptotic convergence rates of Bayes factors in testing precise null hypotheses and propose two new classes of prior densities that ameliorate the imbalance in convergence rates that is inherited by most Bayesian tests. Using members of these classes, we obtain analytic expressions for Bayes factors in linear models and derive approximations to Bayes factors in large sample settings.},
+  doi           = {10.1111/j.1467-9868.2009.00730.x},
+  eprint        = {https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9868.2009.00730.x},
+  file          = {:nonlocalPrior.pdf:PDF},
+  groups        = {bayes, Bayes factor},
+  keywords      = {Fractional Bayes factor, Intrinsic Bayes factor, Intrinsic prior, Inverse moment density function, Moment density function, Objective Bayes analysis},
+  url           = {https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9868.2009.00730.x},
 }
 
 @Article{ho20162,
@@ -7016,7 +7017,7 @@
   edition   = {2},
   isbn      = {978-3-319-32788-4,978-3-319-32789-1},
   file      = {:book\:1580362.pdf:PDF},
-  groups    = {bayes, book},
+  groups    = {bayes, books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=68826f1bf011d9bbae3aaa110bb2ea4d},
 }
 
@@ -7145,7 +7146,7 @@
   year   = {1968},
   author = {Billingsley P.},
   file   = {:book\:61076.djvu:Djvu},
-  groups = {book},
+  groups = {books},
   url    = {http://gen.lib.rus.ec/book/index.php?md5=0212831B5537BFB51FB78CDE738C051C},
 }
 
@@ -7172,7 +7173,7 @@
   year      = {2018},
   author    = {Roman Vershynin},
   file      = {:Roman2018.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   owner     = {kfeng123},
   timestamp = {2018.04.14},
 }
@@ -7182,7 +7183,7 @@
   year      = {2017},
   author    = {Nhat Pham Minh Ho},
   file      = {:Nhat2017.pdf:PDF},
-  groups    = {bayes, book},
+  groups    = {bayes, books},
   owner     = {kfeng123},
   timestamp = {2018.04.14},
 }
@@ -7212,7 +7213,7 @@
   series    = {Grundlehren der mathematischen Wissenschaften},
   isbn      = {3540710493,9788793102132,978-3-540-71049-3},
   file      = {:book\:1415324.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=37f692ad74d67764cc8fcf6082a97a6b},
 }
 
@@ -7321,7 +7322,7 @@
   series    = {Statistics, textbooks and monographs, v. 185},
   isbn      = {1584886005,9781584886006},
   file      = {:book\:911110.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=9f0905d2315821c49a24a9d7769d73ad},
 }
 
@@ -7408,7 +7409,7 @@
   abstract = {Abstract We consider sparse Bayesian estimation in the classical multivariate linear regression model with p regressors and q response variables. In univariate Bayesian linear regression with a single response y , shrinkage priors which can be expressed as scale mixtures of normalnormal densities are popular for obtaining sparse estimates of the coefficients. In this paper, we extend the use of these priors to the multivariate case to estimate a p × q coefficients matrix B . We derive sufficient conditions for posterior consistency under the Bayesian multivariate linear regression framework and prove that our method achieves posterior consistency even when p &gt; n andeven when p grows at nearly exponential rate with the sample size. We derive an efficient Gibbs sampling algorithm and provide the implementation in a comprehensive R package called MBSP. Finally, we demonstrate through simulations and data analysis that our model has excellent finite sample performance. },
   doi      = {https://doi.org/10.1016/j.jmva.2018.04.010},
   file     = {:Bai2018.pdf:PDF},
-  groups   = {bayes},
+  groups   = {bayes, Bayes factor, consistency},
   keywords = {Heavy tail, High-dimensional data, Posterior consistency, Shrinkage estimation, Sparsity, Variable selection},
   url      = {https://www.sciencedirect.com/science/article/pii/S0047259X17306905},
 }
@@ -7436,7 +7437,7 @@
   edition       = {2nd edition},
   __markedentry = {[kfeng123:5]},
   file          = {:book\:1811888.pdf:PDF},
-  groups        = {book},
+  groups        = {books},
   url           = {http://gen.lib.rus.ec/book/index.php?md5=f618b34bfa2e4b5282b7a39f67feb8ca},
 }
 
@@ -7570,7 +7571,7 @@
 
 @Article{yulong2017,
   author  = {Yulong Lu and Andrew Stuart and Hendrik Weber},
-  title   = {Gaussian Approximations for Probability Measures on \$R^d\$},
+  title   = {Gaussian Approximations for Probability Measures on $R^d$},
   journal = {SIAM/ASA Journal on Uncertainty Quantification},
   year    = {2017},
   volume  = {5},
@@ -7595,7 +7596,7 @@
   edition   = {1},
   isbn      = {0-19-850784-4,9780198507840},
   file      = {:book\:1415322.djvu:Djvu},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=740d0f6cd44ced57b3abdebc9b556d7f},
 }
 
@@ -7771,7 +7772,7 @@
   edition   = {2},
   isbn      = {0521132509,9780521132503,0521761581,9780521761581},
   file      = {:book\:625104.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=8010CAF64CDC7C9074FD9B15D17464FD},
 }
 
@@ -8062,7 +8063,7 @@
   edition   = {1},
   isbn      = {0387938389,9780387938387,9780387938394},
   file      = {:book\:525934.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=974457952054774BADE7BA447D7A65E8},
 }
 
@@ -8247,7 +8248,7 @@
   series    = {Texts and Readings in Mathematics 33},
   isbn      = {978-81-85931-55-5, 978-93-86279-27-9},
   file      = {:book\:2066612.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=ce0bccd49ae44dcae0e84bb7fc5a21dd},
 }
 
@@ -8259,7 +8260,7 @@
   series    = {Sigma Series in Pure Mathematics},
   isbn      = {9783885380061,3-88538-006-4},
   file      = {:book\:8406.djvu:Djvu},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=CF3C199765F6CA89BA3D1F5CB8B6EDA4},
 }
 
@@ -8340,7 +8341,7 @@
   series    = {Computer Science and Scientific Computing},
   isbn      = {0126702306,9780126702309},
   file      = {:book\:29277.djvu:Djvu},
-  groups    = {book, factor and PCA},
+  groups    = {factor and PCA, books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=5277829E8ADD6DBE698AAE57CCA99425},
 }
 
@@ -8349,7 +8350,7 @@
   year      = {2007},
   author    = {Rajendra Bhatia},
   file      = {:Rajendra2007.djvu:Djvu},
-  groups    = {book},
+  groups    = {books},
   owner     = {kfeng123},
   timestamp = {2018.06.05},
 }
@@ -8448,7 +8449,7 @@
   author    = {Subhashis Ghosal and Aad van der Vaart},
   edition   = {1st},
   file      = {:Subhashis2017Fundamentals.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   owner     = {kfeng123},
   timestamp = {2018.06.11},
 }
@@ -8462,7 +8463,7 @@
   edition   = {3},
   isbn      = {978-3-540-44085-7,978-3-540-44761-0},
   file      = {:book\:1009640.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   url       = {http://gen.lib.rus.ec/book/index.php?md5=8b60883c9fcf4afc0ec5c2dbf6f62bce},
 }
 
@@ -8484,7 +8485,7 @@
   year      = {2016},
   author    = {Bradley Efron and Trevor Hastie},
   file      = {:Efron2016Computer.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   owner     = {kfeng123},
   timestamp = {2018.06.18},
 }
@@ -8782,7 +8783,7 @@
   isbn      = {978-1-941823-10-1},
   doi       = {10.7936/K7D798QH},
   file      = {:Freiwald2014An.pdf:PDF},
-  groups    = {book},
+  groups    = {books},
   owner     = {kfeng123},
   timestamp = {2018.07.25},
 }
@@ -8797,8 +8798,458 @@
   pages     = {1662--1716},
   doi       = {10.1214/18-EJS1424},
   fjournal  = {Electronic Journal of Statistics},
+  groups    = {GWAS, mixed model},
   publisher = {The Institute of Mathematical Statistics and the Bernoulli Society},
   url       = {https://doi.org/10.1214/18-EJS1424},
+}
+
+@Book{book:868691,
+  title     = {Foundations of Modern Probability},
+  publisher = {Springer},
+  year      = {2002},
+  author    = {Olav Kallenberg},
+  series    = {Probability and its Applications},
+  edition   = {2nd},
+  isbn      = {0387953132,9780387953137},
+  file      = {:book\:868691.djvu:Djvu},
+  groups    = {books},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=A040D3FEDFD8393A1655EA3866E13015},
+}
+
+@Article{MR2190210,
+  author        = {Garc\'\i a-Donato, Gonzalo and Chen, Ming-Hui},
+  title         = {Calibrating {B}ayes factor under prior predictive distributions},
+  journal       = {Statist. Sinica},
+  year          = {2005},
+  volume        = {15},
+  number        = {2},
+  pages         = {359--380},
+  issn          = {1017-0405},
+  __markedentry = {[kfeng123:1]},
+  file          = {:MR2190210.pdf:PDF},
+  fjournal      = {Statistica Sinica},
+  groups        = {bayes},
+  mrclass       = {62C10 (62F03)},
+  mrnumber      = {2190210},
+}
+
+@Book{book:911899,
+  title     = {Mathematical theory of statistics : statistical experiments and asymptotic decision theory},
+  publisher = {W. de Gruyter},
+  year      = {1985},
+  author    = {Helmut Strasser},
+  series    = {De Gruyter studies in mathematics, 7},
+  isbn      = {0899250289,9780899250281,3110102587,9783110102581},
+  groups    = {books},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=724bfe2a990ee3b4aa435e61f6bb941c},
+}
+
+@Book{book:2218130,
+  title     = {Mathematical Theory of Bayesian Statistics},
+  publisher = {Chapman and Hall/CRC},
+  year      = {2018},
+  author    = {Sumio Watanabe},
+  series    = {Chapman \& Hall/CRC Monographs on Statistics \& Applied Probab},
+  edition   = {1},
+  isbn      = {1482238063,9781482238068},
+  file      = {:book\:2218130.pdf:PDF},
+  groups    = {books},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=7c571cbaa3be75e3bc2c050e82269bab},
+}
+
+@Article{CHOI20091316,
+  author   = {Taeryon Choi and Jaeyong Lee and Anindya Roy},
+  title    = {A note on the Bayes factor in a semiparametric regression model},
+  journal  = {Journal of Multivariate Analysis},
+  year     = {2009},
+  volume   = {100},
+  number   = {6},
+  pages    = {1316 - 1327},
+  issn     = {0047-259X},
+  doi      = {https://doi.org/10.1016/j.jmva.2008.12.006},
+  file     = {:CHOI20091316.pdf:PDF},
+  groups   = {Bayes factor},
+  keywords = {62G08, 62G10, 62G20, Bayes factor, Consistency, Semiparametric regression model, Orthogonal basis},
+  url      = {http://www.sciencedirect.com/science/article/pii/S0047259X0800273X},
+}
+
+@Article{CHOI2015158,
+  author   = {Taeryon Choi and Judith Rousseau},
+  title    = {A note on Bayes factor consistency in partial linear models},
+  journal  = {Journal of Statistical Planning and Inference},
+  year     = {2015},
+  volume   = {166},
+  pages    = {158 - 170},
+  issn     = {0378-3758},
+  note     = {Special Issue on Bayesian Nonparametrics},
+  doi      = {https://doi.org/10.1016/j.jspi.2015.03.009},
+  file     = {:CHOI2015158.pdf:PDF},
+  groups   = {Bayes factor},
+  keywords = {Bayes factor, Consistency, Fourier series, Gaussian processes, Hellinger distance, Kullback–Leibler neighborhoods, Lack of fit testing},
+  url      = {http://www.sciencedirect.com/science/article/pii/S0378375815000737},
+}
+
+@Book{book:12363,
+  title     = {Functional Analysis for Probability and Stochastic Processes: An Introduction},
+  publisher = {Cambridge University Press},
+  year      = {2005},
+  author    = {Adam Bobrowski},
+  isbn      = {9780521831666,0521539374,9780521539371,9780511130397,0521831660},
+  file      = {:book\:12363.pdf:PDF},
+  groups    = {books},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=9E98DCBAF15DEEB3BDDEB2501AB2B466},
+}
+
+@Book{book:1637344,
+  title         = {Mathematical Foundations of Infinite-Dimensional Statistical Models},
+  publisher     = {Cambridge University Press},
+  year          = {2015},
+  author        = {Evarist Giné, Richard Nickl},
+  series        = {Cambridge Series in Statistical and Probabilistic Mathematics 40},
+  edition       = {1},
+  isbn          = {1107043166,9781107043169},
+  __markedentry = {[kfeng123:5]},
+  file          = {:book\:1637344.pdf:PDF},
+  groups        = {books},
+  url           = {http://gen.lib.rus.ec/book/index.php?md5=15882775E8FDF63EC4D038B02A91E9F2},
+}
+
+@InBook{vandervaart,
+  pages     = {200--222},
+  title     = {Reproducing kernel Hilbert spaces of Gaussian priors},
+  publisher = {Institute of Mathematical Statistics},
+  year      = {2008},
+  author    = {van der Vaart, A. W. and van Zanten, J. H.},
+  editor    = {Clarke, Bertrand and Ghosal, Subhashis},
+  volume    = {Volume 3},
+  series    = {Collections},
+  address   = {Beachwood, Ohio, USA},
+  booktitle = {Pushing the Limits of Contemporary Statistics: Contributions in Honor of Jayanta K. Ghosh},
+  doi       = {10.1214/074921708000000156},
+  file      = {:vandervaart.pdf:PDF},
+  groups    = {gaussian process},
+  url       = {https://doi.org/10.1214/074921708000000156},
+}
+
+@Book{book:726487,
+  title     = {Abstract Inference (Probability \& Mathematical Statistics)},
+  publisher = {John Wiley \& Sons Inc},
+  year      = {1981},
+  author    = {Ulf Grenander},
+  isbn      = {0471082678,9780471082675},
+  file      = {:book\:726487.djvu:Djvu},
+  groups    = {books},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=1022E0D7A8B8E73BE94507CC11113B61},
+}
+
+@Book{book:982018,
+  title     = {Reproducing Kernel Hilbert Spaces in Probability and Statistics},
+  publisher = {Springer US},
+  year      = {2004},
+  author    = {Alain Berlinet, Christine Thomas-Agnan (auth.)},
+  edition   = {1},
+  isbn      = {978-1-4613-4792-7,978-1-4419-9096-9},
+  file      = {:book\:982018.pdf:PDF},
+  groups    = {books},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=2EEDC7387064E8DB8FC7DCFB1A1F16BE},
+}
+
+@Book{book:863923,
+  title     = {Lectures on Gaussian Processes},
+  publisher = {Springer-Verlag Berlin Heidelberg},
+  year      = {2012},
+  author    = {Mikhail Lifshits},
+  series    = {SpringerBriefs in Mathematics},
+  edition   = {1},
+  isbn      = {3642249388,9783642249389},
+  file      = {:book\:863923.pdf:PDF},
+  groups    = {books, gaussian process},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=AE2E09C2D8FAC0C9869EB61B81BB24A6},
+}
+
+@Book{book:950085,
+  title     = {Random Fields and Geometry},
+  publisher = {Springer-Verlag New York},
+  year      = {2007},
+  author    = {Robert J. Adler, Jonathan E. Taylor (auth.)},
+  series    = {Springer Monographs in Mathematics},
+  edition   = {1},
+  isbn      = {978-0-387-48112-8,978-0-387-48116-6},
+  file      = {:book\:950085.pdf:PDF},
+  groups    = {books},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=A50D431EF3025E6BE0C35DC3692B8B7F},
+}
+
+@Book{book:1273182,
+  title     = {Spline Models for Observational Data (CBMS-NSF Regional Conference Series in Applied Mathematics)},
+  publisher = {SIAM: Society for Industrial and Applied Mathematics},
+  year      = {1990},
+  author    = {Grace Wahba},
+  isbn      = {9780898712445,0898712440},
+  file      = {:book\:1273182.djvu:Djvu},
+  groups    = {books},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=EB991B6BF7552009C1567B8F52C51196},
+}
+
+@Book{book:982265,
+  title     = {Smoothing Spline ANOVA Models},
+  publisher = {Springer-Verlag New York},
+  year      = {2013},
+  author    = {Chong Gu},
+  series    = {Springer Series in Statistics 297},
+  edition   = {2},
+  isbn      = {978-1-4614-5368-0,978-1-4614-5369-7},
+  file      = {:book\:982265.pdf:PDF},
+  groups    = {books},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=4FCBF311F1897B6CBC95DA1FDC5A6CF1},
+}
+
+@TechReport{Roman2010Functional,
+  author      = {Roman Vershynin},
+  title       = {Lectures in Functional Analysis},
+  institution = {Department of Mathematics, University of Michigan},
+  year        = {2010},
+  file        = {:Roman2010Functional.pdf:PDF},
+  groups      = {books},
+  owner       = {kfeng123},
+  timestamp   = {2018.09.23},
+  url         = {https://www.math.uci.edu/~rvershyn/teaching/2010-11/602/functional-analysis.pdf},
+}
+
+@Article{silverman1996,
+  author    = {Silverman, Bernard W.},
+  title     = {Smoothed functional principal components analysis by choice of norm},
+  journal   = {Ann. Statist.},
+  year      = {1996},
+  volume    = {24},
+  number    = {1},
+  pages     = {1--24},
+  month     = {02},
+  doi       = {10.1214/aos/1033066196},
+  fjournal  = {The Annals of Statistics},
+  groups    = {factor and PCA},
+  publisher = {The Institute of Mathematical Statistics},
+  url       = {https://doi.org/10.1214/aos/1033066196},
+}
+
+@Article{hofmann2008,
+  author    = {Hofmann, Thomas and Schölkopf, Bernhard and Smola, Alexander J.},
+  title     = {Kernel methods in machine learning},
+  journal   = {Ann. Statist.},
+  year      = {2008},
+  volume    = {36},
+  number    = {3},
+  pages     = {1171--1220},
+  month     = {06},
+  doi       = {10.1214/009053607000000677},
+  file      = {:hofmann2008.pdf:PDF},
+  fjournal  = {The Annals of Statistics},
+  groups    = {machine learning},
+  publisher = {The Institute of Mathematical Statistics},
+  url       = {https://doi.org/10.1214/009053607000000677},
+}
+
+@Book{book:924404,
+  title     = {Learning with kernels : support vector machines, regularization, optimization, and beyond},
+  publisher = {MIT Press},
+  year      = {2002},
+  author    = {Bernhard Schölkopf; Alexander J Smola},
+  series    = {Adaptive computation and machine learning},
+  isbn      = {9780262256933,0262256932,0585477590,9780585477596},
+  file      = {:book\:924404.pdf:PDF},
+  groups    = {books},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=da2fc393e0e3aa1a7a9cebb73b58ad8d},
+}
+
+@Book{book:337608,
+  title     = {Harmonic Analysis on Semigroups: Theory of Positive Definite and Related Functions},
+  publisher = {Springer-Verlag Berlin and Heidelberg GmbH \& Co. K},
+  year      = {1984},
+  author    = {C. Berg, J. P. R. Christensen, P. Ressel},
+  series    = {Graduate texts in mathematics 100},
+  isbn      = {3540909257,9783540909255},
+  file      = {:book\:337608.djvu:Djvu},
+  groups    = {books},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=4AD293CC601515B14EAFA1E5B89698D9},
+}
+
+@Book{book:274797,
+  title         = {Support Vector Machines},
+  publisher     = {Springer-Verlag New York},
+  year          = {2008},
+  author        = {Andreas Christmann, Ingo Steinwart (auth.)},
+  series        = {Information science and statistics},
+  edition       = {1},
+  isbn          = {0387772413,9780387772424,9780387772417},
+  __markedentry = {[kfeng123:5]},
+  file          = {:book\:274797.pdf:PDF},
+  groups        = {books},
+  url           = {http://gen.lib.rus.ec/book/index.php?md5=81D4F626F589A846F9D4AEDFDFEAB7EF},
+}
+
+@Book{book:25295,
+  title     = {The Elements of Statistical Learning},
+  publisher = {Springer},
+  year      = {2003},
+  author    = {T. Hastie, R. Tibshirani, J. H. Friedman},
+  edition   = {Corrected},
+  isbn      = {0387952845,9780387952840},
+  file      = {:book\:25295.pdf:PDF},
+  groups    = {books},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=0B993D88F2275F0D490839F54BA9D93C},
+}
+
+@Article{6790375,
+  author        = {B. Schölkopf and A. Smola and K. Müller},
+  title         = {Nonlinear Component Analysis as a Kernel Eigenvalue Problem},
+  journal       = {Neural Computation},
+  year          = {1998},
+  volume        = {10},
+  number        = {5},
+  pages         = {1299-1319},
+  month         = {July},
+  issn          = {0899-7667},
+  __markedentry = {[kfeng123:1]},
+  doi           = {10.1162/089976698300017467},
+  file          = {:6790375.pdf:PDF},
+  groups        = {machine learning},
+}
+
+@Article{914517,
+  author   = {K. -. Muller and S. Mika and G. Ratsch and K. Tsuda and B. Scholkopf},
+  title    = {An introduction to kernel-based learning algorithms},
+  journal  = {IEEE Transactions on Neural Networks},
+  year     = {2001},
+  volume   = {12},
+  number   = {2},
+  pages    = {181-201},
+  month    = {March},
+  issn     = {1045-9227},
+  doi      = {10.1109/72.914517},
+  file     = {:914517.pdf:PDF},
+  groups   = {machine learning},
+  keywords = {learning automata;neural nets;principal component analysis;learning (artificial intelligence);optical character recognition;pattern classification;learning algorithms;support vector machines;kernel Fisher discriminant analysis;principal component analysis;Vapnik-Chervonenkis theory;Mercer kernel;optical character recognition;DNA analysis;mathematical programming;Kernel;Principal component analysis;Support vector machines;Algorithm design and analysis;Optical character recognition software;DNA;Pattern analysis;Time series analysis;Character recognition;Support vector machine classification},
+}
+
+@Book{book:1323324,
+  title     = {Theoretical Foundations of Functional Data Analysis, with an Introduction to Linear Operators},
+  publisher = {Wiley},
+  year      = {2015},
+  author    = {Tailen Hsing and Randall Eubank},
+  series    = {Wiley Series in Probability and Statistics},
+  edition   = {1},
+  isbn      = {0470016914,9780470016916},
+  file      = {:book\:1323324.pdf:PDF},
+  groups    = {books},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=8f509404b12c5e01d351111bcff67638},
+}
+
+@Book{book:65342,
+  title     = {The Malliavin calculus and related topics},
+  publisher = {Springer-Verlag},
+  year      = {1995},
+  author    = {David Nualart},
+  series    = {Probability and its applications},
+  edition   = {1},
+  isbn      = {9780387944326,0-387-94432-X},
+  file      = {:book\:65342.pdf:PDF},
+  groups    = {books},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=653ECCF45805E327D882FA5322C839BB},
+}
+
+@Article{1459055,
+  author   = {J. Shawe-Taylor and C. K. I. Williams and N. Cristianini and J. Kandola},
+  title    = {On the eigenspectrum of the gram matrix and the generalization error of kernel-PCA},
+  journal  = {IEEE Transactions on Information Theory},
+  year     = {2005},
+  volume   = {51},
+  number   = {7},
+  pages    = {2510-2522},
+  month    = {July},
+  issn     = {0018-9448},
+  doi      = {10.1109/TIT.2005.850052},
+  file     = {:1459055.pdf:PDF},
+  groups   = {factor and PCA},
+  keywords = {principal component analysis;matrix algebra;eigenvalues and eigenfunctions;learning (artificial intelligence);eigenspectrum;gram matrix;generalization error;principal component analysis;kernel-PCA;continuous eigen value problem;very-high-dimensional feature space;concentration bound;Rademacher complexity;random matrice spectra;statistical learning theory;Eigenvalues and eigenfunctions;Principal component analysis;Kernel;Symmetric matrices;Statistical learning;Support vector machines;Gaussian processes;Machine learning;Algorithm design and analysis;Computer science;Concentration bounds;Gram matrices;kernel methods;principal components analysis (PCA);Rademacher complexity;spectra of random matrices;statistical learning theory},
+}
+
+@Book{book:703378,
+  title     = {Kernel Adaptive Filtering A Comprehensive Introduction},
+  publisher = {Wiley},
+  year      = {2010},
+  author    = {José C. Príncipe, Weifeng Liu, Simon Haykin},
+  isbn      = {9780470447536},
+  file      = {:book\:703378.pdf:PDF},
+  groups    = {books},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=DA7E5677E412A9039A82292139077B14},
+}
+
+@Article{Jin2014Gaussian,
+  author  = {Jin, Shi},
+  title   = {Gaussian processes: Karhunen-Loeve expansion, small ball estimates and applications in time series models},
+  journal = {University of Delaware},
+  year    = {2014},
+  file    = {:Jin2014Gaussian.pdf:PDF},
+  groups  = {gaussian process},
+}
+
+@Article{verdinelli1998,
+  author    = {Verdinelli, Isabella and Wasserman, Larry},
+  title     = {Bayesian goodness-of-fit testing using infinite-dimensional exponential families},
+  journal   = {Ann. Statist.},
+  year      = {1998},
+  volume    = {26},
+  number    = {4},
+  pages     = {1215--1241},
+  month     = {08},
+  doi       = {10.1214/aos/1024691240},
+  file      = {:verdinelli1998.pdf:PDF},
+  fjournal  = {The Annals of Statistics},
+  groups    = {Bayes factor},
+  publisher = {The Institute of Mathematical Statistics},
+  url       = {https://doi.org/10.1214/aos/1024691240},
+}
+
+@Article{Bharath2017,
+  author  = {Bharath Sriperumbudur and Kenji Fukumizu and Arthur Gretton and Aapo Hyv\"{a}rinen and Revant Kumar},
+  title   = {Density Estimation in Infinite Dimensional Exponential Families},
+  journal = {Journal of Machine Learning Research},
+  year    = {2017},
+  volume  = {18},
+  number  = {57},
+  pages   = {1-59},
+  file    = {:Bharath2017.pdf:PDF},
+  groups  = {machine learning},
+  url     = {http://jmlr.org/papers/v18/16-011.html},
+}
+
+@Article{McVINISH2009,
+  author   = {McVINISH, ROSS and ROUSSEAU, JUDITH and MENGERSEN, KERRIE},
+  title    = {Bayesian Goodness of Fit Testing with Mixtures of Triangular Distributions},
+  journal  = {Scandinavian Journal of Statistics},
+  year     = {2009},
+  volume   = {36},
+  number   = {2},
+  pages    = {337-354},
+  abstract = {Abstract.  We consider the consistency of the Bayes factor in goodness of fit testing for a parametric family of densities against a non-parametric alternative. Sufficient conditions for consistency of the Bayes factor are determined and demonstrated with priors using certain mixtures of triangular densities.},
+  doi      = {10.1111/j.1467-9469.2008.00620.x},
+  eprint   = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9469.2008.00620.x},
+  file     = {:McVINISH2009.pdf:PDF},
+  groups   = {Bayes factor},
+  keywords = {Bayesian non-parametrics, consistency, goodness of fit},
+  url      = {https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9469.2008.00620.x},
+}
+
+@Book{book:73622,
+  title     = {Probability measures on metric spaces},
+  publisher = {Academic},
+  year      = {1967},
+  author    = {K. R. PARTHASARATHY},
+  series    = {Ams Chelsea Publishing},
+  edition   = {AP},
+  isbn      = {9780821838891,082183889X},
+  groups    = {books},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=78E4B8510DF6D017EFDA7EE475EB29C6},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
@@ -8807,8 +9258,11 @@
 0 AllEntriesGroup:;
 1 StaticGroup:aggregation of estimators\;0\;1\;\;\;\;;
 1 StaticGroup:bayes\;0\;1\;\;\;\;;
+2 StaticGroup:Bayes factor\;0\;1\;\;\;\;;
+2 StaticGroup:consistency\;0\;1\;\;\;\;;
+2 StaticGroup:Bernstain-von Mises\;0\;1\;\;\;\;;
 1 StaticGroup:beta regression\;0\;1\;\;\;\;;
-1 StaticGroup:book\;0\;1\;\;\;\;;
+1 StaticGroup:books\;0\;1\;\;\;\;;
 1 StaticGroup:CLT\;0\;1\;\;\;\;;
 1 StaticGroup:desparsify\;0\;1\;\;\;\;;
 1 StaticGroup:econometric\;0\;1\;\;\;\;;
@@ -8843,6 +9297,7 @@
 1 StaticGroup:testing regression\;0\;1\;\;\;\;;
 1 StaticGroup:variance estimation\;0\;1\;\;\;\;;
 1 StaticGroup:variance test\;0\;1\;\;\;\;;
+1 StaticGroup:gaussian process\;0\;1\;\;\;\;;
 }
 
 @Comment{jabref-meta: groupsversion:
