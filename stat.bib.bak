@@ -52,15 +52,16 @@
 }
 
 @Article{Aitkin1991Posterior,
-  author  = {Aitkin, Murray},
-  title   = {Posterior Bayes Factors},
-  journal = {JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-METHODOLOGICAL},
-  year    = {1991},
-  volume  = {53},
-  number  = {1},
-  pages   = {111-142},
-  file    = {:Aitkin1991Posterior.pdf:PDF},
-  groups  = {likelihood, Bayes, Bayes factor},
+  author        = {Aitkin, Murray},
+  title         = {Posterior Bayes Factors},
+  journal       = {JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-METHODOLOGICAL},
+  year          = {1991},
+  volume        = {53},
+  number        = {1},
+  pages         = {111-142},
+  __markedentry = {[kfeng123:1]},
+  file          = {:Aitkin1991Posterior.pdf:PDF},
+  groups        = {likelihood, Bayes, Bayes factor},
 }
 
 @Article{Alessi2010Improved,
@@ -1243,14 +1244,20 @@
 }
 
 @Book{dudleyProbability,
-  title         = {Real Analysis And Probability},
-  year          = {2004},
-  author        = {R. M. Dudley},
+  title         = {Real Analysis and Probability},
+  publisher     = {Cambridge University Press},
+  year          = {2002},
+  author        = {Dudley, R. M.},
+  isbn          = {0-521-80972-X},
   __markedentry = {[kfeng123:1]},
+  date          = {2011-01-17},
+  ean           = {9780521007542},
   file          = {dudleyProbability.pdf:dudleyProbability.pdf:PDF},
   groups        = {books},
   owner         = {kfeng123},
+  pagetotal     = {566},
   timestamp     = {2016.10.13},
+  url           = {https://www.ebook.de/de/product/3387093/r_m_dudley_real_analysis_and_probability.html},
 }
 
 @InProceedings{Durot2006An,
@@ -16722,10 +16729,347 @@
   isbn      = {3540295860},
   date      = {2006-05-19},
   ean       = {9783540295860},
+  file      = {:Aliprantis2006.pdf:PDF},
   groups    = {books},
   owner     = {kfeng123},
   timestamp = {2019.04.24},
   url       = {https://www.ebook.de/de/product/7470339/charalambos_d_aliprantis_kim_c_border_infinite_dimensional_analysis.html},
+}
+
+@Book{Klenke2014,
+  title     = {Probability Theory},
+  publisher = {Springer London},
+  year      = {2014},
+  author    = {Achim Klenke},
+  doi       = {10.1007/978-1-4471-5361-0},
+  file      = {:Klenke2014.pdf:PDF},
+  groups    = {books},
+  owner     = {kfeng123},
+  timestamp = {2019.04.24},
+}
+
+@Article{Watagoda2019,
+  author    = {Lasanthi C. R. Pelawa Watagoda and David J. Olive},
+  title     = {Bootstrapping multiple linear regression after variable selection},
+  journal   = {Statistical Papers},
+  year      = {2019},
+  month     = {apr},
+  doi       = {10.1007/s00362-019-01108-9},
+  groups    = {Regression test},
+  owner     = {kfeng123},
+  publisher = {Springer Nature},
+  timestamp = {2019.04.25},
+}
+
+@Article{Li2016b,
+  author    = {Li, Zhaoyuan and Yao, Jianfeng},
+  title     = {On two simple and effective procedures for high dimensional classification of general populations},
+  journal   = {Statistical Papers},
+  year      = {2016},
+  volume    = {57},
+  number    = {2},
+  pages     = {381--405},
+  issn      = {0932-5026},
+  doi       = {10.1007/s00362-015-0660-8},
+  groups    = {supervised classification},
+  keywords  = {62H30 (15B52)},
+  mrnumber  = {3483195},
+  owner     = {kfeng123},
+  timestamp = {2019.04.25},
+}
+
+@Article{Hu2019,
+  author    = {Hu, Jiang and Li, Weiming and Liu, Zhi and Zhou, Wang},
+  title     = {High-dimensional covariance matrices in elliptical distributions with application to spherical test},
+  journal   = {The Annals of Statistics},
+  year      = {2019},
+  volume    = {47},
+  number    = {1},
+  pages     = {527--555},
+  issn      = {0090-5364},
+  doi       = {10.1214/18-AOS1699},
+  file      = {:Hu2019.pdf:PDF},
+  groups    = {variance test},
+  keywords  = {62H15 (62H10)},
+  mrnumber  = {3909941},
+  owner     = {kfeng123},
+  timestamp = {2019.04.25},
+}
+
+@Article{Martin2017a,
+  author    = {N. Mart{\'{\i}}n and L. Pardo and K. Zografos},
+  title     = {On divergence tests for composite hypotheses under composite likelihood},
+  journal   = {Statistical Papers},
+  year      = {2017},
+  month     = {mar},
+  doi       = {10.1007/s00362-017-0900-1},
+  file      = {:Martin2017a.pdf:PDF},
+  groups    = {likelihood},
+  owner     = {kfeng123},
+  publisher = {Springer Nature},
+  timestamp = {2019.04.25},
+}
+
+@Article{Bai2019,
+  author    = {Zhidong Bai and Jiang Hu and Chen Wang and Chao Zhang},
+  title     = {Test on the linear combinations of covariance matrices in high-dimensional data},
+  journal   = {Statistical Papers},
+  year      = {2019},
+  month     = {apr},
+  doi       = {10.1007/s00362-019-01110-1},
+  file      = {:Bai2019.pdf:PDF},
+  groups    = {variance test},
+  owner     = {kfeng123},
+  publisher = {Springer Nature},
+  timestamp = {2019.04.25},
+}
+
+@Article{Lee2016a,
+  author    = {Woo Dong Lee and Sang Gil Kang and Yongku Kim},
+  title     = {Objective Bayesian testing for the linear combinations of normal means},
+  journal   = {Statistical Papers},
+  year      = {2019},
+  volume    = {60},
+  number    = {1},
+  pages     = {147--172},
+  month     = {sep},
+  doi       = {10.1007/s00362-016-0831-2},
+  file      = {:Lee2016a.pdf:PDF},
+  groups    = {Bayes factor},
+  owner     = {kfeng123},
+  publisher = {Springer Nature},
+  timestamp = {2019.04.25},
+}
+
+@Article{Arboretti2018,
+  author    = {Arboretti, Rosa and Ceccato, Riccardo and Corain, Livio and Ronchi, Fabrizio and Salmaso, Luigi},
+  title     = {Multivariate small sample tests for two-way designs with applications to industrial statistics},
+  journal   = {Statistical Papers},
+  year      = {2018},
+  volume    = {59},
+  number    = {4},
+  pages     = {1483--1503},
+  issn      = {0932-5026},
+  doi       = {10.1007/s00362-018-1032-y},
+  file      = {:Arboretti2018.pdf:PDF},
+  groups    = {Regression test},
+  keywords  = {62K15 (62G10 62J10)},
+  mrnumber  = {3878744},
+  owner     = {kfeng123},
+  timestamp = {2019.04.25},
+}
+
+@Article{Zhang2017,
+  author    = {Jin Zhang},
+  title     = {Consistency of {MLE}, {LSE} and M-estimation under mild conditions},
+  journal   = {Statistical Papers},
+  year      = {2017},
+  month     = {jul},
+  doi       = {10.1007/s00362-017-0928-2},
+  groups    = {likelihood},
+  owner     = {kfeng123},
+  publisher = {Springer Nature},
+  timestamp = {2019.04.25},
+}
+
+@Article{Hirose2018,
+  author    = {Hirose, Kei and Imada, Miyuki},
+  title     = {Sparse factor regression via penalized maximum likelihood estimation},
+  journal   = {Statistical Papers},
+  year      = {2018},
+  volume    = {59},
+  number    = {2},
+  pages     = {633--662},
+  issn      = {0932-5026},
+  doi       = {10.1007/s00362-016-0781-8},
+  file      = {:Hirose2018.pdf:PDF},
+  groups    = {EV model},
+  keywords  = {62F10 (62J07)},
+  mrnumber  = {3800817},
+  owner     = {kfeng123},
+  timestamp = {2019.04.25},
+}
+
+@Article{Beyaztas2013,
+  author    = {Ufuk Beyaztas and Aylin Alin},
+  title     = {Sufficient jackknife-after-bootstrap method for detection of influential observations in linear regression models},
+  journal   = {Statistical Papers},
+  year      = {2014},
+  volume    = {55},
+  number    = {4},
+  pages     = {1001--1018},
+  month     = {jul},
+  doi       = {10.1007/s00362-013-0548-4},
+  file      = {:Beyaztas2013.pdf:PDF},
+  groups    = {Regression test},
+  owner     = {kfeng123},
+  publisher = {Springer Nature},
+  timestamp = {2019.04.26},
+}
+
+@Article{Baltagi2013,
+  author    = {Badi H. Baltagi and Chihwa Kao and Sanggon Na},
+  title     = {Testing for cross-sectional dependence in a panel factor model using the wild bootstrap {\textdollar}{\textdollar}F{\textdollar}{\textdollar} test},
+  journal   = {Statistical Papers},
+  year      = {2013},
+  volume    = {54},
+  number    = {4},
+  pages     = {1067--1094},
+  month     = {jan},
+  doi       = {10.1007/s00362-013-0499-9},
+  file      = {:Baltagi2013.pdf:PDF},
+  groups    = {factor and PCA},
+  owner     = {kfeng123},
+  publisher = {Springer Nature},
+  timestamp = {2019.04.26},
+}
+
+@Article{Chen2015a,
+  author    = {Zhiyong Chen and Haibin Wang and Xuejun Wang},
+  title     = {The consistency for the estimator of nonparametric regression model based on martingale difference errors},
+  journal   = {Statistical Papers},
+  year      = {2015},
+  volume    = {57},
+  number    = {2},
+  pages     = {451--469},
+  month     = {feb},
+  doi       = {10.1007/s00362-015-0662-6},
+  groups    = {CLT},
+  owner     = {kfeng123},
+  publisher = {Springer Nature},
+  timestamp = {2019.04.26},
+}
+
+@Article{Fung1993,
+  author    = {Fung, W. K.},
+  title     = {A quasi-{B}ayesian analysis of regression outliers using {A}kaike's predictive likelihood},
+  journal   = {Statistical Papers},
+  year      = {1993},
+  volume    = {34},
+  number    = {2},
+  pages     = {133--141},
+  issn      = {0932-5026},
+  doi       = {10.1007/BF02925535},
+  file      = {:Fung1993.pdf:PDF},
+  groups    = {Regression test},
+  keywords  = {62F15},
+  mrnumber  = {1232650},
+  owner     = {kfeng123},
+  timestamp = {2019.04.26},
+}
+
+@Article{Draper1996,
+  author    = {Draper, N. R. and Pukelsheim, F.},
+  title     = {An overview of design of experiments},
+  journal   = {Statistical Papers},
+  year      = {1996},
+  volume    = {37},
+  number    = {1},
+  pages     = {1--32},
+  issn      = {0932-5026},
+  doi       = {10.1007/BF02926157},
+  file      = {:Draper1996.pdf:PDF},
+  keywords  = {62K10 (62K05)},
+  mrnumber  = {1381215},
+  owner     = {kfeng123},
+  timestamp = {2019.04.26},
+}
+
+@Article{Brown2001,
+  author    = {Brown, Lawrence D. and Cai, T. Tony and DasGupta, Anirban},
+  title     = {Interval estimation for a binomial proportion},
+  journal   = {Statistical Science},
+  year      = {2001},
+  volume    = {16},
+  number    = {2},
+  pages     = {101--133},
+  issn      = {0883-4237},
+  note      = {With comments and a rejoinder by the authors},
+  doi       = {10.1214/ss/1009213286},
+  file      = {:Brown2001.pdf:PDF},
+  keywords  = {62F25},
+  mrnumber  = {1861069},
+  owner     = {kfeng123},
+  timestamp = {2019.04.26},
+}
+
+@Book{Lippman2012,
+  title     = {C++ Primer},
+  publisher = {Addison Wesley},
+  year      = {2012},
+  author    = {Lippman, Stanley B. and Lajoie, Josee and Moo, Barbara E.},
+  isbn      = {0321714113},
+  date      = {2012-08-01},
+  ean       = {9780321714114},
+  file      = {:Lippman2012.pdf:PDF},
+  groups    = {books},
+  owner     = {kfeng123},
+  timestamp = {2019.04.30},
+  url       = {https://www.ebook.de/de/product/18559954/stanley_b_lippman_josee_lajoie_barbara_e_moo_c_primer.html},
+}
+
+@Article{Koltchinskii2019,
+  author    = {Vladimir Koltchinskii and Richard Nickl and Philippe Rigollet},
+  title     = {A Conversation with Dick Dudley},
+  journal   = {Statistical Science},
+  year      = {2019},
+  volume    = {34},
+  number    = {1},
+  pages     = {169--175},
+  month     = {feb},
+  doi       = {10.1214/18-sts678},
+  file      = {:Koltchinskii2019.pdf:PDF},
+  owner     = {kfeng123},
+  publisher = {Institute of Mathematical Statistics},
+  timestamp = {2019.05.03},
+}
+
+@Book{JorgeNocedal2006,
+  title     = {Numerical Optimization},
+  publisher = {Springer-Verlag GmbH},
+  year      = {2006},
+  author    = {Jorge Nocedal, Stephen Wright},
+  isbn      = {0387303030},
+  date      = {2006-09-01},
+  ean       = {9780387303031},
+  file      = {:JorgeNocedal2006.pdf:PDF},
+  groups    = {books},
+  owner     = {kfeng123},
+  timestamp = {2019.05.04},
+  url       = {https://www.ebook.de/de/product/5259764/jorge_nocedal_stephen_wright_numerical_optimization.html},
+}
+
+@Book{Dattorro2017,
+  title     = {Convex Optimization Euclidean Distance Geometry 2e},
+  publisher = {Meboo Publishing},
+  year      = {2017},
+  author    = {Dattorro},
+  isbn      = {0578161400},
+  date      = {2017-09-12},
+  ean       = {9780578161402},
+  file      = {:Dattorro2017.pdf:PDF},
+  groups    = {books},
+  owner     = {kfeng123},
+  pagetotal = {702},
+  timestamp = {2019.05.04},
+  url       = {https://www.ebook.de/de/product/24951508/dattorro_convex_optimization_euclidean_distance_geometry_2e.html},
+}
+
+@Article{Frazier2018,
+  author    = {Frazier, D. T. and Martin, G. M. and Robert, C. P. and Rousseau, J.},
+  title     = {Asymptotic properties of approximate {B}ayesian computation},
+  journal   = {Biometrika},
+  year      = {2018},
+  volume    = {105},
+  number    = {3},
+  pages     = {593--607},
+  issn      = {0006-3444},
+  doi       = {10.1093/biomet/asy027},
+  groups    = {Bayes},
+  keywords  = {62F12 (62F15)},
+  mrnumber  = {3842887},
+  owner     = {kfeng123},
+  timestamp = {2019.05.05},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
@@ -16749,6 +17093,7 @@
 1 StaticGroup:econometric\;0\;1\;\;\;\;;
 1 StaticGroup:empirical process\;0\;1\;\;\;\;;
 1 StaticGroup:EV model\;0\;1\;\;\;\;;
+1 StaticGroup:Extremes\;0\;1\;\;\;\;;
 1 StaticGroup:factor and PCA\;0\;1\;\;\;\;;
 1 StaticGroup:functional data\;0\;1\;\;\;\;;
 1 StaticGroup:gaussian process\;0\;1\;\;\;\;;
@@ -16773,19 +17118,18 @@
 1 StaticGroup:precision medicine\;0\;1\;\;\;\;;
 1 StaticGroup:Random matrices\;0\;1\;\;\;\;;
 1 StaticGroup:randomization test\;0\;1\;\;\;\;;
+1 StaticGroup:Regression test\;0\;1\;\;\;\;;
 1 StaticGroup:regularized regression\;0\;1\;\;\;\;;
 1 StaticGroup:screening\;0\;1\;\;\;\;;
 1 StaticGroup:selfNormalization\;0\;1\;\;\;\;;
 1 StaticGroup:single-index model\;0\;1\;\;\;\;;
 1 StaticGroup:SPATIO-TEMPORAL MODEL\;0\;1\;\;\;\;;
 1 StaticGroup:stat software\;0\;1\;\;\;\;;
+1 StaticGroup:Structural equation models\;0\;1\;\;\;\;;
 1 StaticGroup:supervised classification\;0\;1\;\;\;\;;
-1 StaticGroup:Regression test\;0\;1\;\;\;\;;
 1 StaticGroup:Time Series\;0\;1\;\;\;\;;
 1 StaticGroup:variance estimation\;0\;1\;\;\;\;;
 1 StaticGroup:variance test\;0\;1\;\;\;\;;
-1 StaticGroup:Extremes\;0\;1\;\;\;\;;
-1 StaticGroup:Structural equation models\;0\;1\;\;\;\;;
 }
 
 @Comment{jabref-meta: groupsversion:
