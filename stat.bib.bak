@@ -18886,6 +18886,55 @@
   timestamp = {2019.06.24},
 }
 
+@Article{Yan2017,
+  author    = {Yan, Liang and Wang, Rui and Xu, Xingzhong},
+  title     = {A new confidence interval in errors-in-variables model with known error variance},
+  journal   = {Journal of Applied Statistics},
+  year      = {2017},
+  volume    = {44},
+  number    = {12},
+  pages     = {2204--2221},
+  issn      = {0266-4763},
+  doi       = {10.1080/02664763.2016.1247793},
+  groups    = {EV model},
+  keywords  = {Expansion},
+  mrnumber  = {3670299},
+  owner     = {kfeng123},
+  timestamp = {2019.06.29},
+}
+
+@Article{Yan2017a,
+  author    = {Yan, Liang and Wang, Rui and Xu, Xingzhong},
+  title     = {Fiducial inference in the classical errors-in-variables model},
+  journal   = {Metrika. International Journal for Theoretical and Applied Statistics},
+  year      = {2017},
+  volume    = {80},
+  number    = {1},
+  pages     = {93--114},
+  issn      = {0026-1335},
+  doi       = {10.1007/s00184-016-0593-9},
+  groups    = {EV model},
+  keywords  = {62F25 (62F99)},
+  mrnumber  = {3592103},
+  owner     = {kfeng123},
+  timestamp = {2019.06.29},
+}
+
+@Article{Sun2012,
+  author   = {Sun, Tingni and Zhang, Cun-Hui},
+  title    = {Scaled sparse linear regression},
+  journal  = {Biometrika},
+  year     = {2012},
+  volume   = {99},
+  number   = {4},
+  pages    = {879--898},
+  issn     = {0006-3444},
+  doi      = {10.1093/biomet/ass043},
+  groups   = {regularized regression},
+  keywords = {62J05 (62J07)},
+  mrnumber = {2999166},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
