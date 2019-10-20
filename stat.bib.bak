@@ -1,5 +1,20 @@
 % Encoding: UTF-8
 
+@InProceedings{Lopes2015A,
+  author    = {Miles Lopes and Laurent Jacob and Martin J. Wainwright},
+  title     = {A More Powerful Two-Sample Test in High Dimensions using Random Projection},
+  booktitle = {Advances in Neural Information Processing Systems 24: 25th Annual Conference on Neural Information Processing Systems 2011. Proceedings of a meeting held 12-14 December 2011, Granada, Spain.},
+  year      = {2011},
+  pages     = {1206--1214},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  biburl    = {https://dblp.org/rec/bib/conf/nips/LopesJW11},
+  crossref  = {DBLP:conf/nips/2011},
+  file      = {:Lopes2015A.pdf:PDF},
+  groups    = {mean test},
+  timestamp = {Thu, 11 Dec 2014 17:34:08 +0100},
+  url       = {http://papers.nips.cc/paper/4260-a-more-powerful-two-sample-test-in-high-dimensions-using-random-projection},
+}
+
 @Article{Addario2010ON,
   author  = {Addario-Berry, Louigi and Broutin, Nicolas and Devroye, Luc and Lugosi, Gábor},
   title   = {ON COMBINATORIAL TESTING PROBLEMS},
@@ -407,14 +422,13 @@
 }
 
 @Book{lme4Book,
-  title         = {lme4: Mixed-effects modeling with R},
-  year          = {2010},
-  author        = {Douglas M. Bates},
-  __markedentry = {[kfeng123:]},
-  file          = {lme4Book.pdf:lme4Book.pdf:PDF},
-  groups        = {books},
-  owner         = {kfeng123},
-  timestamp     = {2016.05.10},
+  title     = {lme4: Mixed-effects modeling with R},
+  year      = {2010},
+  author    = {Douglas M. Bates},
+  file      = {lme4Book.pdf:lme4Book.pdf:PDF},
+  groups    = {books},
+  owner     = {kfeng123},
+  timestamp = {2016.05.10},
 }
 
 @Article{Bates20041,
@@ -1093,7 +1107,6 @@
   doi           = {10.1007/978-0-387-75971-5},
   file          = {book\:336898.pdf:book\:336898.pdf:PDF},
   groups        = {books},
-  url           = {http://gen.lib.rus.ec/book/index.php?md5=A654AEFD453562DE220808A898DCF4CB},
 }
 
 @Article{MR0264450,
@@ -1497,24 +1510,6 @@
   groups    = {books},
 }
 
-@Article{wang2017As,
-  author        = {Wang, Weichen and Fan, Jianqing},
-  title         = {Asymptotics of empirical eigenstructure for high dimensional spiked covariance},
-  journal       = {Ann. Statist.},
-  year          = {2017},
-  volume        = {45},
-  number        = {3},
-  pages         = {1342--1374},
-  month         = {06},
-  __markedentry = {[kfeng123:1]},
-  doi           = {10.1214/16-AOS1487},
-  file          = {:wang2017As.pdf:PDF},
-  fjournal      = {The Annals of Statistics},
-  groups        = {factor and PCA},
-  publisher     = {The Institute of Mathematical Statistics},
-  url           = {https://doi.org/10.1214/16-AOS1487},
-}
-
 @Article{Fan2013Large,
   author        = {Fan, Jianqing and Yuan, Liao and Mincheva, Martina},
   title         = {Large covariance estimation by thresholding principal orthogonal complements},
@@ -1593,15 +1588,6 @@
   __markedentry = {[kfeng123:5]},
   file          = {Feng2015Multivariate.pdf:Feng2015Multivariate.pdf:PDF},
   groups        = {mean test},
-}
-
-@Article{Feng2014Two,
-  author  = {Feng, Long and Zou, Changliang and Wang, Zhaojun and Zhu, Lixing},
-  title   = {Two-sample behrens-fisher problem for high-dimensional data},
-  journal = {Statistica Sinica},
-  year    = {2014},
-  file    = {Feng2014Two.pdf:Feng2014Two.pdf:PDF},
-  groups  = {mean test},
 }
 
 @Article{Ferguson1982An,
@@ -2691,12 +2677,11 @@
 }
 
 @Article{Lax2008Linear,
-  author        = {Lax, Peter D.},
-  title         = {Linear algebra and its applications. 2nd edition},
-  year          = {2008},
-  __markedentry = {[kfeng123:]},
-  file          = {Lax2008Linear.pdf:Lax2008Linear.pdf:PDF},
-  groups        = {books},
+  author = {Lax, Peter D.},
+  title  = {Linear algebra and its applications. 2nd edition},
+  year   = {2008},
+  file   = {Lax2008Linear.pdf:Lax2008Linear.pdf:PDF},
+  groups = {books},
 }
 
 @Article{lecam1970assumptions,
@@ -2911,17 +2896,6 @@
   groups  = {regularized regression},
 }
 
-@Article{Lopes2015A,
-  author        = {Lopes, Miles E. and Jacob, Laurent J. and Wainwright, Martin J.},
-  title         = {A More Powerful Two-Sample Test in High Dimensions using Random Projection},
-  journal       = {Statistics},
-  year          = {2015},
-  pages         = {1206-1214},
-  __markedentry = {[kfeng123:1]},
-  file          = {Lopes2015A.pdf:Lopes2015A.pdf:PDF},
-  groups        = {mean test},
-}
-
 @Article{Lopuhaa1991Breakdown,
   author  = {Lopuhaa, Hendrik P. and Rousseeuw, Peter J.},
   title   = {Breakdown Points of Affine Equivariant Estimators of Multivariate Location and Covariance Matrices},
@@ -2955,18 +2929,6 @@
   __markedentry = {[kfeng123:1]},
   file          = {tierney2012accurate.pdf:tierney2012accurate.pdf:PDF},
   groups        = {Bayes},
-}
-
-@Article{Ma2015A,
-  author        = {Ma, Yingying and Lan, Wei and Wang, Hansheng},
-  title         = {A high dimensional two-sample test under a low dimensional factor structure},
-  journal       = {Journal of Multivariate Analysis},
-  year          = {2015},
-  volume        = {140},
-  pages         = {162–170},
-  __markedentry = {[kfeng123:1]},
-  file          = {Ma2015A.pdf:Ma2015A.pdf:PDF},
-  groups        = {mean test},
 }
 
 @Article{Ma2013Sparse,
@@ -3777,7 +3739,6 @@
   groups        = {factor and PCA},
   keywords      = {Mathematics - Statistics Theory},
   primaryclass  = {math.ST},
-  url           = {http://jmlr.org/papers/v17/14-229.html},
 }
 
 @Article{Shen2013Consistency,
@@ -4071,19 +4032,6 @@
   groups  = {GWAS},
 }
 
-@Article{Thulin2014A,
-  author        = {Thulin, Måns},
-  title         = {A high-dimensional two-sample test for the mean using random subspaces ☆},
-  journal       = {Computational Statistics \& Data Analysis},
-  year          = {2014},
-  volume        = {74},
-  number        = {5},
-  pages         = {26-38},
-  __markedentry = {[kfeng123:1]},
-  file          = {Thulin2014A.pdf:Thulin2014A.pdf:PDF},
-  groups        = {mean test},
-}
-
 @InProceedings{Tipping1999Probabilistic,
   author        = {Tipping, Michael E. and Bishop, Christopher M.},
   title         = {Probabilistic Principal Component Analysis},
@@ -4304,18 +4252,6 @@
   groups  = {likelihood},
 }
 
-@Article{Wang2015A,
-  author        = {Lan Wang and Bo Peng and Runze Li},
-  title         = {A High-Dimensional Nonparametric Multivariate Test for Mean Vector},
-  journal       = {Journal of the American Statistical Association},
-  year          = {2015},
-  volume        = {110},
-  pages         = {1658-1669},
-  __markedentry = {[kfeng123:5]},
-  file          = {Wang2015A.pdf:Wang2015A.pdf:PDF},
-  groups        = {mean test},
-}
-
 @Article{Wang2005Limit,
   author  = {Wang, Qiying},
   title   = {Limit Theorems for Self-Normalized Large Deviation},
@@ -4405,13 +4341,12 @@
 }
 
 @Book{Wickham2009,
-  title         = {ggplot2: elegant graphics for data analysis},
-  publisher     = {Springer Science \& Business Media},
-  year          = {2009},
-  author        = {Wickham, Hadley},
-  __markedentry = {[kfeng123:]},
-  file          = {Wickham2009.PDF:Wickham2009.PDF:PDF},
-  groups        = {books},
+  title     = {ggplot2: elegant graphics for data analysis},
+  publisher = {Springer Science \& Business Media},
+  year      = {2009},
+  author    = {Wickham, Hadley},
+  file      = {Wickham2009.PDF:Wickham2009.PDF:PDF},
+  groups    = {books},
 }
 
 @Article{Wilks1938The,
@@ -4520,7 +4455,7 @@
   groups        = {mean test},
 }
 
-@Article{zhang2016simultaneous,
+@Article{ZC2017,
   author  = {Xianyang Zhang and Guang Cheng},
   title   = {Simultaneous Inference for High-dimensional Linear Models},
   journal = {Journal of the American Statistical Association},
@@ -4626,16 +4561,6 @@
   groups  = {aggregation of estimators},
 }
 
-@Article{Zhao2016A,
-  author        = {Zhao, Junguang and Xu, Xingzhong},
-  title         = {A generalized likelihood ratio test for normal mean when p is greater than n},
-  journal       = {Computational Statistics \& Data Analysis},
-  year          = {2016},
-  __markedentry = {[kfeng123:1]},
-  file          = {Zhao2016A.pdf:Zhao2016A.pdf:PDF},
-  groups        = {mean test},
-}
-
 @Article{Zhao1986On,
   author  = {Zhao, L C and Krishnaiah, P R and Bai, Z D},
   title   = {On detection of the number of signals in presence of white noise},
@@ -4645,17 +4570,6 @@
   number  = {1},
   pages   = {1-25},
   groups  = {factor and PCA},
-}
-
-@Article{Zhidong2015,
-  author    = {HU Jiang and BAI Zhidong},
-  title     = {A review of 20 years of naive tests of significance for high-dimensional mean vectors and covariance},
-  journal   = {SCIENCE CHINA},
-  year      = {2015},
-  file      = {Zhidong2015.pdf:Zhidong2015.pdf:PDF},
-  groups    = {variance test, mean test},
-  owner     = {kfeng123},
-  timestamp = {2016.03.25},
 }
 
 @Article{Zhong2011Tests,
@@ -5167,7 +5081,6 @@
   eprint  = {/oup/backfile/content_public/journal/bioinformatics/25/7/10.1093_bioinformatics_btp098/1/btp098.pdf},
   file    = {Tsai2009.pdf:Tsai2009.pdf:PDF},
   groups  = {MANOVA},
-  url     = { + http://dx.doi.org/10.1093/bioinformatics/btp098},
 }
 
 @Article{Zwick1985Nonparametric,
@@ -5270,7 +5183,6 @@
   doi       = {10.1214/aoms/1177729029},
   fjournal  = {The Annals of Mathematical Statistics},
   publisher = {The Institute of Mathematical Statistics},
-  url       = {https://doi.org/10.1214/aoms/1177729029},
 }
 
 @Article{Merhav1998,
@@ -5579,7 +5491,6 @@
   edition   = {1st},
   isbn      = {9780521305877,0-521-30587-X},
   file      = {book\:1244195.djvu:book\:1244195.djvu:Djvu},
-  url       = {http://gen.lib.rus.ec/book/index.php?md5=299C7C5C2E287F85BC0A82FABF6CED57},
 }
 
 @Book{book:872578,
@@ -5657,7 +5568,7 @@
   file    = {T2006Adaptive.pdf:T2006Adaptive.pdf:PDF},
 }
 
-@Article{Chang2017,
+@Article{Zhou2017H,
   author        = {Bu Zhou and Jia Guo and Jin-Ting Zhang},
   title         = {High-dimensional general linear hypothesis testing under heteroscedasticity},
   journal       = {Journal of Statistical Planning and Inference},
@@ -5670,7 +5581,6 @@
   file          = {Chang2017.pdf:Chang2017.pdf:PDF},
   groups        = {MANOVA},
   publisher     = {Elsevier {BV}},
-  url           = {https://doi.org/10.1016/j.jspi.2017.03.002},
 }
 
 @Article{Barron2008,
@@ -5774,7 +5684,6 @@
   file     = {:YATA2012193.pdf:PDF},
   groups   = {factor and PCA},
   keywords = {Consistency, Discriminant analysis, Eigenvalue distribution, Geometric representation, HDLSS, Inverse matrix, Noise reduction, Principal component analysis},
-  url      = {http://www.sciencedirect.com/science/article/pii/S0047259X11001904},
 }
 
 @Book{book:723961,
@@ -6445,10 +6354,6 @@
   file          = {:intrisicBayesFactor.pdf:PDF},
   groups        = {Bayes},
   publisher     = {Taylor \& Francis},
-  url           = { 
-        http://www.tandfonline.com/doi/abs/10.1080/01621459.1996.10476668
-    
-},
 }
 
 @Article{LI2014602,
@@ -6683,7 +6588,6 @@
   file          = {:Aoshima2018.pdf:PDF},
   groups        = {mean test},
   publisher     = {Institute of Statistical Science},
-  url           = {https://doi.org/10.5705/ss.202016.0063},
 }
 
 @Article{Roger2017,
@@ -6706,19 +6610,20 @@
 }
 
 @Article{Xu2016,
-  author    = {Gongjun Xu and Lifeng Lin and Peng Wei and Wei Pan},
-  title     = {An adaptive two-sample test for high-dimensional means},
-  journal   = {Biometrika},
-  year      = {2016},
-  volume    = {103},
-  number    = {3},
-  pages     = {609--624},
-  month     = {sep},
-  doi       = {10.1093/biomet/asw029},
-  file      = {:Xu2016.pdf:PDF},
-  groups    = {mean test},
-  publisher = {Oxford University Press ({OUP})},
-  url       = {https://doi.org/10.1093/biomet/asw029},
+  author        = {Gongjun Xu and Lifeng Lin and Peng Wei and Wei Pan},
+  title         = {An adaptive two-sample test for high-dimensional means},
+  journal       = {Biometrika},
+  year          = {2016},
+  volume        = {103},
+  number        = {3},
+  pages         = {609--624},
+  month         = {sep},
+  __markedentry = {[kfeng123:5]},
+  doi           = {10.1093/biomet/asw029},
+  file          = {:Xu2016.pdf:PDF},
+  groups        = {mean test},
+  publisher     = {Oxford University Press ({OUP})},
+  url           = {https://doi.org/10.1093/biomet/asw029},
 }
 
 @Article{Seokho2015,
@@ -6844,10 +6749,6 @@
   file          = {:chenjiahua2017.pdf:PDF},
   groups        = {mixture},
   publisher     = {Taylor \& Francis},
-  url           = { 
-        https://doi.org/10.1080/24754269.2017.1321883
-    
-},
 }
 
 @Article{chen2017,
@@ -7268,7 +7169,6 @@
   file     = {:HALL2005158.pdf:PDF},
   groups   = {mixture},
   keywords = {Asymptotic distribution, Critical phenomenon, Extreme-value theory, Gaussian mixture, Likelihood-ratio test, Local alternative, Null hypothesis, Pitman alternative},
-  url      = {http://www.sciencedirect.com/science/article/pii/S0378375804001879},
 }
 
 @Book{book:911110,
@@ -7347,13 +7247,12 @@
   year     = {2004},
   volume   = {123},
   number   = {1},
-  pages    = {61 - 81},
+  pages    = {61-81},
   issn     = {0378-3758},
   doi      = {https://doi.org/10.1016/S0378-3758(03)00138-1},
   file     = {:LIU200461.pdf:PDF},
   groups   = {mixture},
   keywords = {Asymptotic distribution, Gaussian mixture model, Homogeneity test, Likelihood ratio test},
-  url      = {http://www.sciencedirect.com/science/article/pii/S0378375803001381},
 }
 
 @Article{Bai2018,
@@ -7491,23 +7390,6 @@
   file      = {:Blei2017.pdf:PDF},
   groups    = {Bayes},
   publisher = {Taylor \& Francis},
-  url       = { 
-        https://doi.org/10.1080/01621459.2017.1285773
-    
-},
-}
-
-@Article{yixin2017,
-  author    = {Yixin Wang and David M. Blei},
-  title     = {Frequentist Consistency of Variational Bayes},
-  journal   = {Journal of the American Statistical Association},
-  year      = {2018},
-  pages     = {1--15},
-  month     = {jun},
-  doi       = {10.1080/01621459.2018.1473776},
-  file      = {:yixin2017.pdf:PDF},
-  groups    = {Bayes},
-  publisher = {Informa {UK} Limited},
 }
 
 @InCollection{yingzhen2016,
@@ -7687,7 +7569,6 @@
   groups        = {Bayes, consistency},
   keywords      = {Asymptotics ? Bayesian sieve ? Bayes nonparametrics ? Consistency},
   publisher     = {The Royal Statistical Society and Blackwell Publishing Ltd},
-  url           = {http://kar.kent.ac.uk/10563/},
 }
 
 @Book{book:625104,
@@ -7781,7 +7662,6 @@
   file     = {:Yata2013PCA.pdf:PDF},
   groups   = {factor and PCA},
   keywords = {Cross-data-matrix methodology, HDLSS, Large small , Microarray data, Noise-reduction methodology},
-  url      = {http://www.sciencedirect.com/science/article/pii/S0047259X13001644},
 }
 
 @Article{Ahn2007,
@@ -8096,7 +7976,7 @@
   url       = {https://doi.org/10.3150/15-BEJ710},
 }
 
-@Article{YAMADA20157,
+@Article{YAMADA2015,
   author        = {Takayuki Yamada and Tetsuto Himeno},
   title         = {Testing homogeneity of mean vectors under heteroscedasticity in high-dimension},
   journal       = {Journal of Multivariate Analysis},
@@ -8109,7 +7989,6 @@
   file          = {:YAMADA20157.pdf:PDF},
   groups        = {MANOVA},
   keywords      = {Testing homogeneity of mean vectors, High-dimension, Non-normal case},
-  url           = {http://www.sciencedirect.com/science/article/pii/S0047259X15000408},
 }
 
 @Article{Hu2017,
@@ -8128,7 +8007,6 @@
   doi           = {10.1007/s10463-015-0543-8},
   file          = {:Hu2017.pdf:PDF},
   groups        = {MANOVA},
-  url           = {https://doi.org/10.1007/s10463-015-0543-8},
 }
 
 @Article{Tony2017Global,
@@ -8206,7 +8084,6 @@
   fjournal      = {Annales de l'Institut Henri Poincaré, Probabilités et Statistiques},
   groups        = {factor and PCA},
   publisher     = {Institut Henri Poincaré},
-  url           = {https://doi.org/10.1214/15-AIHP705},
 }
 
 @Article{Drineas2018low,
@@ -8295,7 +8172,6 @@
   doi           = {10.1007/s13171-017-0106-6},
   file          = {:Koltchinskii2017.pdf:PDF},
   groups        = {factor and PCA},
-  url           = {https://doi.org/10.1007/s13171-017-0106-6},
 }
 
 @Article{golub1973some,
@@ -8534,24 +8410,23 @@
   file     = {:YATA20102060.pdf:PDF},
   groups   = {factor and PCA},
   keywords = {Consistency, Eigenvalue distribution, HDLSS, Microarray data analysis, Mixture model, Principal component analysis, Singular value},
-  url      = {http://www.sciencedirect.com/science/article/pii/S0047259X10000904},
 }
 
-@Article{2017arXiv171007878C,
-  author        = {{Cao}, M. and {Park}, J. and {He}, D.},
-  title         = {{A test for k sample Behrens-Fisher problem in high dimensional data}},
-  journal       = {ArXiv e-prints},
-  year          = {2017},
-  month         = oct,
+@Article{Cao_2019,
+  author        = {Ming-Xiang Cao and Junyong Park and Dao-Jiang He},
+  title         = {A test for the k sample Behrens{\textendash}Fisher problem in high dimensional data},
+  journal       = {Journal of Statistical Planning and Inference},
+  year          = {2019},
+  volume        = {201},
+  pages         = {86--102},
+  month         = {jul},
   __markedentry = {[kfeng123:4]},
   adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl        = {http://adsabs.harvard.edu/abs/2017arXiv171007878C},
-  archiveprefix = {arXiv},
-  eprint        = {1710.07878},
+  doi           = {10.1016/j.jspi.2018.12.002},
   file          = {:2017arXiv171007878C.pdf:PDF},
   groups        = {MANOVA},
-  keywords      = {Mathematics - Statistics Theory, 62H15, 62E20},
   primaryclass  = {math.ST},
+  publisher     = {Elsevier {BV}},
 }
 
 @Article{ZHANG2017200,
@@ -8560,14 +8435,13 @@
   journal       = {Journal of Multivariate Analysis},
   year          = {2017},
   volume        = {155},
-  pages         = {200 - 216},
+  pages         = {200 -216},
   issn          = {0047-259X},
   __markedentry = {[kfeng123:4]},
   doi           = {https://doi.org/10.1016/j.jmva.2017.01.002},
   file          = {:ZHANG2017200.pdf:PDF},
   groups        = {MANOVA},
   keywords      = {High-dimensional data, -norm based test, -type mixtures, One-way MANOVA, Welch–Satterthwaite approximation},
-  url           = {http://www.sciencedirect.com/science/article/pii/S0047259X17300064},
 }
 
 @Article{ZHOU2015216,
@@ -8583,19 +8457,6 @@
   groups   = {mean test},
   keywords = {Approximate factor model, Large dimensional covariance matrix, Precision matrix},
   url      = {http://www.sciencedirect.com/science/article/pii/S0378375815000762},
-}
-
-@Article{WANG2018,
-  author   = {Rui Wang and Xingzhong Xu},
-  title    = {A feasible high dimensional randomization test for the mean vector},
-  journal  = {Journal of Statistical Planning and Inference},
-  year     = {2018},
-  issn     = {0378-3758},
-  doi      = {https://doi.org/10.1016/j.jspi.2018.06.003},
-  file     = {:WANG2018.pdf:PDF},
-  groups   = {mean test},
-  keywords = {Asymptotic power function, High dimension, Randomization test, Symmetry assumption},
-  url      = {http://www.sciencedirect.com/science/article/pii/S0378375818300879},
 }
 
 @Article{HONG2018435,
@@ -8627,7 +8488,6 @@
   groups    = {mean test},
   keywords  = {High dimension, Mean test, Principal subspace, Spiked covariance model},
   publisher = {Elsevier {BV}},
-  url       = {http://www.sciencedirect.com/science/article/pii/S0047259X17304165},
 }
 
 @Article{TOMA2013359,
@@ -9227,10 +9087,6 @@
   file          = {:Liang2008Mixtures.pdf:PDF},
   groups        = {regression, Bayes},
   publisher     = {Taylor \& Francis},
-  url           = { 
-        https://doi.org/10.1198/016214507000001337
-    
-},
 }
 
 @Article{zhou2018On,
@@ -9247,10 +9103,6 @@
   eprint        = {https://doi.org/10.1080/01621459.2017.1328361},
   file          = {:zhou2018On.pdf:PDF},
   groups        = {regression},
-  url           = { 
-        https://doi.org/10.1080/01621459.2017.1328361
-    
-},
 }
 
 @Article{moreno2010,
@@ -9338,7 +9190,6 @@
   groups        = {regression},
   keywords      = {calibration curve, g-priors, intrinsic priors, Jeffreys prior, model selection, normal linear model, p-values, reference prior, robustness},
   publisher     = {Wiley},
-  url           = {https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9469.2006.00514.x},
 }
 
 @Article{Moreno1998An,
@@ -9375,10 +9226,6 @@
   eprint        = {https://doi.org/10.1198/016214505000000646},
   file          = {:Casella2006Obj.pdf:PDF},
   groups        = {regression},
-  url           = { 
-        https://doi.org/10.1198/016214505000000646
-    
-},
 }
 
 @Article{Li2018Mixtures,
@@ -9565,7 +9412,6 @@
   file          = {:Bayarri2008Gen.pdf:PDF},
   groups        = {Bayes factor},
   keywords      = {Bayes factors, Information consistency, Intrinsic priors, Irregular models, Kullback, Leibler divergence, Mixture models},
-  url           = {https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9868.2008.00667.x},
 }
 
 @Article{narisetty2014,
@@ -10459,7 +10305,6 @@
   file     = {:santis1997Alt.pdf:PDF},
   groups   = {regression},
   keywords = {Bayes factor, Bayesian inference, model comparison, partial Bayes factor, robustness.},
-  url      = {https://onlinelibrary.wiley.com/doi/abs/10.2307/3315344},
 }
 
 @Article{2017arXiv171009146O,
@@ -11764,7 +11609,7 @@
   month     = {jul},
   doi       = {10.1111/rssb.12026},
   file      = {:Zhang2013.pdf:PDF},
-  groups    = {Regression test},
+  groups    = {Regression test, desparsifying},
   owner     = {kfeng123},
   publisher = {Wiley},
   timestamp = {2018.11.19},
@@ -13636,21 +13481,6 @@
   groups    = {Regression test},
   owner     = {kfeng123},
   publisher = {Institute of Mathematical Statistics},
-  timestamp = {2019.01.15},
-}
-
-@Article{Zhu2017,
-  author    = {Yinchu Zhu and Jelena Bradic},
-  title     = {Linear Hypothesis Testing in Dense High-Dimensional Linear Models},
-  journal   = {Journal of the American Statistical Association},
-  year      = {2017},
-  pages     = {1--18},
-  month     = {aug},
-  doi       = {10.1080/01621459.2017.1356319},
-  file      = {:Zhu2017.pdf:PDF},
-  groups    = {Regression test},
-  owner     = {kfeng123},
-  publisher = {Informa {UK} Limited},
   timestamp = {2019.01.15},
 }
 
@@ -16498,7 +16328,7 @@
   eprint      = {http://arxiv.org/abs/1904.07416v1},
   eprintclass = {stat.ME},
   eprinttype  = {arXiv},
-  file        = {:http\://arxiv.org/pdf/1904.07416v1:PDF},
+  file        = {:Xue2019.pdf:PDF},
   groups      = {mean test},
   keywords    = {stat.ME, math.ST, stat.TH},
   owner       = {kfeng123},
@@ -17318,23 +17148,6 @@
   mrnumber  = {3076163},
   owner     = {kfeng123},
   timestamp = {2019.05.20},
-}
-
-@InProceedings{pati18a,
-  author    = {Debdeep Pati and Anirban Bhattacharya and Yun Yang},
-  title     = {On Statistical Optimality of Variational Bayes},
-  booktitle = {Proceedings of the Twenty-First International Conference on Artificial Intelligence and Statistics},
-  year      = {2018},
-  editor    = {Amos Storkey and Fernando Perez-Cruz},
-  volume    = {84},
-  series    = {Proceedings of Machine Learning Research},
-  pages     = {1579--1588},
-  address   = {Playa Blanca, Lanzarote, Canary Islands},
-  month     = {09--11 Apr},
-  publisher = {PMLR},
-  abstract  = {The article  addresses a long-standing open problem on the justification of using variational Bayes methods for parameter estimation.  We provide general conditions for obtaining optimal risk bounds for point estimates acquired from mean-field variational Bayesian inference. The conditions pertain to the existence of certain test functions for the distance metric on the parameter space and minimal assumptions on the prior.  A general recipe for verification of the conditions is outlined which is  broadly applicable to existing Bayesian models with or without latent variables. As illustrations,  specific applications to Latent Dirichlet Allocation and Gaussian mixture models are discussed. },
-  file      = {:pati18a.pdf:PDF;pati18a.pdf:http\://proceedings.mlr.press/v84/pati18a/pati18a.pdf:PDF},
-  url       = {http://proceedings.mlr.press/v84/pati18a.html},
 }
 
 @Article{Barron1999a,
@@ -18990,10 +18803,367 @@
   journal   = {Statistica Sinica},
   year      = {2021},
   doi       = {10.5705/ss.202018.0279},
+  file      = {:Wang2021.pdf:PDF},
   groups    = {MANOVA},
   owner     = {kfeng123},
   publisher = {Institute of Statistical Science},
   timestamp = {2019.10.01},
+}
+
+@Book{Fisher1935experiments,
+  title     = {The design of experiments},
+  publisher = {Oliver and Boyd},
+  year      = {1935},
+  author    = {Fisher, R. A.},
+  address   = {Edinburgh},
+  edition   = {1},
+  file      = {:Fisher1935experiments.pdf:PDF},
+  groups    = {books},
+  owner     = {kfeng123},
+  timestamp = {2019.10.16},
+}
+
+@Article{Subramanian2005,
+  author    = {A. Subramanian and P. Tamayo and V. K. Mootha and S. Mukherjee and B. L. Ebert and M. A. Gillette and A. Paulovich and S. L. Pomeroy and T. R. Golub and E. S. Lander and J. P. Mesirov},
+  title     = {Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles},
+  journal   = {Proceedings of the National Academy of Sciences},
+  year      = {2005},
+  volume    = {102},
+  number    = {43},
+  pages     = {15545--15550},
+  month     = {sep},
+  doi       = {10.1073/pnas.0506580102},
+  groups    = {GWAS},
+  owner     = {kfeng123},
+  publisher = {Proceedings of the National Academy of Sciences},
+  timestamp = {2019.10.16},
+}
+
+@Article{Verstynen2005,
+  author    = {Timothy Verstynen and Jörn Diedrichsen and Neil Albert and Paul Aparicio and Richard B. Ivry},
+  title     = {Ipsilateral Motor Cortex Activity During Unimanual Hand Movements Relates to Task Complexity},
+  journal   = {Journal of Neurophysiology},
+  year      = {2005},
+  volume    = {93},
+  number    = {3},
+  pages     = {1209--1222},
+  month     = {mar},
+  doi       = {10.1152/jn.00720.2004},
+  groups    = {GWAS},
+  owner     = {kfeng123},
+  publisher = {American Physiological Society},
+  timestamp = {2019.10.16},
+}
+
+@Article{Ahn2010,
+  author    = {Ahn, Jeongyoun and Marron, J. S.},
+  title     = {The maximal data piling direction for discrimination},
+  journal   = {Biometrika},
+  year      = {2010},
+  volume    = {97},
+  number    = {1},
+  pages     = {254--259},
+  issn      = {0006-3444},
+  doi       = {10.1093/biomet/asp084},
+  groups    = {mean test},
+  keywords  = {Expansion},
+  mrnumber  = {2594434},
+  owner     = {kfeng123},
+  timestamp = {2019.10.16},
+}
+
+@InProceedings{pati2017,
+  author    = {Debdeep Pati and Anirban Bhattacharya and Yun Yang},
+  title     = {On Statistical Optimality of Variational Bayes},
+  booktitle = {Proceedings of the Twenty-First International Conference on Artificial Intelligence and Statistics},
+  year      = {2018},
+  editor    = {Amos Storkey and Fernando Perez-Cruz},
+  volume    = {84},
+  series    = {Proceedings of Machine Learning Research},
+  pages     = {1579--1588},
+  address   = {Playa Blanca, Lanzarote, Canary Islands},
+  month     = {09--11 Apr},
+  publisher = {PMLR},
+  file      = {pati18a.pdf:http\://proceedings.mlr.press/v84/pati18a/pati18a.pdf:PDF},
+}
+
+@Article{wang2017As,
+  author        = {Wang, Weichen and Fan, Jianqing},
+  title         = {Asymptotics of empirical eigenstructure for high dimensional spiked covariance},
+  journal       = {The Annals of Statistics},
+  year          = {2017},
+  volume        = {45},
+  number        = {3},
+  pages         = {1342--1374},
+  issn          = {0090-5364},
+  __markedentry = {[kfeng123:1]},
+  doi           = {10.1214/16-AOS1487},
+  groups        = {factor and PCA},
+  keywords      = {62H25 (62H10)},
+  mrnumber      = {3662457},
+  owner         = {kfeng123},
+  timestamp     = {2019.10.16},
+}
+
+@Article{yixin2017,
+  author    = {Wang, Yixin and Blei, David M.},
+  title     = {Frequentist {C}onsistency of {V}ariational {B}ayes},
+  journal   = {Journal of the American Statistical Association},
+  year      = {2019},
+  volume    = {114},
+  number    = {527},
+  pages     = {1147--1161},
+  issn      = {0162-1459},
+  doi       = {10.1080/01621459.2018.1473776},
+  file      = {:yixin2017.pdf:PDF},
+  groups    = {Bayes},
+  keywords  = {62C12 (62F15 62H15)},
+  mrnumber  = {4011769},
+  owner     = {kfeng123},
+  timestamp = {2019.10.16},
+}
+
+@Article{Zhao2016A,
+  author    = {Zhao, Junguang and Xu, Xingzhong},
+  title     = {A generalized likelihood ratio test for normal mean when {$p$} is greater than {$n$}},
+  journal   = {Computational Statistics \& Data Analysis},
+  year      = {2016},
+  volume    = {99},
+  pages     = {91--104},
+  issn      = {0167-9473},
+  doi       = {10.1016/j.csda.2016.01.006},
+  file      = {:Zhao2016A.pdf:PDF},
+  groups    = {mean test},
+  keywords  = {62H15},
+  mrnumber  = {3473084},
+  owner     = {kfeng123},
+  timestamp = {2019.10.16},
+}
+
+@Article{Feng2014Two,
+  author    = {Feng, Long and Zou, Changliang and Wang, Zhaojun and Zhu, Lixing},
+  title     = {Two-sample {B}ehrens-{F}isher problem for high-dimensional data},
+  journal   = {Statistica Sinica},
+  year      = {2015},
+  volume    = {25},
+  number    = {4},
+  pages     = {1297--1312},
+  issn      = {1017-0405},
+  file      = {:Feng2014Two.pdf:PDF},
+  groups    = {mean test},
+  keywords  = {62H15},
+  mrnumber  = {3409068},
+  owner     = {kfeng123},
+  timestamp = {2019.10.16},
+}
+
+@Article{Wang2015A,
+  author    = {Wang, Lan and Peng, Bo and Li, Runze},
+  title     = {A high-dimensional nonparametric multivariate test for mean vector},
+  journal   = {Journal of the American Statistical Association},
+  year      = {2015},
+  volume    = {110},
+  number    = {512},
+  pages     = {1658--1669},
+  issn      = {0162-1459},
+  doi       = {10.1080/01621459.2014.988215},
+  file      = {:Wang2015A.pdf:PDF},
+  groups    = {mean test},
+  keywords  = {62G10 (62G20 62H15)},
+  mrnumber  = {3449062},
+  owner     = {kfeng123},
+  timestamp = {2019.10.16},
+}
+
+@Article{Wang2019A,
+  author    = {Wang, Rui and Xu, Xingzhong},
+  title     = {A feasible high dimensional randomization test for the mean vector},
+  journal   = {Journal of Statistical Planning and Inference},
+  year      = {2019},
+  volume    = {199},
+  pages     = {160--178},
+  issn      = {0378-3758},
+  doi       = {10.1016/j.jspi.2018.06.003},
+  file      = {:WANG2018.pdf:PDF},
+  groups    = {mean test},
+  keywords  = {62H15 (62F05)},
+  mrnumber  = {3857820},
+  owner     = {kfeng123},
+  timestamp = {2019.10.16},
+}
+
+@Article{MWW2015A,
+  author        = {Ma, Yingying and Lan, Wei and Wang, Hansheng},
+  title         = {A high dimensional two-sample test under a low dimensional factor structure},
+  journal       = {Journal of Multivariate Analysis},
+  year          = {2015},
+  volume        = {140},
+  pages         = {162--170},
+  issn          = {0047-259X},
+  __markedentry = {[kfeng123:1]},
+  doi           = {10.1016/j.jmva.2015.05.005},
+  file          = {:Ma2015A.pdf:PDF},
+  groups        = {mean test},
+  keywords      = {62H15 (62P05)},
+  mrnumber      = {3372560},
+  owner         = {kfeng123},
+  timestamp     = {2019.10.16},
+}
+
+@Book{Geer2016a,
+  title     = {Estimation and testing under sparsity},
+  publisher = {Springer, [Cham]},
+  year      = {2016},
+  author    = {van de Geer, Sara},
+  volume    = {2159},
+  series    = {Lecture Notes in Mathematics},
+  isbn      = {978-3-319-32773-0; 978-3-319-32774-7},
+  note      = {Lecture notes from the 45th Probability Summer School held in Saint-Four, 2015, \'{E}cole d'\'{E}t\'{e} de Probabilit\'{e}s de Saint-Flour. [Saint-Flour Probability Summer School]},
+  doi       = {10.1007/978-3-319-32774-7},
+  file      = {:Geer2016a.pdf:PDF},
+  groups    = {books},
+  keywords  = {62J07 (60F05 60F17 62-XX 62G20)},
+  mrnumber  = {3526202},
+  owner     = {kfeng123},
+  pages     = {xiii+274},
+  timestamp = {2019.10.17},
+}
+
+@Article{Chernozhukov2017,
+  author    = {Chernozhukov, Victor and Chetverikov, Denis and Kato, Kengo},
+  title     = {Central limit theorems and bootstrap in high dimensions},
+  journal   = {The Annals of Probability},
+  year      = {2017},
+  volume    = {45},
+  number    = {4},
+  pages     = {2309--2352},
+  issn      = {0091-1798},
+  doi       = {10.1214/16-AOP1113},
+  groups    = {mean test},
+  keywords  = {60F05 (62E17)},
+  mrnumber  = {3693963},
+  owner     = {kfeng123},
+  timestamp = {2019.10.18},
+}
+
+@Article{Thulin2014A,
+  author        = {Thulin, M\aa ns},
+  title         = {A high-dimensional two-sample test for the mean using random subspaces},
+  journal       = {Computational Statistics \& Data Analysis},
+  year          = {2014},
+  volume        = {74},
+  pages         = {26--38},
+  issn          = {0167-9473},
+  __markedentry = {[kfeng123:1]},
+  doi           = {10.1016/j.csda.2013.12.003},
+  file          = {:Thulin2014A.pdf:PDF},
+  groups        = {mean test},
+  keywords      = {Expansion},
+  mrnumber      = {3168958},
+  owner         = {kfeng123},
+  timestamp     = {2019.10.18},
+}
+
+@Article{Tibshirani1996,
+  author    = {Tibshirani, Robert},
+  title     = {Regression shrinkage and selection via the lasso},
+  journal   = {Journal of the Royal Statistical Society. Series B. Methodological},
+  year      = {1996},
+  volume    = {58},
+  number    = {1},
+  pages     = {267--288},
+  issn      = {0035-9246},
+  groups    = {regularized regression},
+  keywords  = {62J05 (62J07)},
+  mrnumber  = {1379242},
+  owner     = {kfeng123},
+  timestamp = {2019.10.19},
+}
+
+@Article{Meinshausen2006,
+  author    = {Meinshausen, Nicolai and B\"{u}hlmann, Peter},
+  title     = {High-dimensional graphs and variable selection with the lasso},
+  journal   = {The Annals of Statistics},
+  year      = {2006},
+  volume    = {34},
+  number    = {3},
+  pages     = {1436--1462},
+  issn      = {0090-5364},
+  doi       = {10.1214/009053606000000281},
+  groups    = {regularized regression},
+  keywords  = {62J07 (62F12 62H20)},
+  mrnumber  = {2278363},
+  owner     = {kfeng123},
+  timestamp = {2019.10.19},
+}
+
+@Article{Ning2017,
+  author    = {Ning, Yang and Liu, Han},
+  title     = {A general theory of hypothesis tests and confidence regions for sparse high dimensional models},
+  journal   = {The Annals of Statistics},
+  year      = {2017},
+  volume    = {45},
+  number    = {1},
+  pages     = {158--195},
+  issn      = {0090-5364},
+  doi       = {10.1214/16-AOS1448},
+  groups    = {Regression test},
+  keywords  = {62E20 (62F03 62F25)},
+  mrnumber  = {3611489},
+  owner     = {kfeng123},
+  timestamp = {2019.10.19},
+}
+
+@Article{Zhu2018a,
+  author    = {Zhu, Yinchu and Bradic, Jelena},
+  title     = {Linear hypothesis testing in dense high-dimensional linear models},
+  journal   = {Journal of the American Statistical Association},
+  year      = {2018},
+  volume    = {113},
+  number    = {524},
+  pages     = {1583--1600},
+  issn      = {0162-1459},
+  doi       = {10.1080/01621459.2017.1356319},
+  file      = {:Zhu2018a.pdf:PDF},
+  groups    = {Regression test},
+  keywords  = {62J05 (62H15 62J07)},
+  mrnumber  = {3902231},
+  owner     = {kfeng123},
+  timestamp = {2019.10.19},
+}
+
+@Article{Chen2019,
+  author    = {Chen, Song Xi and Li, Jun and Zhong, Ping-Shou},
+  title     = {Two-sample and {ANOVA} tests for high dimensional means},
+  journal   = {The Annals of Statistics},
+  year      = {2019},
+  volume    = {47},
+  number    = {3},
+  pages     = {1443--1474},
+  issn      = {0090-5364},
+  doi       = {10.1214/18-AOS1720},
+  groups    = {mean test},
+  keywords  = {62H15 (62E20)},
+  mrnumber  = {3911118},
+  owner     = {kfeng123},
+  timestamp = {2019.10.20},
+}
+
+@Article{Zhidong2015,
+  author    = {Hu, Jiang and Bai, ZhiDong},
+  title     = {A review of 20 years of naive tests of significance for high-dimensional mean vectors and covariance matrices},
+  journal   = {Science China. Mathematics},
+  year      = {2016},
+  volume    = {59},
+  number    = {12},
+  pages     = {2281--2300},
+  issn      = {1674-7283},
+  doi       = {10.1007/s11425-016-0131-0},
+  groups    = {mean test},
+  keywords  = {62H15 (62-02 62E20)},
+  mrnumber  = {3578957},
+  owner     = {kfeng123},
+  timestamp = {2019.10.20},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
