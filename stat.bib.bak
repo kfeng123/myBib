@@ -62,7 +62,6 @@
   file      = {:AhnEigenvalue.pdf:PDF},
   groups    = {factor and PCA},
   publisher = {The Econometric Society},
-  url       = {https://doi.org/10.3982/ecta8968},
 }
 
 @Article{Aitkin1991Posterior,
@@ -309,18 +308,6 @@
   journal = {Mpra Paper},
   year    = {2012},
   file    = {Bai2012Efficient.pdf:Bai2012Efficient.pdf:PDF},
-  groups  = {factor and PCA},
-}
-
-@Article{Bai2001Determining,
-  author  = {Bai, Jushan and Ng, Serena},
-  title   = {Determining The Number Of Factors In Approximate Factor Models},
-  journal = {Econometrica},
-  year    = {2001},
-  volume  = {70},
-  number  = {1},
-  pages   = {191-221},
-  file    = {Bai2001Determining.pdf:Bai2001Determining.pdf:PDF},
   groups  = {factor and PCA},
 }
 
@@ -1579,16 +1566,6 @@
   groups        = {mean test},
 }
 
-@Article{Feng2015Multivariate,
-  author        = {Feng, Long and Zou, Changliang and Wang, Zhaojun},
-  title         = {Multivariate-sign-based high-dimensional tests for the two-sample location problem},
-  journal       = {Journal of the American Statistical Association},
-  year          = {2016},
-  __markedentry = {[kfeng123:5]},
-  file          = {Feng2015Multivariate.pdf:Feng2015Multivariate.pdf:PDF},
-  groups        = {mean test},
-}
-
 @Article{Ferguson1982An,
   author  = {Ferguson and Thomas, S.},
   title   = {An Inconsistent Maximum Likelihood Estimate},
@@ -1815,16 +1792,6 @@
   owner     = {kfeng123},
   timestamp = {2017.03.16},
   url       = {http://www.sciencedirect.com/science/article/pii/S0378375812000031},
-}
-
-@Article{Gregory2014A,
-  author        = {Gregory, Karl Bruce and Carroll, Raymond J.},
-  title         = {A Two-Sample Test For Equality of Means in High Dimension},
-  journal       = {Journal of the American Statistical Association},
-  year          = {2014},
-  __markedentry = {[kfeng123:1]},
-  file          = {Gregory2014A.pdf:Gregory2014A.pdf:PDF},
-  groups        = {mean test},
 }
 
 @Book{causalInference,
@@ -3221,11 +3188,9 @@
   pages         = {51-67},
   __markedentry = {[kfeng123:5]},
   doi           = {10.1111/rssb.12153},
-  eprint        = {https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/rssb.12153},
   file          = {passemier2015.pdf:passemier2015.pdf:PDF},
   groups        = {factor and PCA},
   keywords      = {Goodness of fit, High dimensional data, Noise variance estimator, Number of principal components, Probabilistic principal component analysis, Random‐matrix theory},
-  url           = {https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12153},
 }
 
 @Article{paul2007asymptotics,
@@ -4910,7 +4875,7 @@
   journal       = {Journal of Multivariate Analysis},
   year          = {2013},
   volume        = {115},
-  pages         = {204 - 216},
+  pages         = {204-216},
   __markedentry = {[kfeng123:4]},
   doi           = {10.1016/j.jmva.2012.10.011},
   file          = {Srivastava2013.pdf:Srivastava2013.pdf:PDF},
@@ -5125,7 +5090,6 @@
   file      = {Feng2018.pdf:Feng2018.pdf:PDF},
   groups    = {mean test},
   publisher = {Institute of Statistical Science},
-  url       = {https://doi.org/10.5705/ss.202015.0199},
 }
 
 @Article{Croux2018,
@@ -5370,22 +5334,6 @@
   file     = {Bondar1981.pdf:Bondar1981.pdf:PDF},
   groups   = {minimax},
   url      = {https://doi.org/10.1007/BF00533716},
-}
-
-@Book{DAVIDSON2001317,
-  title     = {Handbook of the Geometry of Banach Spaces},
-  publisher = {North-Holland},
-  year      = {2001},
-  author    = {Kenneth R. Davidson and Stanislaw J. Szarek},
-  volume    = {1},
-  address   = {Amsterdam},
-  note      = {Handbook of the Geometry of Banach Spaces},
-  doi       = {http://dx.doi.org/10.1016/S1874-5849(01)80010-3},
-  file      = {DAVIDSON2001317.pdf:DAVIDSON2001317.pdf:PDF},
-  issn      = {1874-5849},
-  journal   = {Handbook of the Geometry of Banach Spaces},
-  pages     = {317 - 366},
-  url       = {http://www.sciencedirect.com/science/article/pii/S1874584901800103},
 }
 
 @Article{Moore1978Risk,
@@ -5680,7 +5628,7 @@
   year     = {2012},
   volume   = {105},
   number   = {1},
-  pages    = {193 - 215},
+  pages    = {193-215},
   issn     = {0047-259X},
   doi      = {https://doi.org/10.1016/j.jmva.2011.09.002},
   file     = {:YATA2012193.pdf:PDF},
@@ -6601,14 +6549,9 @@
   number    = {524},
   pages     = {1733-1741},
   doi       = {10.1080/01621459.2017.1371024},
-  eprint    = {https://doi.org/10.1080/01621459.2017.1371024},
   file      = {:Roger2017.pdf:PDF},
   groups    = {mean test},
   publisher = {Taylor \& Francis},
-  url       = { 
-        https://doi.org/10.1080/01621459.2017.1371024
-    
-},
 }
 
 @Article{Xu2016,
@@ -7164,7 +7107,7 @@
   year     = {2005},
   volume   = {134},
   number   = {1},
-  pages    = {158 - 179},
+  pages    = {158-179},
   issn     = {0378-3758},
   doi      = {https://doi.org/10.1016/j.jspi.2004.04.003},
   file     = {:HALL2005158.pdf:PDF},
@@ -7655,7 +7598,7 @@
   journal  = {Journal of Multivariate Analysis},
   year     = {2013},
   volume   = {122},
-  pages    = {334 - 354},
+  pages    = {334-354},
   issn     = {0047-259X},
   doi      = {https://doi.org/10.1016/j.jmva.2013.08.003},
   file     = {:Yata2013PCA.pdf:PDF},
@@ -7981,7 +7924,7 @@
   journal       = {Journal of Multivariate Analysis},
   year          = {2015},
   volume        = {139},
-  pages         = {7 - 27},
+  pages         = {7-27},
   issn          = {0047-259X},
   __markedentry = {[kfeng123:4]},
   doi           = {https://doi.org/10.1016/j.jmva.2015.02.005},
@@ -8403,7 +8346,7 @@
   year     = {2010},
   volume   = {101},
   number   = {9},
-  pages    = {2060 - 2077},
+  pages    = {2060-2077},
   issn     = {0047-259X},
   doi      = {https://doi.org/10.1016/j.jmva.2010.04.006},
   file     = {:YATA20102060.pdf:PDF},
@@ -16321,6 +16264,9 @@
 @Article{Xue2019,
   author      = {Kaijie Xue and Fang Yao},
   title       = {Distribution and correlation free two-sample test of high-dimensional means},
+  journal     = {The Annals of Statistics},
+  year        = {2019},
+  note        = {Online},
   abstract    = {We propose a two-sample test for high-dimensional means that requires neither distributional nor correlational assumptions, besides some weak conditions on the moments and tail properties of the elements in the random vectors. This two-sample test based on a nontrivial extension of the one-sample central limit theorem (Chernozhukov et al., 2017) provides a practically useful procedure with rigorous theoretical guarantees on its size and power assessment. In particular, the proposed test is easy to compute and does not require the independently and identically distributed assumption, which is allowed to have different distributions and arbitrary correlation structures. Further desired features include weaker moments and tail conditions than existing methods, allowance for highly unequal sample sizes, consistent power behavior under fairly general alternative, data dimension allowed to be exponentially high under the umbrella of such general conditions. Simulated and real data examples are used to demonstrate the favorable numerical performance over existing methods.},
   date        = {2019-04-16},
   eprint      = {http://arxiv.org/abs/1904.07416v1},
@@ -18878,8 +18824,6 @@
   volume    = {84},
   series    = {Proceedings of Machine Learning Research},
   pages     = {1579--1588},
-  address   = {Playa Blanca, Lanzarote, Canary Islands},
-  month     = {09--11 Apr},
   publisher = {PMLR},
   file      = {pati18a.pdf:http\://proceedings.mlr.press/v84/pati18a/pati18a.pdf:PDF},
 }
@@ -19162,6 +19106,89 @@
   mrnumber  = {3578957},
   owner     = {kfeng123},
   timestamp = {2019.10.20},
+}
+
+@Article{Bai2002,
+  author    = {Bai, Jushan and Ng, Serena},
+  title     = {Determining the number of factors in approximate factor models},
+  journal   = {Econometrica. Journal of the Econometric Society},
+  year      = {2002},
+  volume    = {70},
+  number    = {1},
+  pages     = {191--221},
+  issn      = {0012-9682},
+  doi       = {10.1111/1468-0262.00273},
+  groups    = {factor and PCA},
+  keywords  = {91B82 (62H25)},
+  mrnumber  = {1926259},
+  owner     = {kfeng123},
+  timestamp = {2019.10.27},
+}
+
+@Article{Feng2015Multivariate,
+  author    = {Feng, Long and Zou, Changliang and Wang, Zhaojun},
+  title     = {Multivariate-sign-based high-dimensional tests for the two-sample location problem},
+  journal   = {Journal of the American Statistical Association},
+  year      = {2016},
+  volume    = {111},
+  number    = {514},
+  pages     = {721--735},
+  issn      = {0162-1459},
+  doi       = {10.1080/01621459.2015.1035380},
+  file      = {:Feng2015Multivariate.pdf:PDF},
+  groups    = {mean test},
+  keywords  = {62H15 (62F12 62G10)},
+  mrnumber  = {3538700},
+  owner     = {kfeng123},
+  timestamp = {2019.10.27},
+}
+
+@Article{Gregory2014A,
+  author    = {Gregory, Karl Bruce and Carroll, Raymond J. and Baladandayuthapani, Veerabhadran and Lahiri, Soumendra N.},
+  title     = {A two-sample test for equality of means in high dimension},
+  journal   = {Journal of the American Statistical Association},
+  year      = {2015},
+  volume    = {110},
+  number    = {510},
+  pages     = {837--849},
+  issn      = {0162-1459},
+  doi       = {10.1080/01621459.2014.934826},
+  file      = {:Gregory2014A.pdf:PDF},
+  groups    = {mean test},
+  keywords  = {62H15 (62P10)},
+  mrnumber  = {3367268},
+  owner     = {kfeng123},
+  timestamp = {2019.10.27},
+}
+
+@Book{Johnson2001,
+  title     = {Handbook of the geometry of {B}anach spaces. {V}ol. {I}},
+  publisher = {North-Holland Publishing Co., Amsterdam},
+  year      = {2001},
+  editor    = {Johnson, W. B. and Lindenstrauss, J.},
+  isbn      = {0-444-82842-7},
+  groups    = {books},
+  keywords  = {46-00 (00A20 46Bxx 47-00)},
+  mrnumber  = {1863688},
+  owner     = {kfeng123},
+  pages     = {x+1005},
+  timestamp = {2019.10.27},
+}
+
+@InCollection{DAVIDSON2001317,
+  author    = {Davidson, Kenneth R. and Szarek, Stanislaw J.},
+  title     = {Local operator theory, random matrices and {B}anach spaces},
+  booktitle = {Handbook of the geometry of {B}anach spaces, {V}ol. {I}},
+  publisher = {North-Holland, Amsterdam},
+  year      = {2001},
+  pages     = {317--366},
+  doi       = {10.1016/S1874-5849(01)80010-3},
+  file      = {:DAVIDSON2001317.pdf:PDF},
+  groups    = {books},
+  keywords  = {47-02 (46B07 46B20 46L54 47A65 47B80 60B11)},
+  mrnumber  = {1863696},
+  owner     = {kfeng123},
+  timestamp = {2019.10.27},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
