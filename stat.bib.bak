@@ -8416,19 +8416,20 @@
 }
 
 @Article{WANG2018225,
-  author    = {Rui Wang and Xingzhong Xu},
-  title     = {On two-sample mean tests under spiked covariances},
-  journal   = {Journal of Multivariate Analysis},
-  year      = {2018},
-  volume    = {167},
-  pages     = {225--249},
-  month     = {sep},
-  issn      = {0047-259X},
-  doi       = {10.1016/j.jmva.2018.05.004},
-  file      = {:WANG2018225.pdf:PDF},
-  groups    = {mean test},
-  keywords  = {High dimension, Mean test, Principal subspace, Spiked covariance model},
-  publisher = {Elsevier {BV}},
+  author        = {Rui Wang and Xingzhong Xu},
+  title         = {On two-sample mean tests under spiked covariances},
+  journal       = {Journal of Multivariate Analysis},
+  year          = {2018},
+  volume        = {167},
+  pages         = {225--249},
+  month         = {sep},
+  issn          = {0047-259X},
+  __markedentry = {[kfeng123:1]},
+  doi           = {10.1016/j.jmva.2018.05.004},
+  file          = {:WANG2018225.pdf:PDF},
+  groups        = {mean test},
+  keywords      = {High dimension, Mean test, Principal subspace, Spiked covariance model},
+  publisher     = {Elsevier {BV}},
 }
 
 @Article{TOMA2013359,
@@ -18917,20 +18918,21 @@
 }
 
 @Article{Wang2019A,
-  author    = {Wang, Rui and Xu, Xingzhong},
-  title     = {A feasible high dimensional randomization test for the mean vector},
-  journal   = {Journal of Statistical Planning and Inference},
-  year      = {2019},
-  volume    = {199},
-  pages     = {160--178},
-  issn      = {0378-3758},
-  doi       = {10.1016/j.jspi.2018.06.003},
-  file      = {:WANG2018.pdf:PDF},
-  groups    = {mean test},
-  keywords  = {62H15 (62F05)},
-  mrnumber  = {3857820},
-  owner     = {kfeng123},
-  timestamp = {2019.10.16},
+  author        = {Wang, Rui and Xu, Xingzhong},
+  title         = {A feasible high dimensional randomization test for the mean vector},
+  journal       = {Journal of Statistical Planning and Inference},
+  year          = {2019},
+  volume        = {199},
+  pages         = {160--178},
+  issn          = {0378-3758},
+  __markedentry = {[kfeng123:1]},
+  doi           = {10.1016/j.jspi.2018.06.003},
+  file          = {:WANG2018.pdf:PDF},
+  groups        = {mean test},
+  keywords      = {62H15 (62F05)},
+  mrnumber      = {3857820},
+  owner         = {kfeng123},
+  timestamp     = {2019.10.16},
 }
 
 @Article{MWW2015A,
@@ -19191,6 +19193,35 @@
   timestamp = {2019.10.27},
 }
 
+@Book{Aubrun2017,
+  title     = {Alice and {B}ob meet {B}anach},
+  publisher = {American Mathematical Society, Providence, RI},
+  year      = {2017},
+  author    = {Aubrun, Guillaume and Szarek, Stanis\l aw J.},
+  volume    = {223},
+  series    = {Mathematical Surveys and Monographs},
+  isbn      = {978-1-4704-3468-7},
+  note      = {The interface of asymptotic geometric analysis and quantum information theory},
+  groups    = {books},
+  keywords  = {46-02 (46B20 52A07 81-02 81P45 81R50 94-02 94A17)},
+  mrnumber  = {3699754},
+  owner     = {kfeng123},
+  pages     = {xxi+414},
+  timestamp = {2019.10.27},
+}
+
+@Article{Wen2021,
+  author    = {Ming Wen and Yixi Xu and Yunling Zheng and Zhouwang Yang and Xiao Wang},
+  title     = {Sparse Deep Neural Networks Using L1,$\infty$-Weight Normalization},
+  journal   = {Statistica Sinica},
+  year      = {2021},
+  doi       = {10.5705/ss.202018.0468},
+  groups    = {Statistical Deep Learning},
+  owner     = {kfeng123},
+  publisher = {Institute of Statistical Science},
+  timestamp = {2019.11.02},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
@@ -19249,6 +19280,7 @@
 1 StaticGroup:Time Series\;0\;1\;\;\;\;;
 1 StaticGroup:variance estimation\;0\;1\;\;\;\;;
 1 StaticGroup:variance test\;0\;1\;\;\;\;;
+1 StaticGroup:Statistical Deep Learning\;0\;1\;\;\;\;;
 }
 
 @Comment{jabref-meta: groupsversion:
