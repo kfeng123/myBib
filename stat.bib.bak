@@ -988,14 +988,6 @@
   groups  = {mean test},
 }
 
-@Article{Chib2016Bayes,
-  author = {Chib, Siddhartha and Kuffner, Todd A.},
-  title  = {Bayes factor consistency},
-  year   = {2016},
-  file   = {Chib2016Bayes.pdf:Chib2016Bayes.pdf:PDF},
-  groups = {Bayes, Bayes factor},
-}
-
 @Article{di2011likelihood,
   author  = {Chongzhi Di,Kungyee Liang},
   title   = {Likelihood Ratio Testing for Admixture Models with Application to Genetic Linkage Analysis},
@@ -9519,7 +9511,7 @@
   url       = {https://doi.org/10.1214/16-BA1011},
 }
 
-@Article{Wang2016,
+@Article{WangMin2016,
   author        = {Wang, Min and Maruyama, Yuzo},
   title         = {Consistency of Bayes factor for nonnested model selection when the model dimension grows},
   journal       = {Bernoulli},
@@ -18743,16 +18735,17 @@
 }
 
 @Article{Wang2021,
-  author    = {Rui Wang and Xingzhong Xu},
-  title     = {Least Favorable Direction Test for Multivariate Analysis of Variance in High Dimension},
-  journal   = {Statistica Sinica},
-  year      = {2021},
-  doi       = {10.5705/ss.202018.0279},
-  file      = {:Wang2021.pdf:PDF},
-  groups    = {MANOVA},
-  owner     = {kfeng123},
-  publisher = {Institute of Statistical Science},
-  timestamp = {2019.10.01},
+  author        = {Rui Wang and Xingzhong Xu},
+  title         = {Least Favorable Direction Test for Multivariate Analysis of Variance in High Dimension},
+  journal       = {Statistica Sinica},
+  year          = {2021},
+  __markedentry = {[kfeng123:1]},
+  doi           = {10.5705/ss.202018.0279},
+  file          = {:Wang2021.pdf:PDF},
+  groups        = {MANOVA},
+  owner         = {kfeng123},
+  publisher     = {Institute of Statistical Science},
+  timestamp     = {2019.10.01},
 }
 
 @Book{Fisher1935experiments,
@@ -19220,6 +19213,66 @@
   owner     = {kfeng123},
   publisher = {Institute of Statistical Science},
   timestamp = {2019.11.02},
+}
+
+@Article{Chatterjee2017,
+  author    = {Debashis Chatterjee and Trisha Maitra and Sourabh Bhattacharya},
+  title     = {A Short Note on Almost Sure Convergence of Bayes Factors in the General Set-Up},
+  journal   = {The American Statistician},
+  year      = {2018},
+  pages     = {1--4},
+  month     = {oct},
+  note      = {Online},
+  doi       = {10.1080/00031305.2017.1397548},
+  groups    = {Bayes factor},
+  publisher = {Informa {UK} Limited},
+}
+
+@Article{Chib2016,
+  author      = {Siddhartha Chib and Todd A. Kuffner},
+  title       = {Bayes factor consistency},
+  abstract    = {Good large sample performance is typically a minimum requirement of any model selection criterion. This article focuses on the consistency property of the Bayes factor, a commonly used model comparison tool, which has experienced a recent surge of attention in the literature. We thoroughly review existing results. As there exists such a wide variety of settings to be considered, e.g. parametric vs. nonparametric, nested vs. non-nested, etc., we adopt the view that a unified framework has didactic value. Using the basic marginal likelihood identity of Chib (1995), we study Bayes factor asymptotics by decomposing the natural logarithm of the ratio of marginal likelihoods into three components. These are, respectively, log ratios of likelihoods, prior densities, and posterior densities. This yields an interpretation of the log ratio of posteriors as a penalty term, and emphasizes that to understand Bayes factor consistency, the prior support conditions driving posterior consistency in each respective model under comparison should be contrasted in terms of the rates of posterior contraction they imply.},
+  date        = {2016-07-01},
+  eprint      = {http://arxiv.org/abs/1607.00292v1},
+  eprintclass = {math.ST},
+  eprinttype  = {arXiv},
+  file        = {:Chib2016Bayes.pdf:PDF},
+  groups      = {Bayes factor},
+  keywords    = {math.ST, stat.TH},
+}
+
+@Article{walkerS2004,
+  author    = {Walker, Stephen G.},
+  title     = {Modern Bayesian Asymptotics},
+  journal   = {Statist. Sci.},
+  year      = {2004},
+  volume    = {19},
+  number    = {1},
+  pages     = {111--117},
+  month     = {02},
+  doi       = {10.1214/088342304000000134},
+  file      = {:walkerS2004.pdf:PDF},
+  fjournal  = {Statistical Science},
+  groups    = {Bayes, consistency},
+  publisher = {The Institute of Mathematical Statistics},
+  url       = {https://doi.org/10.1214/088342304000000134},
+}
+
+@Article{Walkeretal2004,
+  author    = {Stephen Walker and Paul Damien and Peter Lenk},
+  title     = {On Priors With a Kullback–Leibler Property},
+  journal   = {Journal of the American Statistical Association},
+  year      = {2004},
+  volume    = {99},
+  number    = {466},
+  pages     = {404-408},
+  doi       = {10.1198/016214504000000386},
+  eprint    = {https://doi.org/10.1198/016214504000000386},
+  publisher = {Taylor \& Francis},
+  url       = { 
+        https://doi.org/10.1198/016214504000000386
+    
+},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
