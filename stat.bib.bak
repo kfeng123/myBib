@@ -7196,7 +7196,6 @@
   pages     = {1073--1081},
   file      = {:yingzhen2016.pdf:PDF},
   groups    = {Bayes},
-  url       = {http://papers.nips.cc/paper/6208-renyi-divergence-variational-inference.pdf},
 }
 
 @Article{yulong2017,
@@ -19071,6 +19070,16 @@
   doi       = {10.1016/s0378-3758(02)00413-5},
   groups    = {Bayes factor},
   publisher = {Elsevier {BV}},
+}
+
+@Book{book:833722,
+  title     = {Operating Systems In Depth: Design and Programming},
+  publisher = {Wiley},
+  year      = {2010},
+  author    = {Thomas W. Doeppner},
+  isbn      = {0471687235,9780471687238},
+  groups    = {books},
+  url       = {http://gen.lib.rus.ec/book/index.php?md5=3b09ad8a36f1e363054cf88e9c3d7b15},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
