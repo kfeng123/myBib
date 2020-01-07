@@ -19174,6 +19174,39 @@
   timestamp = {2019.12.13},
 }
 
+@Article{Bloemendal2013,
+  author    = {Bloemendal, Alex and Vir\'{a}g, B\'{a}lint},
+  title     = {Limits of spiked random matrices {I}},
+  journal   = {Probability Theory and Related Fields},
+  year      = {2013},
+  volume    = {156},
+  number    = {3-4},
+  pages     = {795--825},
+  issn      = {0178-8051},
+  doi       = {10.1007/s00440-012-0443-2},
+  groups    = {Random matrices},
+  keywords  = {60B20},
+  mrnumber  = {3078286},
+  owner     = {kfeng123},
+  timestamp = {2019.12.13},
+}
+
+@Book{Wu2009,
+  title     = {Experiments: planning, analysis, and optimization},
+  publisher = {John Wiley \& Sons, Inc., Hoboken, NJ},
+  year      = {2009},
+  author    = {Wu, C. F. Jeff and Hamada, Michael S.},
+  series    = {Wiley Series in Probability and Statistics},
+  edition   = {Second},
+  isbn      = {978-0-471-69946-0},
+  groups    = {books},
+  keywords  = {62K15 (05B05 62-01 62J10 62K25 62N05)},
+  mrnumber  = {2583259},
+  owner     = {kfeng123},
+  pages     = {xxx+716},
+  timestamp = {2020.01.07},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
