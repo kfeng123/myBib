@@ -403,15 +403,15 @@
 
 @Article{Bates20041,
   author    = {Douglas M Bates and Saikat DebRoy},
-  journal   = {Journal of Multivariate Analysis},
   title     = {Linear mixed models and penalized least squares},
+  journal   = {Journal of Multivariate Analysis},
   year      = {2004},
-  issn      = {0047-259X},
-  note      = {Special Issue on Semiparametric and Nonparametric Mixed Models},
+  volume    = {91},
   number    = {1},
   pages     = {1 - 17},
-  volume    = {91},
-  abstract  = {Linear mixed-effects models are an important class of statistical models that are used directly in many fields of applications and also are used as iterative steps in fitting other types of mixed-effects models, such as generalized linear mixed models. The parameters in these models are typically estimated by maximum likelihood or restricted maximum likelihood. In general, there is no closed-form solution for these estimates and they must be determined by iterative algorithms such as \{EM\} iterations or general nonlinear optimization. Many of the intermediate calculations for such iterations have been expressed as generalized least squares problems. We show that an alternative representation as a penalized least squares problem has many advantageous computational properties including the ability to evaluate explicitly a profiled log-likelihood or log-restricted likelihood, the gradient and Hessian of this profiled objective, and an \{ECME\} update to refine this objective.},
+  issn      = {0047-259X},
+  note      = {Special Issue on Semiparametric and Nonparametric Mixed Models},
+  abstract  = {Linear mixed-effects models are an important class of statistical models that are used directly in many fields of applications and also are used as iterative steps in fitting other types of mixed-effects models, such as generalized linear mixed models. The parameters in these models are typically estimated by maximum likelihood or restricted maximum likelihood. In general, there is no closed-form solution for these estimates and they must be determined by iterative algorithms such as \{EM\} iterations or general nonlinear optimization. Many of the intermediate calculations for such iterations have been expressed as generalized least squares problems. We show that an alternative representation as a penalized least squares problem has many advantageous computational properties including the ability to evaluate explicitly a profiled log-likelihood or log-restricted likelihood, the gradient and Hessian of this profiled objective, and an \{ECME\} update to refine this objective. },
   doi       = {http://dx.doi.org/10.1016/j.jmva.2004.04.013},
   file      = {Bates20041.pdf:Bates20041.pdf:PDF},
   groups    = {mixed model},
@@ -1903,14 +1903,14 @@
 
 @Article{Huang20132101,
   author   = {Xianzheng Huang and Hongmei Zhang},
-  journal  = {Journal of Statistical Planning and Inference},
   title    = {Variable selection in linear measurement error models via penalized score functions},
+  journal  = {Journal of Statistical Planning and Inference},
   year     = {2013},
-  issn     = {0378-3758},
+  volume   = {143},
   number   = {12},
   pages    = {2101 - 2111},
-  volume   = {143},
-  abstract = {Abstract We propose variable selection procedures based on penalized score functions derived for linear measurement error models. To calibrate the selection procedures, we define new tuning parameter selectors based on the scores. Large-sample properties of these new tuning parameter selectors are established for the proposed procedures. These new methods are compared in simulations and a real-data application with competing methods where one ignores measurement error or uses the Bayesian information criterion to choose the tuning parameter.},
+  issn     = {0378-3758},
+  abstract = {Abstract We propose variable selection procedures based on penalized score functions derived for linear measurement error models. To calibrate the selection procedures, we define new tuning parameter selectors based on the scores. Large-sample properties of these new tuning parameter selectors are established for the proposed procedures. These new methods are compared in simulations and a real-data application with competing methods where one ignores measurement error or uses the Bayesian information criterion to choose the tuning parameter. },
   doi      = {http://dx.doi.org/10.1016/j.jspi.2013.07.014},
   file     = {Huang20132101.pdf:Huang20132101.pdf:PDF},
   groups   = {EV model},
@@ -2099,14 +2099,14 @@
 
 @Article{Jiang1997321,
   author    = {Jiming Jiang},
-  journal   = {Statistics \& Probability Letters},
   title     = {A derivation of BLUP:Best linear unbiased predictor},
+  journal   = {Statistics \& Probability Letters},
   year      = {1997},
-  issn      = {0167-7152},
+  volume    = {32},
   number    = {3},
   pages     = {321 - 324},
-  volume    = {32},
-  abstract  = {We show the best linear unbiased predictor (BLUP) can be derived as the best predictor (under normality) based on all error contrasts (i.e., transformation of data with mean 0). The result reveals an interesting connection between \{BLUP\} and REMLârestricted or residual maximum likelihoodâestimates.},
+  issn      = {0167-7152},
+  abstract  = {We show the best linear unbiased predictor (BLUP) can be derived as the best predictor (under normality) based on all error contrasts (i.e., transformation of data with mean 0). The result reveals an interesting connection between \{BLUP\} and REMLârestricted or residual maximum likelihoodâestimates. },
   doi       = {http://dx.doi.org/10.1016/S0167-7152(96)00089-2},
   file      = {Jiang1997321.pdf:Jiang1997321.pdf:PDF},
   groups    = {mixed model},
@@ -2699,13 +2699,13 @@
 
 @Article{Li2016192,
   author    = {Yang Li and Zhaojun Wang and Changliang Zou},
-  journal   = {Journal of Multivariate Analysis},
   title     = {A simpler spatial-sign-based two-sample test for high-dimensional data},
+  journal   = {Journal of Multivariate Analysis},
   year      = {2016},
-  issn      = {0047-259X},
-  pages     = {192 - 198},
   volume    = {149},
-  abstract  = {Abstract This article concerns the tests for the equality of two location parameters when the data dimension is larger than the sample size. Existing spatial-sign-based procedures are not robust with respect to high dimensionality, producing tests with the type-I error rates that are much larger than the nominal levels. We develop a correction that makes the sign-based tests applicable for high-dimensional data, allowing the dimensionality to increase as the square of the sample size. We show that the proposed test statistic is asymptotically normal under elliptical distributions and demonstrate that it has good size and power in a wide range of settings by simulation.},
+  pages     = {192 - 198},
+  issn      = {0047-259X},
+  abstract  = {Abstract This article concerns the tests for the equality of two location parameters when the data dimension is larger than the sample size. Existing spatial-sign-based procedures are not robust with respect to high dimensionality, producing tests with the type-I error rates that are much larger than the nominal levels. We develop a correction that makes the sign-based tests applicable for high-dimensional data, allowing the dimensionality to increase as the square of the sample size. We show that the proposed test statistic is asymptotically normal under elliptical distributions and demonstrate that it has good size and power in a wide range of settings by simulation. },
   doi       = {http://dx.doi.org/10.1016/j.jmva.2016.04.004},
   file      = {Li2016192.pdf:Li2016192.pdf:PDF},
   groups    = {mean test},
@@ -4151,18 +4151,21 @@
 
 @Article{Wei2013Direction,
   author    = {Susan Wei and Chihoon Lee and Lindsay Wichers and J. S. Marron},
-  journal   = {Journal of Computational and Graphical Statistics},
   title     = {Direction-Projection-Permutation for High-Dimensional Hypothesis Tests},
+  journal   = {Journal of Computational and Graphical Statistics},
   year      = {2016},
+  volume    = {25},
   number    = {2},
   pages     = {549-569},
-  volume    = {25},
   doi       = {10.1080/10618600.2015.1027773},
   eprint    = {https://doi.org/10.1080/10618600.2015.1027773},
   file      = {Wei2013Direction.pdf:Wei2013Direction.pdf:PDF},
   groups    = {mean test},
   publisher = {Taylor \& Francis},
-  url       = {https://doi.org/10.1080/10618600.2015.1027773},
+  url       = { 
+        https://doi.org/10.1080/10618600.2015.1027773
+    
+},
 }
 
 @Article{Wellner2013Introduction,
@@ -6124,17 +6127,20 @@
 
 @Article{MarkovC,
   author    = {Cong Han and Bradley P Carlin},
-  journal   = {Journal of the American Statistical Association},
   title     = {Markov Chain Monte Carlo Methods for Computing Bayes Factors},
+  journal   = {Journal of the American Statistical Association},
   year      = {2001},
+  volume    = {96},
   number    = {455},
   pages     = {1122-1132},
-  volume    = {96},
   doi       = {10.1198/016214501753208780},
   eprint    = {https://doi.org/10.1198/016214501753208780},
   groups    = {Bayes},
   publisher = {Taylor \& Francis},
-  url       = {https://doi.org/10.1198/016214501753208780},
+  url       = { 
+        https://doi.org/10.1198/016214501753208780
+    
+},
 }
 
 @Article{intrisicBayesFactor,
@@ -6256,18 +6262,21 @@
 
 @Article{tonySimultanious,
   author    = {T. Tony Cai and Wenguang Sun},
-  journal   = {Journal of the American Statistical Association},
   title     = {Simultaneous Testing of Grouped Hypotheses: Finding Needles in Multiple Haystacks},
+  journal   = {Journal of the American Statistical Association},
   year      = {2009},
+  volume    = {104},
   number    = {488},
   pages     = {1467-1481},
-  volume    = {104},
   doi       = {10.1198/jasa.2009.tm08415},
   eprint    = {https://doi.org/10.1198/jasa.2009.tm08415},
   file      = {:tonySimultanious.pdf:PDF},
   groups    = {large scale inference},
   publisher = {Taylor \& Francis},
-  url       = {https://doi.org/10.1198/jasa.2009.tm08415},
+  url       = { 
+        https://doi.org/10.1198/jasa.2009.tm08415
+    
+},
 }
 
 @Article{104355,
@@ -6283,17 +6292,20 @@
 
 @Article{wen2012,
   author    = {Wenguang Sun and Alexander C. McLain},
-  journal   = {Journal of the American Statistical Association},
   title     = {Multiple Testing of Composite Null Hypotheses in Heteroscedastic Models},
+  journal   = {Journal of the American Statistical Association},
   year      = {2012},
+  volume    = {107},
   number    = {498},
   pages     = {673-687},
-  volume    = {107},
   doi       = {10.1080/01621459.2012.664505},
   eprint    = {https://doi.org/10.1080/01621459.2012.664505},
   file      = {:wen2012.pdf:PDF},
   publisher = {Taylor \& Francis},
-  url       = {https://doi.org/10.1080/01621459.2012.664505},
+  url       = { 
+        https://doi.org/10.1080/01621459.2012.664505
+    
+},
 }
 
 @Book{book:8410,
@@ -6334,17 +6346,20 @@
 
 @Article{donoho50years,
   author    = {David Donoho},
-  journal   = {Journal of Computational and Graphical Statistics},
   title     = {50 Years of Data Science},
+  journal   = {Journal of Computational and Graphical Statistics},
   year      = {2017},
+  volume    = {26},
   number    = {4},
   pages     = {745-766},
-  volume    = {26},
   doi       = {10.1080/10618600.2017.1384734},
   eprint    = {https://doi.org/10.1080/10618600.2017.1384734},
   file      = {:donoho50years.pdf:PDF},
   publisher = {Taylor \& Francis},
-  url       = {https://doi.org/10.1080/10618600.2017.1384734},
+  url       = { 
+        https://doi.org/10.1080/10618600.2017.1384734
+    
+},
 }
 
 @Article{BODNAR2016125,
@@ -6407,18 +6422,21 @@
 
 @Article{Seokho2015,
   author    = {Seokho Lee and Johan Lim and Insuk Sohn and Sin-Ho Jung and Cheol-Keun Park},
-  journal   = {Journal of Applied Statistics},
   title     = {Two sample test for high-dimensional partially paired data},
+  journal   = {Journal of Applied Statistics},
   year      = {2015},
+  volume    = {42},
   number    = {9},
   pages     = {1946-1961},
-  volume    = {42},
   doi       = {10.1080/02664763.2015.1014890},
   eprint    = {https://doi.org/10.1080/02664763.2015.1014890},
   file      = {:Seokho2015.pdf:PDF},
   groups    = {mean test},
   publisher = {Taylor \& Francis},
-  url       = {https://doi.org/10.1080/02664763.2015.1014890},
+  url       = { 
+        https://doi.org/10.1080/02664763.2015.1014890
+    
+},
 }
 
 @Book{book:832912,
@@ -6697,18 +6715,21 @@
 
 @Article{gilles2000,
   author    = {Gilles Celeux and Merrilee Hurn and Christian P. Robert},
-  journal   = {Journal of the American Statistical Association},
   title     = {Computational and Inferential Difficulties with Mixture Posterior Distributions},
+  journal   = {Journal of the American Statistical Association},
   year      = {2000},
+  volume    = {95},
   number    = {451},
   pages     = {957-970},
-  volume    = {95},
   doi       = {10.1080/01621459.2000.10474285},
   eprint    = {https://www.tandfonline.com/doi/pdf/10.1080/01621459.2000.10474285},
   file      = {:gilles2000.pdf:PDF},
   groups    = {mixture},
   publisher = {Taylor \& Francis},
-  url       = {https://www.tandfonline.com/doi/abs/10.1080/01621459.2000.10474285},
+  url       = { 
+        https://www.tandfonline.com/doi/abs/10.1080/01621459.2000.10474285
+    
+},
 }
 
 @Article{Ritz2013,
@@ -7021,12 +7042,12 @@
 
 @Article{Bai2018,
   author   = {Ray Bai and Malay Ghosh},
-  journal  = {Journal of Multivariate Analysis},
   title    = {High-dimensional multivariate posterior consistency under global-local shrinkage priors},
+  journal  = {Journal of Multivariate Analysis},
   year     = {2018},
-  issn     = {0047-259X},
   pages    = {-},
-  abstract = {Abstract We consider sparse Bayesian estimation in the classical multivariate linear regression model with p regressors and q response variables. In univariate Bayesian linear regression with a single response y , shrinkage priors which can be expressed as scale mixtures of normalnormal densities are popular for obtaining sparse estimates of the coefficients. In this paper, we extend the use of these priors to the multivariate case to estimate a p × q coefficients matrix B . We derive sufficient conditions for posterior consistency under the Bayesian multivariate linear regression framework and prove that our method achieves posterior consistency even when p &gt; n andeven when p grows at nearly exponential rate with the sample size. We derive an efficient Gibbs sampling algorithm and provide the implementation in a comprehensive R package called MBSP. Finally, we demonstrate through simulations and data analysis that our model has excellent finite sample performance.},
+  issn     = {0047-259X},
+  abstract = {Abstract We consider sparse Bayesian estimation in the classical multivariate linear regression model with p regressors and q response variables. In univariate Bayesian linear regression with a single response y , shrinkage priors which can be expressed as scale mixtures of normalnormal densities are popular for obtaining sparse estimates of the coefficients. In this paper, we extend the use of these priors to the multivariate case to estimate a p × q coefficients matrix B . We derive sufficient conditions for posterior consistency under the Bayesian multivariate linear regression framework and prove that our method achieves posterior consistency even when p &gt; n andeven when p grows at nearly exponential rate with the sample size. We derive an efficient Gibbs sampling algorithm and provide the implementation in a comprehensive R package called MBSP. Finally, we demonstrate through simulations and data analysis that our model has excellent finite sample performance. },
   doi      = {https://doi.org/10.1016/j.jmva.2018.04.010},
   file     = {:Bai2018.pdf:PDF},
   groups   = {consistency, Bayes, Bayes factor},
@@ -7167,17 +7188,20 @@
 
 @Article{yulong2017,
   author  = {Yulong Lu and Andrew Stuart and Hendrik Weber},
-  journal = {SIAM/ASA Journal on Uncertainty Quantification},
   title   = {Gaussian Approximations for Probability Measures on $R^d$},
+  journal = {SIAM/ASA Journal on Uncertainty Quantification},
   year    = {2017},
+  volume  = {5},
   number  = {1},
   pages   = {1136-1165},
-  volume  = {5},
   doi     = {10.1137/16M1105384},
   eprint  = {https://doi.org/10.1137/16M1105384},
   file    = {:yulong2017.pdf:PDF},
   groups  = {Bayes},
-  url     = {https://doi.org/10.1137/16M1105384},
+  url     = { 
+        https://doi.org/10.1137/16M1105384
+    
+},
 }
 
 @Book{book:1415322,
@@ -7259,18 +7283,21 @@
 
 @Article{judith2016,
   author   = {Judith Rousseau},
-  journal  = {Annual Review of Statistics and Its Application},
   title    = {On the Frequentist Properties of Bayesian Nonparametric Methods},
+  journal  = {Annual Review of Statistics and Its Application},
   year     = {2016},
+  volume   = {3},
   number   = {1},
   pages    = {211-231},
-  volume   = {3},
-  abstract = {In this paper, I review the main results on the asymptotic properties of the posterior distribution in nonparametric or high-dimensional models. In particular, I explain how posterior concentration rates can be derived and what we learn from such analysis in terms of the impact of the prior distribution on high-dimensional models. These results concern fully Bayes and empirical Bayes procedures. I also describe some of the results that have been obtained recently in semiparametric models, focusing mainly on the Bernstein–von Mises property. Although these results are theoretical in nature, they shed light on some subtle behaviors of the prior models and sharpen our understanding of the family of functionals that can be well estimated for a given prior model.},
+  abstract = { In this paper, I review the main results on the asymptotic properties of the posterior distribution in nonparametric or high-dimensional models. In particular, I explain how posterior concentration rates can be derived and what we learn from such analysis in terms of the impact of the prior distribution on high-dimensional models. These results concern fully Bayes and empirical Bayes procedures. I also describe some of the results that have been obtained recently in semiparametric models, focusing mainly on the Bernstein–von Mises property. Although these results are theoretical in nature, they shed light on some subtle behaviors of the prior models and sharpen our understanding of the family of functionals that can be well estimated for a given prior model. },
   doi      = {10.1146/annurev-statistics-041715-033523},
   eprint   = {https://doi.org/10.1146/annurev-statistics-041715-033523},
   file     = {:judith2016.pdf:PDF},
   groups   = {Bayes},
-  url      = {https://doi.org/10.1146/annurev-statistics-041715-033523},
+  url      = { 
+        https://doi.org/10.1146/annurev-statistics-041715-033523
+    
+},
 }
 
 @Article{Bha2016,
@@ -7355,18 +7382,21 @@
 
 @Article{Alois2001Inference,
   author    = {Alois Kneip and Klaus J Utikal},
-  journal   = {Journal of the American Statistical Association},
   title     = {Inference for Density Families Using Functional Principal Component Analysis},
+  journal   = {Journal of the American Statistical Association},
   year      = {2001},
+  volume    = {96},
   number    = {454},
   pages     = {519-542},
-  volume    = {96},
   doi       = {10.1198/016214501753168235},
   eprint    = {https://doi.org/10.1198/016214501753168235},
   file      = {:Alois2001Inference.pdf:PDF},
   groups    = {factor and PCA},
   publisher = {Taylor \& Francis},
-  url       = {https://doi.org/10.1198/016214501753168235},
+  url       = { 
+        https://doi.org/10.1198/016214501753168235
+    
+},
 }
 
 @Article{Solo2014Error,
@@ -7431,34 +7461,40 @@
 
 @Article{yata2009PCA,
   author    = {Kazuyoshi Yata and Makoto Aoshima},
-  journal   = {Communications in Statistics - Theory and Methods},
   title     = {PCA Consistency for Non-Gaussian Data in High Dimension, Low Sample Size Context},
+  journal   = {Communications in Statistics - Theory and Methods},
   year      = {2009},
+  volume    = {38},
   number    = {16-17},
   pages     = {2634-2652},
-  volume    = {38},
   doi       = {10.1080/03610910902936083},
   eprint    = {https://doi.org/10.1080/03610910902936083},
   file      = {:yata2009PCA.pdf:PDF},
   groups    = {factor and PCA},
   publisher = {Taylor \& Francis},
-  url       = {https://doi.org/10.1080/03610910902936083},
+  url       = { 
+        https://doi.org/10.1080/03610910902936083
+    
+},
 }
 
 @Article{yata2010intrinsic,
   author    = {Kazuyoshi Yata and Makoto Aoshima},
-  journal   = {Communications in Statistics - Theory and Methods},
   title     = {Intrinsic Dimensionality Estimation of High-Dimension, Low Sample Size Data with D-Asymptotics},
+  journal   = {Communications in Statistics - Theory and Methods},
   year      = {2010},
+  volume    = {39},
   number    = {8-9},
   pages     = {1511-1521},
-  volume    = {39},
   doi       = {10.1080/03610920903121999},
   eprint    = {https://doi.org/10.1080/03610920903121999},
   file      = {:yata2010intrinsic.pdf:PDF},
   groups    = {factor and PCA},
   publisher = {Taylor \& Francis},
-  url       = {https://doi.org/10.1080/03610920903121999},
+  url       = { 
+        https://doi.org/10.1080/03610920903121999
+    
+},
 }
 
 @Article{Aoshima2018A,
@@ -7601,17 +7637,20 @@
 
 @Article{Alex2007A,
   author  = {Alexandre d'Aspremont and Laurent El Ghaoui and Michael I. Jordan and Gert R. G. Lanckriet},
-  journal = {SIAM Review},
   title   = {A Direct Formulation for Sparse PCA Using Semidefinite Programming},
+  journal = {SIAM Review},
   year    = {2007},
+  volume  = {49},
   number  = {3},
   pages   = {434-448},
-  volume  = {49},
   doi     = {10.1137/050645506},
   eprint  = {https://doi.org/10.1137/050645506},
   file    = {:Alex2007A.pdf:PDF},
   groups  = {factor and PCA},
-  url     = {https://doi.org/10.1137/050645506},
+  url     = { 
+        https://doi.org/10.1137/050645506
+    
+},
 }
 
 @Article{fan2017Dist,
@@ -7647,17 +7686,20 @@
 
 @Article{Rongrong2015Sing,
   author  = {Rongrong Wang},
-  journal = {SIAM Journal on Matrix Analysis and Applications},
   title   = {Singular Vector Perturbation Under Gaussian Noise},
+  journal = {SIAM Journal on Matrix Analysis and Applications},
   year    = {2015},
+  volume  = {36},
   number  = {1},
   pages   = {158-177},
-  volume  = {36},
   doi     = {10.1137/130938177},
   eprint  = {https://doi.org/10.1137/130938177},
   file    = {:Rongrong2015Sing.pdf:PDF},
   groups  = {factor and PCA},
-  url     = {https://doi.org/10.1137/130938177},
+  url     = { 
+        https://doi.org/10.1137/130938177
+    
+},
 }
 
 @Article{bickel2004,
@@ -7727,18 +7769,21 @@
 
 @Article{Tony2017Global,
   author   = {T. Tony Cai},
-  journal  = {Annual Review of Statistics and Its Application},
   title    = {Global Testing and Large-Scale Multiple Testing for High-Dimensional Covariance Structures},
+  journal  = {Annual Review of Statistics and Its Application},
   year     = {2017},
+  volume   = {4},
   number   = {1},
   pages    = {423-446},
-  volume   = {4},
-  abstract = {Driven by a wide range of contemporary applications, statistical inference for covariance structures has been an active area of current research in high-dimensional statistics. This review provides a selective survey of some recent developments in hypothesis testing for high-dimensional covariance structures, including global testing for the overall pattern of the covariance structures and simultaneous testing of a large collection of hypotheses on the local covariance structures with false discovery proportion and false discovery rate control. Both one-sample and two-sample settings are considered. The specific testing problems discussed include global testing for the covariance, correlation, and precision matrices, and multiple testing for the correlations, Gaussian graphical models, and differential networks.},
+  abstract = { Driven by a wide range of contemporary applications, statistical inference for covariance structures has been an active area of current research in high-dimensional statistics. This review provides a selective survey of some recent developments in hypothesis testing for high-dimensional covariance structures, including global testing for the overall pattern of the covariance structures and simultaneous testing of a large collection of hypotheses on the local covariance structures with false discovery proportion and false discovery rate control. Both one-sample and two-sample settings are considered. The specific testing problems discussed include global testing for the covariance, correlation, and precision matrices, and multiple testing for the correlations, Gaussian graphical models, and differential networks. },
   doi      = {10.1146/annurev-statistics-060116-053754},
   eprint   = {https://doi.org/10.1146/annurev-statistics-060116-053754},
   file     = {:Tony2017Global.pdf:PDF},
   groups   = {variance test},
-  url      = {https://doi.org/10.1146/annurev-statistics-060116-053754},
+  url      = { 
+        https://doi.org/10.1146/annurev-statistics-060116-053754
+    
+},
 }
 
 @Book{book:2066612,
@@ -7884,17 +7929,20 @@
 
 @Article{golub1973some,
   author  = {Golub, G.},
-  journal = {SIAM Review},
   title   = {Some Modified Matrix Eigenvalue Problems},
+  journal = {SIAM Review},
   year    = {1973},
+  volume  = {15},
   number  = {2},
   pages   = {318-334},
-  volume  = {15},
   doi     = {10.1137/1015032},
   eprint  = {https://doi.org/10.1137/1015032},
   file    = {:golub1973some.pdf:PDF},
   groups  = {factor and PCA},
-  url     = {https://doi.org/10.1137/1015032},
+  url     = { 
+        https://doi.org/10.1137/1015032
+    
+},
 }
 
 @Article{ipsen2009refined,
@@ -8920,18 +8968,21 @@
 
 @Article{Rossell2017Non,
   author    = {David Rossell and Donatello Telesca},
-  journal   = {Journal of the American Statistical Association},
   title     = {Nonlocal Priors for High-Dimensional Estimation},
+  journal   = {Journal of the American Statistical Association},
   year      = {2017},
+  volume    = {112},
   number    = {517},
   pages     = {254-265},
-  volume    = {112},
   doi       = {10.1080/01621459.2015.1130634},
   eprint    = {https://doi.org/10.1080/01621459.2015.1130634},
   file      = {:Rossell2017Non.pdf:PDF},
   groups    = {Bayes},
   publisher = {Taylor \& Francis},
-  url       = {https://doi.org/10.1080/01621459.2015.1130634},
+  url       = { 
+        https://doi.org/10.1080/01621459.2015.1130634
+    
+},
 }
 
 @Article{bayarri2012,
@@ -8999,19 +9050,22 @@
 
 @Article{Bha2015Dir,
   author    = {Anirban Bhattacharya and Debdeep Pati and Natesh S. Pillai and David B. Dunson},
-  journal   = {Journal of the American Statistical Association},
   title     = {Dirichlet–Laplace Priors for Optimal Shrinkage},
+  journal   = {Journal of the American Statistical Association},
   year      = {2015},
-  note      = {PMID: 27019543},
+  volume    = {110},
   number    = {512},
   pages     = {1479-1490},
-  volume    = {110},
+  note      = {PMID: 27019543},
   doi       = {10.1080/01621459.2014.960967},
   eprint    = {https://doi.org/10.1080/01621459.2014.960967},
   file      = {:Bha2015Dir.pdf:PDF},
   groups    = {ultraHighRegression},
   publisher = {Taylor \& Francis},
-  url       = {https://doi.org/10.1080/01621459.2014.960967},
+  url       = { 
+        https://doi.org/10.1080/01621459.2014.960967
+    
+},
 }
 
 @Article{clarke2010,
@@ -9879,18 +9933,21 @@
 
 @Article{Kass1996The,
   author    = {Robert E. Kass and Larry Wasserman},
-  journal   = {Journal of the American Statistical Association},
   title     = {The Selection of Prior Distributions by Formal Rules},
+  journal   = {Journal of the American Statistical Association},
   year      = {1996},
+  volume    = {91},
   number    = {435},
   pages     = {1343-1370},
-  volume    = {91},
   doi       = {10.1080/01621459.1996.10477003},
   eprint    = {https://www.tandfonline.com/doi/pdf/10.1080/01621459.1996.10477003},
   file      = {:Kass1996The.pdf:PDF},
   groups    = {Bayes},
   publisher = {Taylor \& Francis},
-  url       = {https://www.tandfonline.com/doi/abs/10.1080/01621459.1996.10477003},
+  url       = { 
+        https://www.tandfonline.com/doi/abs/10.1080/01621459.1996.10477003
+    
+},
 }
 
 @Article{Som2016,
