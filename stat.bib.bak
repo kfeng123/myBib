@@ -66,16 +66,16 @@
 
 @Article{Aitkin1991Posterior,
   author    = {Aitkin, Murray},
-  title     = {Posterior Bayes Factors},
   journal   = {Journal of the Royal Statistical Society: Series B (Methodological)},
+  title     = {Posterior Bayes Factors},
   year      = {1991},
-  volume    = {53},
+  month     = {sep},
   number    = {1},
   pages     = {111--128},
-  month     = {sep},
+  volume    = {53},
   doi       = {10.1111/j.2517-6161.1991.tb01812.x},
   file      = {:Aitkin1991Posterior.pdf:PDF},
-  groups    = {likelihood, Bayes, Bayes factor},
+  groups    = {Bayes, Bayes factor},
   publisher = {Wiley},
 }
 
@@ -195,8 +195,8 @@
 
 @Article{Arcones2005Bahadur,
   author  = {Arcones, M. A.},
-  title   = {Bahadur efficiency of the likelihood ratio test ∗},
   journal = {Math Methods Statist},
+  title   = {Bahadur efficiency of the likelihood ratio test},
   year    = {2005},
   number  = {2},
   pages   = {163-179},
@@ -1127,11 +1127,11 @@
 
 @Article{Dicker2016High,
   author  = {Dicker, Lee H. and Zhao, Sihai D.},
-  title   = {High-dimensional classification via nonparametric empirical Bayes and maximum likelihood inference},
   journal = {Biometrika},
+  title   = {High-dimensional classification via nonparametric empirical Bayes and maximum likelihood inference},
   year    = {2016},
   file    = {Dicker2016High.pdf:Dicker2016High.pdf:PDF},
-  groups  = {supervised classification},
+  groups  = {classification},
 }
 
 @Article{Dong2015Shrinkage,
@@ -1589,14 +1589,14 @@
 
 @Article{Friedman2012Regularized,
   author  = {Friedman, Jerome H.},
-  title   = {Regularized Discriminant Analysis},
   journal = {Journal of the American Statistical Association},
+  title   = {Regularized Discriminant Analysis},
   year    = {2012},
-  volume  = {84},
   number  = {405},
   pages   = {165-175},
+  volume  = {84},
   file    = {Friedman2012Regularized.pdf:Friedman2012Regularized.pdf:PDF},
-  groups  = {supervised classification},
+  groups  = {classification},
 }
 
 @Article{friedman2001greedy,
@@ -1627,14 +1627,14 @@
 
 @Article{Gehrke2014Fifty,
   author  = {Gehrke, Johannes},
-  title   = {Fifty Years of Classification and Regression Trees},
   journal = {International Statistical Review},
+  title   = {Fifty Years of Classification and Regression Trees},
   year    = {2014},
-  volume  = {82},
   number  = {3},
   pages   = {349-352},
+  volume  = {82},
   file    = {Gehrke2014Fifty.pdf:Gehrke2014Fifty.pdf:PDF},
-  groups  = {supervised classification},
+  groups  = {classification},
 }
 
 @Book{matrixComputations,
@@ -2159,15 +2159,18 @@
 }
 
 @Article{Jiang2013CENTRAL,
-  author  = {Jiang, Tiefeng and Yang, Fan},
-  title   = {CENTRAL LIMIT THEOREMS FOR CLASSICAL LIKELIHOOD RATIO TESTS FOR HIGH-DIMENSIONAL NORMAL DISTRIBUTIONS},
-  journal = {The Annals of Statistics},
-  year    = {2013},
-  volume  = {41},
-  number  = {4},
-  pages   = {2029-2074},
-  file    = {Jiang2013CENTRAL.pdf:Jiang2013CENTRAL.pdf:PDF},
-  groups  = {likelihood},
+  author    = {Jiang, Tiefeng and Yang, Fan},
+  journal   = {The Annals of Statistics},
+  title     = {Central limit theorems for classical likelihood ratio tests for high-dimensional normal distributions},
+  year      = {2013},
+  month     = {aug},
+  number    = {4},
+  pages     = {2029--2074},
+  volume    = {41},
+  doi       = {10.1214/13-AOS1134},
+  file      = {Jiang2013CENTRAL.pdf:Jiang2013CENTRAL.pdf:PDF},
+  groups    = {likelihood},
+  publisher = {Institute of Mathematical Statistics},
 }
 
 @Article{fan2004nonconcave,
@@ -2403,13 +2406,14 @@
 
 @Article{Karoui2016Can,
   author  = {Noureddine El Karoui and Elizabeth Purdom},
-  title   = {Can We Trust the Bootstrap in High-dimensions? The Case of Linear Models},
   journal = {Journal of Machine Learning Research},
+  title   = {Can We Trust the Bootstrap in High-dimensions? The Case of Linear Models},
   year    = {2018},
-  volume  = {19},
   number  = {5},
   pages   = {1-66},
+  volume  = {19},
   file    = {:Karoui2016Can.pdf:PDF},
+  groups  = {randomization test},
   url     = {http://jmlr.org/papers/v19/17-006.html},
 }
 
@@ -2505,14 +2509,14 @@
 
 @Article{Peter2012Estimation,
   author  = {Peter A. Lachenbruch and M. Ray Mickey},
-  title   = {Estimation of error rates in discriminant analysis.},
   journal = {Technometrics},
+  title   = {Estimation of error rates in discriminant analysis.},
   year    = {2012},
-  volume  = {10},
   number  = {1},
   pages   = {1-11},
+  volume  = {10},
   file    = {Peter2012Estimation.pdf:Peter2012Estimation.pdf:PDF},
-  groups  = {supervised classification},
+  groups  = {classification},
 }
 
 @Article{Laeuter1998Multivariate,
@@ -2728,12 +2732,12 @@
 
 @InProceedings{Liu2009Large,
   author    = {Liu, Jun and Chen, Jianhui and Ye, Jieping},
-  title     = {Large-scale sparse logistic regression},
   booktitle = {In ACM SIGKDD International Conference On Knowledge Discovery and Data Mining},
+  title     = {Large-scale sparse logistic regression},
   year      = {2009},
   pages     = {547-556},
   file      = {Liu2009Large.pdf:Liu2009Large.pdf:PDF},
-  groups    = {supervised classification},
+  groups    = {classification},
 }
 
 @Article{Liu2015Understanding,
@@ -3576,14 +3580,14 @@
 
 @Article{Shao2013Self,
   author  = {Shao, Qi Man and Wang, Qiying},
-  title   = {Self-normalized limit theorems: a survey},
   journal = {Probability Surveys},
+  title   = {Self-normalized limit theorems: a survey},
   year    = {2013},
-  volume  = {10},
   number  = {1},
   pages   = {69-93},
+  volume  = {10},
   file    = {Shao2013Self.pdf:Shao2013Self.pdf:PDF},
-  groups  = {large deviation, selfNormalization},
+  groups  = {large deviation, self normalization},
 }
 
 @Article{Shen2016A,
@@ -4073,14 +4077,6 @@
   groups  = {screening},
 }
 
-@Article{wang2012inference,
-  author = {Wang, HaiYing and Flournoy, Nancy},
-  title  = {Inference on a new sigmoid regression model with unknown support and unbounded likelihood function},
-  year   = {2012},
-  file   = {wang2012inference.pdf:wang2012inference.pdf:PDF},
-  groups = {likelihood},
-}
-
 @Article{Wang2009Shrinkage,
   author  = {Wang, Hansheng and Li, Bo and Leng, Chenlei},
   title   = {Shrinkage tuning parameter selection with a diverging number of parameters},
@@ -4229,14 +4225,14 @@
 
 @Article{Witten2011Penalized,
   author  = {Witten, Daniela M. and Tibshirani, Robert},
-  title   = {Penalized classification using Fisher's linear discriminant},
   journal = {Journal of the Royal Statistical Society},
+  title   = {Penalized classification using Fisher's linear discriminant},
   year    = {2011},
-  volume  = {73},
   number  = {5},
   pages   = {753-772(20)},
+  volume  = {73},
   file    = {Witten2011Penalized.pdf:Witten2011Penalized.pdf:PDF},
-  groups  = {supervised classification},
+  groups  = {classification},
 }
 
 @Article{Wo2002Asymptotic,
@@ -5497,13 +5493,14 @@
 
 @Article{Lei2016Distribution,
   author  = {Lei, Jing and G'Sell, Max and Rinaldo, Alessandro and Tibshirani, Ryan J. and Wasserman, Larry},
-  title   = {Distribution-Free Predictive Inference For Regression},
   journal = {Journal of the American Statistical Association},
+  title   = {Distribution-Free Predictive Inference For Regression},
   year    = {2018},
-  volume  = {113},
   number  = {523},
   pages   = {1094--1111},
+  volume  = {113},
   file    = {:Lei2016Distribution.pdf:PDF},
+  groups  = {conformal inference},
 }
 
 @Book{Lang1998,
@@ -5585,14 +5582,14 @@
 
 @Article{Zani2013Large,
   author  = {Zani, Jean Marie Aubryand Marguerite and Zani, And Marguerite},
-  title   = {Large deviations for quasi-arithmetically self-normalized random variables},
   journal = {ESAIM - Probability and Statistics},
+  title   = {Large deviations for quasi-arithmetically self-normalized random variables},
   year    = {2013},
-  volume  = {17},
   number  = {1},
   pages   = {1-12},
+  volume  = {17},
   file    = {:Zani2013Large.pdf:PDF},
-  groups  = {selfNormalization},
+  groups  = {self normalization},
 }
 
 @Article{Liu2013A,
@@ -5604,19 +5601,19 @@
   pages   = {296-322},
   volume  = {41},
   file    = {:Liu2013A.pdf:PDF},
-  groups  = {selfNormalization},
+  groups  = {self normalization},
 }
 
 @Article{Bertail2008Exponential,
   author  = {Bertail, Patrice and Gautherat, Emmanuelle and Harari-Kermadec, Hugo},
-  title   = {Exponential bounds for multivariate self-normalized sums},
   journal = {Electronic Communications in Probability},
+  title   = {Exponential bounds for multivariate self-normalized sums},
   year    = {2008},
-  volume  = {13},
   number  = {18},
   pages   = {628--640},
+  volume  = {13},
   file    = {:Bertail2008Exponential.pdf:PDF},
-  groups  = {selfNormalization},
+  groups  = {self normalization},
 }
 
 @Book{book:661164,
@@ -6072,7 +6069,7 @@
   doi       = {10.1214/aos/1176324524},
   fjournal  = {The Annals of Statistics},
   groups    = {likelihood},
-  publisher = {The Institute of Mathematical Statistics},
+  publisher = {Institute of Mathematical Statistics},
   url       = {https://doi.org/10.1214/aos/1176324524},
 }
 
@@ -13681,16 +13678,16 @@
 
 @Article{Lei2014,
   author    = {J. Lei},
-  title     = {Classification with confidence},
   journal   = {Biometrika},
+  title     = {Classification with confidence},
   year      = {2014},
-  volume    = {101},
+  month     = {oct},
   number    = {4},
   pages     = {755--769},
-  month     = {oct},
+  volume    = {101},
   doi       = {10.1093/biomet/asu038},
   file      = {:Lei2014.pdf:PDF},
-  groups    = {machine learning},
+  groups    = {machine learning, classification},
   owner     = {kfeng123},
   publisher = {Oxford University Press ({OUP})},
   timestamp = {2019.02.23},
@@ -14982,22 +14979,6 @@
   publisher = {Informa {UK} Limited},
 }
 
-@Article{Wu1999,
-  author    = {Lang Wu and Michael D. Perlman},
-  title     = {The Emperor?s new tests},
-  journal   = {Statistical Science},
-  year      = {1999},
-  volume    = {14},
-  number    = {4},
-  pages     = {355--369},
-  month     = {nov},
-  doi       = {10.1214/ss/1009212517},
-  groups    = {likelihood},
-  owner     = {kfeng123},
-  publisher = {Institute of Mathematical Statistics},
-  timestamp = {2019.04.04},
-}
-
 @Article{Engelhardt1975,
   author    = {Max Engelhardt and Lee J. Bain},
   title     = {Tests of Two-Parameter Exponentialty Against Three-Parameter Weibull Alternatives},
@@ -15399,13 +15380,14 @@
 
 @Article{Rubio2013,
   author    = {Rubio, F. J. and Johansen, Adam M.},
-  title     = {A simple approach to maximum intractable likelihood estimation},
   journal   = {Electronic Journal of Statistics},
+  title     = {A simple approach to maximum intractable likelihood estimation},
   year      = {2013},
-  volume    = {7},
-  pages     = {1632--1654},
   issn      = {1935-7524},
+  pages     = {1632--1654},
+  volume    = {7},
   doi       = {10.1214/13-EJS819},
+  file      = {:Rubio2013.pdf:PDF},
   groups    = {likelihood},
   keywords  = {62F10 (60J22 62E17 62F12 62F15 62G07 65C05)},
   mrnumber  = {3070873},
@@ -16026,15 +16008,15 @@
 
 @Article{Li2016b,
   author    = {Li, Zhaoyuan and Yao, Jianfeng},
-  title     = {On two simple and effective procedures for high dimensional classification of general populations},
   journal   = {Statistical Papers},
+  title     = {On two simple and effective procedures for high dimensional classification of general populations},
   year      = {2016},
-  volume    = {57},
+  issn      = {0932-5026},
   number    = {2},
   pages     = {381--405},
-  issn      = {0932-5026},
+  volume    = {57},
   doi       = {10.1007/s00362-015-0660-8},
-  groups    = {supervised classification},
+  groups    = {classification},
   keywords  = {62H30 (15B52)},
   mrnumber  = {3483195},
   owner     = {kfeng123},
@@ -19708,11 +19690,500 @@
   mrnumber = {4134791},
 }
 
+@Article{Fan2000,
+  author   = {Fan, Jianqing and Hung, Hui-Nien and Wong, Wing-Hung},
+  journal  = {Journal of the American Statistical Association},
+  title    = {Geometric understanding of likelihood ratio statistics},
+  year     = {2000},
+  issn     = {0162-1459},
+  number   = {451},
+  pages    = {836--841},
+  volume   = {95},
+  doi      = {10.2307/2669467},
+  groups   = {likelihood},
+  keywords = {62F05 (62F03 62F15)},
+  mrnumber = {1804442},
+}
+
+@Article{Rinaldo2019,
+  author   = {Rinaldo, Alessandro and Wasserman, Larry and G'Sell, Max},
+  journal  = {The Annals of Statistics},
+  title    = {Bootstrapping and sample splitting for high-dimensional, assumption-lean inference},
+  year     = {2019},
+  issn     = {0090-5364},
+  number   = {6},
+  pages    = {3438--3469},
+  volume   = {47},
+  doi      = {10.1214/18-AOS1784},
+  groups   = {randomization test},
+  keywords = {62F40 (62F35 62G09 62G20 62J05)},
+  mrnumber = {4025748},
+}
+
+@Article{Angelopoulos2020,
+  author      = {Anastasios Angelopoulos and Stephen Bates and Jitendra Malik and Michael I. Jordan},
+  title       = {Uncertainty Sets for Image Classifiers using Conformal Prediction},
+  abstract    = {Convolutional image classifiers can achieve high predictive accuracy, but quantifying their uncertainty remains an unresolved challenge, hindering their deployment in consequential settings. Existing uncertainty quantification techniques, such as Platt scaling, attempt to calibrate the network's probability estimates, but they do not have formal guarantees. We present an algorithm that modifies any classifier to output a predictive set containing the true label with a user-specified probability, such as 90%. The algorithm is simple and fast like Platt scaling, but provides a formal finite-sample coverage guarantee for every model and dataset. Furthermore, our method generates much smaller predictive sets than alternative methods, since we introduce a regularizer to stabilize the small scores of unlikely classes after Platt scaling. In experiments on both Imagenet and Imagenet-V2 with a ResNet-152 and other classifiers, our scheme outperforms existing approaches, achieving exact coverage with sets that are often factors of 5 to 10 smaller.},
+  date        = {2020-09-29},
+  eprint      = {2009.14193},
+  eprintclass = {cs.CV},
+  eprinttype  = {arXiv},
+  file        = {:Angelopoulos2020 - Uncertainty Sets for Image Classifiers Using Conformal Prediction.pdf:PDF},
+  groups      = {conformal inference},
+  keywords    = {cs.CV, math.ST, stat.ML, stat.TH},
+}
+
+@InProceedings{Vovk1999,
+  author    = {Vovk, Volodya and Gammerman, Alexander and Saunders, Craig},
+  booktitle = {Proceedings of the Sixteenth International Conference on Machine Learning},
+  title     = {Machine-Learning Applications of Algorithmic Randomness},
+  year      = {1999},
+  address   = {San Francisco, CA, USA},
+  pages     = {444–453},
+  publisher = {Morgan Kaufmann Publishers Inc.},
+  series    = {ICML '99},
+  groups    = {conformal inference},
+  isbn      = {1558606122},
+  numpages  = {10},
+}
+
+@Article{Romano2020,
+  author      = {Yaniv Romano and Matteo Sesia and Emmanuel J. Candès},
+  title       = {Classification with Valid and Adaptive Coverage},
+  abstract    = {Conformal inference, cross-validation+, and the jackknife+ are hold-out methods that can be combined with virtually any machine learning algorithm to construct prediction sets with guaranteed marginal coverage. In this paper, we develop specialized versions of these techniques for categorical and unordered response labels that, in addition to providing marginal coverage, are also fully adaptive to complex data distributions, in the sense that they perform favorably in terms of approximate conditional coverage compared to alternative methods. The heart of our contribution is a novel conformity score, which we explicitly demonstrate to be powerful and intuitive for classification problems, but whose underlying principle is potentially far more general. Experiments on synthetic and real data demonstrate the practical value of our theoretical guarantees, as well as the statistical advantages of the proposed methods over the existing alternatives.},
+  date        = {2020-06-03},
+  eprint      = {2006.02544},
+  eprintclass = {stat.ME},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2006.02544v1:PDF},
+  groups      = {conformal inference},
+  keywords    = {stat.ME, stat.ML},
+}
+
+@Article{Park2019,
+  author      = {Sangdon Park and Osbert Bastani and Nikolai Matni and Insup Lee},
+  title       = {PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction},
+  abstract    = {We propose an algorithm combining calibrated prediction and generalization bounds from learning theory to construct confidence sets for deep neural networks with PAC guarantees---i.e., the confidence set for a given input contains the true label with high probability. We demonstrate how our approach can be used to construct PAC confidence sets on ResNet for ImageNet, a visual object tracking model, and a dynamics model for the half-cheetah reinforcement learning problem.},
+  date        = {2019-12-31},
+  eprint      = {2001.00106},
+  eprintclass = {cs.LG},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2001.00106v2:PDF},
+  groups      = {conformal inference},
+  keywords    = {cs.LG, stat.ML},
+}
+
+@Article{Hechtlinger2018,
+  author      = {Yotam Hechtlinger and Barnabás Póczos and Larry Wasserman},
+  title       = {Cautious Deep Learning},
+  abstract    = {Most classifiers operate by selecting the maximum of an estimate of the conditional distribution $p(y|x)$ where $x$ stands for the features of the instance to be classified and $y$ denotes its label. This often results in a {\em hubristic bias}: overconfidence in the assignment of a definite label. Usually, the observations are concentrated on a small volume but the classifier provides definite predictions for the entire space. We propose constructing conformal prediction sets which contain a set of labels rather than a single label. These conformal prediction sets contain the true label with probability $1-\alpha$. Our construction is based on $p(x|y)$ rather than $p(y|x)$ which results in a classifier that is very cautious: it outputs the null set --- meaning "I don't know" --- when the object does not resemble the training examples. An important property of our approach is that adversarial attacks are likely to be predicted as the null set or would also include the true label. We demonstrate the performance on the ImageNet ILSVRC dataset and the CelebA and IMDB-Wiki facial datasets using high dimensional features obtained from state of the art convolutional neural networks.},
+  date        = {2018-05-24},
+  eprint      = {1805.09460},
+  eprintclass = {stat.ML},
+  eprinttype  = {arXiv},
+  file        = {:Hechtlinger2018 - Cautious Deep Learning.pdf:PDF},
+  groups      = {conformal inference},
+  keywords    = {stat.ML, cs.AI, cs.CV, cs.LG, stat.ME},
+}
+
+@Article{Lei2013,
+  author    = {Jing Lei and Alessandro Rinaldo and Larry Wasserman},
+  journal   = {Annals of Mathematics and Artificial Intelligence},
+  title     = {A conformal prediction approach to explore functional data},
+  year      = {2013},
+  month     = {sep},
+  number    = {1-2},
+  pages     = {29--43},
+  volume    = {74},
+  doi       = {10.1007/s10472-013-9366-6},
+  file      = {:Lei2013 - A Conformal Prediction Approach to Explore Functional Data.pdf:PDF},
+  groups    = {conformal inference},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@InProceedings{Fedorova2012,
+  author    = {Fedorova, Valentina and Gammerman, Alex and Nouretdinov, Ilia and Vovk, Vladimir},
+  booktitle = {Proceedings of the 29th International Coference on International Conference on Machine Learning},
+  title     = {Plug-in Martingales for Testing Exchangeability on-Line},
+  year      = {2012},
+  address   = {Madison, WI, USA},
+  pages     = {923–930},
+  publisher = {Omnipress},
+  series    = {ICML'12},
+  abstract  = {A standard assumption in machine learning is the exchangeability of data, which is equivalent to assuming that the examples are generated from the same probability distribution independently. This paper is devoted to testing the assumption of exchangeability on-line: the examples arrive one by one, and after receiving each example we would like to have a valid measure of the degree to which the assumption of exchangeability has been falsified. Such measures are provided by exchangeability martingales. We extend known techniques for constructing exchangeability martingales and show that our new method is competitive with the martingales introduced before. Finally we investigate the performance of our testing method on two benchmark datasets, USPS and Statlog Satellite data; for the former, the known techniques give satisfactory results, but for the latter our new more exible method becomes necessary.},
+  file      = {:Fedorova2012 - Plug in Martingales for Testing Exchangeability on Line.pdf:PDF},
+  groups    = {conformal inference},
+  isbn      = {9781450312851},
+  location  = {Edinburgh, Scotland},
+  numpages  = {8},
+}
+
+@Article{Tong2016,
+  author    = {Xin Tong and Yang Feng and Anqi Zhao},
+  journal   = {Wiley Interdisciplinary Reviews: Computational Statistics},
+  title     = {A survey on Neyman-Pearson classification and suggestions for future research},
+  year      = {2016},
+  month     = {feb},
+  number    = {2},
+  pages     = {64--81},
+  volume    = {8},
+  doi       = {10.1002/wics.1376},
+  groups    = {classification},
+  publisher = {Wiley},
+}
+
+@Article{Lei2013a,
+  author    = {Jing Lei and Larry Wasserman},
+  journal   = {Journal of the Royal Statistical Society: Series B (Statistical Methodology)},
+  title     = {Distribution-free prediction bands for non-parametric regression},
+  year      = {2013},
+  month     = {jul},
+  number    = {1},
+  pages     = {71--96},
+  volume    = {76},
+  doi       = {10.1111/rssb.12021},
+  groups    = {conformal inference},
+  publisher = {Wiley},
+}
+
+@Book{Vovk2005,
+  author    = {Vovk, Vladimir and Gammerman, Alexander and Shafer, Glenn},
+  publisher = {Springer, New York},
+  title     = {Algorithmic learning in a random world},
+  year      = {2005},
+  isbn      = {978-0387-00152-4; 0-387-00152-2},
+  file      = {:Vovk2005.pdf:PDF},
+  groups    = {conformal inference},
+  keywords  = {68T05 (62H30 62M20)},
+  mrnumber  = {2161220},
+  pages     = {xvi+324},
+}
+
+@InCollection{NIPS2019_8522,
+  author    = {Tibshirani, Ryan J and Foygel Barber, Rina and Candes, Emmanuel and Ramdas, Aaditya},
+  booktitle = {Advances in Neural Information Processing Systems 32},
+  publisher = {Curran Associates, Inc.},
+  title     = {Conformal Prediction Under Covariate Shift},
+  year      = {2019},
+  editor    = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
+  pages     = {2530--2540},
+  file      = {:NIPS2019_8522 - Conformal Prediction under Covariate Shift.pdf:PDF},
+  groups    = {conformal inference},
+  url       = {http://papers.nips.cc/paper/8522-conformal-prediction-under-covariate-shift.pdf},
+}
+
+@InCollection{NIPS2019_8613,
+  author    = {Romano, Yaniv and Patterson, Evan and Candes, Emmanuel},
+  booktitle = {Advances in Neural Information Processing Systems 32},
+  publisher = {Curran Associates, Inc.},
+  title     = {Conformalized Quantile Regression},
+  year      = {2019},
+  editor    = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
+  pages     = {3543--3553},
+  groups    = {conformal inference},
+  url       = {http://papers.nips.cc/paper/8613-conformalized-quantile-regression.pdf},
+}
+
+@InCollection{NIPS2019_8419,
+  author    = {Ndiaye, Eugene and Takeuchi, Ichiro},
+  booktitle = {Advances in Neural Information Processing Systems 32},
+  publisher = {Curran Associates, Inc.},
+  title     = {Computing Full Conformal Prediction Set with Approximate Homotopy},
+  year      = {2019},
+  editor    = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
+  pages     = {1386--1395},
+  groups    = {conformal inference},
+  url       = {http://papers.nips.cc/paper/8419-computing-full-conformal-prediction-set-with-approximate-homotopy.pdf},
+}
+
+@Article{Lei2020,
+  author      = {Lihua Lei and Emmanuel J. Candès},
+  title       = {Conformal Inference of Counterfactuals and Individual Treatment Effects},
+  abstract    = {Evaluating treatment effect heterogeneity widely informs treatment decision making. At the moment, much emphasis is placed on the estimation of the conditional average treatment effect via flexible machine learning algorithms. While these methods enjoy some theoretical appeal in terms of consistency and convergence rates, they generally perform poorly in terms of uncertainty quantification. This is troubling since assessing risk is crucial for reliable decision-making in sensitive and uncertain environments. In this work, we propose a conformal inference-based approach that can produce reliable interval estimates for counterfactuals and individual treatment effects under the potential outcome framework. For completely randomized or stratified randomized experiments with perfect compliance, the intervals have guaranteed average coverage in finite samples regardless of the unknown data generating mechanism. For randomized experiments with ignorable compliance and general observational studies obeying the strong ignorability assumption, the intervals satisfy a doubly robust property which states the following: the average coverage is approximately controlled if either the propensity score or the conditional quantiles of potential outcomes can be estimated accurately. Numerical studies on both synthetic and real datasets empirically demonstrate that existing methods suffer from a significant coverage deficit even in simple models. In contrast, our methods achieve the desired coverage with reasonably short intervals.},
+  date        = {2020-06-11},
+  eprint      = {2006.06138},
+  eprintclass = {stat.ME},
+  eprinttype  = {arXiv},
+  file        = {:Lei2020 - Conformal Inference of Counterfactuals and Individual Treatment Effects.pdf:PDF},
+  groups      = {conformal inference},
+  keywords    = {stat.ME, math.ST, stat.ML, stat.TH},
+}
+
+@Article{Sesia2020,
+  author    = {Matteo Sesia and Emmanuel J. Cand{\`{e}}s},
+  journal   = {Stat},
+  title     = {A comparison of some conformal quantile regression methods},
+  year      = {2020},
+  month     = {feb},
+  number    = {1},
+  volume    = {9},
+  doi       = {10.1002/sta4.261},
+  groups    = {conformal inference},
+  publisher = {Wiley},
+}
+
+@Article{Shao2013,
+  author   = {Shao, Xiaofeng and Politis, Dimitris N.},
+  journal  = {Journal of the Royal Statistical Society. Series B. Statistical Methodology},
+  title    = {Fixed {$b$} subsampling and the block bootstrap: improved confidence sets based on {$p$}-value calibration},
+  year     = {2013},
+  issn     = {1369-7412},
+  number   = {1},
+  pages    = {161--184},
+  volume   = {75},
+  doi      = {10.1111/j.1467-9868.2012.01037.x},
+  groups   = {randomization test},
+  keywords = {62G09 (62M07 62M10)},
+  mrnumber = {3008276},
+}
+
+@Article{Vovk2009,
+  author    = {Vladimir Vovk and Ilia Nouretdinov and Alex Gammerman},
+  journal   = {The Annals of Statistics},
+  title     = {On-line predictive linear regression},
+  year      = {2009},
+  month     = {jun},
+  number    = {3},
+  pages     = {1566--1590},
+  volume    = {37},
+  doi       = {10.1214/08-aos622},
+  groups    = {conformal inference},
+  publisher = {Institute of Mathematical Statistics},
+}
+
+@Article{Shafer2008A,
+  author     = {Shafer, Glenn and Vovk, Vladimir},
+  journal    = {J. Mach. Learn. Res.},
+  title      = {A Tutorial on Conformal Prediction},
+  year       = {2008},
+  issn       = {1532-4435},
+  month      = jun,
+  pages      = {371–421},
+  volume     = {9},
+  abstract   = {Conformal prediction uses past experience to determine precise levels of confidence in new predictions. Given an error probability ε, together with a method that makes a prediction undefined of a label y, it produces a set of labels, typically containing undefined, that also contains y with probability 1 – ε. Conformal prediction can be applied to any method for producing undefined: a nearest-neighbor method, a support-vector machine, ridge regression, etc.Conformal prediction is designed for an on-line setting in which labels are predicted successively, each one being revealed before the next is predicted. The most novel and valuable feature of conformal prediction is that if the successive examples are sampled independently from the same distribution, then the successive predictions will be right 1 – ε of the time, even though they are based on an accumulating data set rather than on independent data sets.In addition to the model under which successive examples are sampled independently, other on-line compression models can also use conformal prediction. The widely used Gaussian linear model is one of these.This tutorial presents a self-contained account of the theory of conformal prediction and works through several numerical examples. A more comprehensive treatment of the topic is provided in Algorithmic Learning in a Random World, by Vladimir Vovk, Alex Gammerman, and Glenn Shafer (Springer, 2005).},
+  file       = {:Shafer2008A.pdf:PDF},
+  groups     = {conformal inference},
+  issue_date = {6/1/2008},
+  numpages   = {51},
+  publisher  = {JMLR.org},
+}
+
+@Article{Wasserman2020,
+  author    = {Larry Wasserman and Aaditya Ramdas and Sivaraman Balakrishnan},
+  journal   = {Proceedings of the National Academy of Sciences},
+  title     = {Universal inference},
+  year      = {2020},
+  month     = {jul},
+  number    = {29},
+  pages     = {16880--16890},
+  volume    = {117},
+  doi       = {10.1073/pnas.1922664117},
+  file      = {:Wasserman2020.pdf:PDF},
+  groups    = {likelihood},
+  publisher = {Proceedings of the National Academy of Sciences},
+}
+
+@Article{Drton2009,
+  author    = {Mathias Drton},
+  journal   = {The Annals of Statistics},
+  title     = {Likelihood ratio tests and singularities},
+  year      = {2009},
+  month     = {apr},
+  number    = {2},
+  pages     = {979--1012},
+  volume    = {37},
+  doi       = {10.1214/07-aos571},
+  groups    = {algebraic statistics},
+  publisher = {Institute of Mathematical Statistics},
+}
+
+@Book{Drton2009a,
+  author    = {Drton, Mathias and Sturmfels, Bernd and Sullivant, Seth},
+  publisher = {Birkh\"{a}user Verlag, Basel},
+  title     = {Lectures on algebraic statistics},
+  year      = {2009},
+  isbn      = {978-3-7643-8904-8},
+  series    = {Oberwolfach Seminars},
+  volume    = {39},
+  doi       = {10.1007/978-3-7643-8905-5},
+  groups    = {algebraic statistics},
+  keywords  = {62-02 (13P25 14Q99 62-09 62F15 62H17 62H20)},
+  mrnumber  = {2723140},
+  pages     = {viii+171},
+}
+
+@Article{Ma2015Efficient,
+  author   = {Ma, Ping and Huang, Jianhua Z. and Zhang, Nan},
+  journal  = {Biometrika},
+  title    = {Efficient computation of smoothing splines via adaptive basis sampling},
+  year     = {2015},
+  issn     = {0006-3444},
+  number   = {3},
+  pages    = {631--645},
+  volume   = {102},
+  doi      = {10.1093/biomet/asv009},
+  file     = {:Ma2015Efficient.pdf:PDF},
+  groups   = {big data for nonparametric statistic},
+  keywords = {92B15},
+  mrnumber = {3394280},
+}
+
+@Article{Meng2020,
+  author   = {Meng, Cheng and Zhang, Xinlian and Zhang, Jingyi and Zhong, Wenxuan and Ma, Ping},
+  journal  = {Biometrika},
+  title    = {More efficient approximation of smoothing splines via space-filling basis selection},
+  year     = {2020},
+  issn     = {0006-3444},
+  number   = {3},
+  pages    = {723--735},
+  volume   = {107},
+  doi      = {10.1093/biomet/asaa019},
+  file     = {:Meng2020 - More Efficient Approximation of Smoothing Splines Via Space Filling Basis Selection.pdf:PDF},
+  groups   = {big data for nonparametric statistic},
+  keywords = {62G08 (62K05)},
+  mrnumber = {4138986},
+}
+
+@Article{Ma2017Ada,
+  author   = {Ma, Ping and Zhang, Nan and Huang, Jianhua Z. and Zhong, Wenxuan},
+  journal  = {Statistica Sinica},
+  title    = {Adaptive basis selection for exponential family smoothing splines with application in joint modeling of multiple sequencing samples},
+  year     = {2017},
+  issn     = {1017-0405},
+  number   = {4},
+  pages    = {1757--1777},
+  volume   = {27},
+  file     = {:Ma2017Ada.pdf:PDF},
+  groups   = {big data for nonparametric statistic},
+  keywords = {62G05 (62P10)},
+  mrnumber = {3726764},
+}
+
+@Article{Xu2018,
+  author   = {Xu, Danqing and Wang, Yuedong},
+  journal  = {Journal of Computational and Graphical Statistics},
+  title    = {Divide and recombine approaches for fitting smoothing spline models with large datasets},
+  year     = {2018},
+  issn     = {1061-8600},
+  number   = {3},
+  pages    = {677--683},
+  volume   = {27},
+  doi      = {10.1080/10618600.2017.1402775},
+  file     = {:Xu2018.pdf:PDF},
+  groups   = {big data for nonparametric statistic},
+  keywords = {Expansion},
+  mrnumber = {3863768},
+}
+
+@Article{Kim2004,
+  author    = {Young-Ju Kim and Chong Gu},
+  journal   = {Journal of the Royal Statistical Society: Series B (Statistical Methodology)},
+  title     = {Smoothing spline Gaussian regression: more scalable computation via efficient approximation},
+  year      = {2004},
+  month     = {may},
+  number    = {2},
+  pages     = {337--356},
+  volume    = {66},
+  doi       = {10.1046/j.1369-7412.2003.05316.x},
+  groups    = {big data for nonparametric statistic},
+  publisher = {Wiley},
+}
+
+@Article{Shang2017C,
+  author  = {Zuofeng Shang and Guang Cheng},
+  journal = {Journal of Machine Learning Research},
+  title   = {Computational Limits of A Distributed Algorithm for Smoothing Spline},
+  year    = {2017},
+  number  = {108},
+  pages   = {1-37},
+  volume  = {18},
+  file    = {:Shang2017C.pdf:PDF},
+  groups  = {big data for nonparametric statistic},
+  url     = {http://jmlr.org/papers/v18/16-289.html},
+}
+
+@Article{Amiri2017,
+  author   = {Amiri, Aboubacar and Thiam, Baba and Verdebout, Thomas},
+  journal  = {Scandinavian Journal of Statistics. Theory and Applications},
+  title    = {On the estimation of the density of a directional data stream},
+  year     = {2017},
+  issn     = {0303-6898},
+  number   = {1},
+  pages    = {249--267},
+  volume   = {44},
+  doi      = {10.1111/sjos.12252},
+  file     = {:Amiri2017 - On the Estimation of the Density of a Directional Data Stream.pdf:PDF},
+  groups   = {big data for nonparametric statistic},
+  keywords = {62G07 (62G20 62H11)},
+  mrnumber = {3619704},
+}
+
+@Book{Gramacki2018,
+  author    = {Gramacki, Artur},
+  publisher = {Springer, Cham},
+  title     = {Nonparametric kernel density estimation and its computational aspects},
+  year      = {2018},
+  isbn      = {978-3-319-71687-9; 978-3-319-71688-6},
+  note      = {With a foreword by J\'{o}zef Korbicz},
+  series    = {Studies in Big Data},
+  volume    = {37},
+  doi       = {10.1007/978-3-319-71688-6},
+  file      = {:Gramacki2018.pdf:PDF},
+  groups    = {big data for nonparametric statistic},
+  keywords  = {62G07 (62-07)},
+  mrnumber  = {3838346},
+  pages     = {xxix+176},
+}
+
+@Article{PhamNgoc2019,
+  author   = {Pham Ngoc, Thanh Mai},
+  journal  = {Journal of Multivariate Analysis},
+  title    = {Adaptive optimal kernel density estimation for directional data},
+  year     = {2019},
+  issn     = {0047-259X},
+  pages    = {248--267},
+  volume   = {173},
+  doi      = {10.1016/j.jmva.2019.02.009},
+  groups   = {Nonparametric},
+  keywords = {62G07},
+  mrnumber = {3923431},
+}
+
+@Article{Aboubacar2020,
+  author    = {Amir Aboubacar and Mohamed El Machkouri},
+  journal   = {{IEEE} Transactions on Information Theory},
+  title     = {Recursive Kernel Density Estimation for Time Series},
+  year      = {2020},
+  month     = {oct},
+  number    = {10},
+  pages     = {6378--6388},
+  volume    = {66},
+  doi       = {10.1109/tit.2020.3014797},
+  groups    = {Nonparametric},
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+}
+
+@Article{Gramacki2017,
+  author   = {Gramacki, Artur and Gramacki, Jaros\l aw},
+  journal  = {Computational Statistics \& Data Analysis},
+  title    = {F{FT}-based fast bandwidth selector for multivariate kernel density estimation},
+  year     = {2017},
+  issn     = {0167-9473},
+  pages    = {27--45},
+  volume   = {106},
+  doi      = {10.1016/j.csda.2016.09.001},
+  file     = {:Gramacki2017.pdf:PDF},
+  groups   = {big data for nonparametric statistic},
+  keywords = {62G07},
+  mrnumber = {3566073},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
 1 StaticGroup:aggregation of estimators\;0\;1\;\;\;\;;
+1 StaticGroup:algebraic statistics\;0\;1\;0x8a8a8aff\;\;\;;
 1 StaticGroup:Bayes\;2\;1\;\;\;\;;
 2 StaticGroup:Bayes factor\;2\;1\;\;\;\;;
 3 StaticGroup:nonparametric\;0\;1\;\;\;\;;
@@ -19723,7 +20194,9 @@
 2 StaticGroup:ultraHighRegression\;0\;1\;\;\;\;;
 1 StaticGroup:beta regression\;0\;1\;\;\;\;;
 1 StaticGroup:books\;0\;1\;\;\;\;;
+1 StaticGroup:classification\;0\;1\;0x8a8a8aff\;\;\;;
 1 StaticGroup:CLT\;0\;1\;\;\;\;;
+1 StaticGroup:conformal inference\;0\;1\;0x8a8a8aff\;\;\;;
 1 StaticGroup:desparsifying\;0\;1\;\;\;\;;
 1 StaticGroup:distribution theory\;0\;1\;\;\;\;;
 1 StaticGroup:econometric\;0\;1\;\;\;\;;
@@ -19751,6 +20224,8 @@
 1 StaticGroup:model selection\;0\;1\;\;\;\;;
 1 StaticGroup:monotonic optimization\;0\;1\;\;\;\;;
 1 StaticGroup:Network\;0\;1\;\;\;\;;
+1 StaticGroup:Nonparametric\;0\;1\;0x8a8a8aff\;\;\;;
+2 StaticGroup:big data for nonparametric statistic\;0\;1\;0x8a8a8aff\;\;\;;
 1 StaticGroup:optimization\;0\;1\;\;\;\;;
 1 StaticGroup:precision medicine\;0\;1\;\;\;\;;
 1 StaticGroup:Random matrices\;0\;1\;\;\;\;;
@@ -19758,16 +20233,15 @@
 1 StaticGroup:Regression test\;0\;1\;\;\;\;;
 1 StaticGroup:regularized regression\;0\;1\;\;\;\;;
 1 StaticGroup:screening\;0\;1\;\;\;\;;
-1 StaticGroup:selfNormalization\;0\;1\;\;\;\;;
+1 StaticGroup:self normalization\;0\;1\;0x8a8a8aff\;\;\;;
 1 StaticGroup:single-index model\;0\;1\;\;\;\;;
 1 StaticGroup:SPATIO-TEMPORAL MODEL\;0\;1\;\;\;\;;
 1 StaticGroup:stat software\;0\;1\;\;\;\;;
+1 StaticGroup:Statistical Deep Learning\;0\;1\;\;\;\;;
 1 StaticGroup:Structural equation models\;0\;1\;\;\;\;;
-1 StaticGroup:supervised classification\;0\;1\;\;\;\;;
 1 StaticGroup:Time Series\;0\;1\;\;\;\;;
 1 StaticGroup:variance estimation\;0\;1\;\;\;\;;
 1 StaticGroup:variance test\;0\;1\;\;\;\;;
-1 StaticGroup:Statistical Deep Learning\;0\;1\;\;\;\;;
 }
 
 @Comment{jabref-meta: groupsversion:
