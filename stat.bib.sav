@@ -21432,6 +21432,47 @@
   url       = {http://proceedings.mlr.press/v75/chernozhukov18a.html},
 }
 
+@Article{Kuchibhotla2020,
+  author      = {Arun Kumar Kuchibhotla},
+  title       = {Exchangeability, Conformal Prediction, and Rank Tests},
+  abstract    = {Conformal prediction has been a very popular method of distribution-free predictive inference in recent years in machine learning and statistics. The main reason for its popularity comes from the fact that it works as a wrapper around any prediction algorithm such as neural networks or random forests. Exchangeability is at the core of the validity of conformal prediction. The concept of exchangeability is also at the core of rank tests widely known in nonparametric statistics. In this paper, we review the concept of exchangeability and discuss its implications for rank tests and conformal prediction. Although written as an exposition, the main message of the paper is to show that similar to conformal prediction, rank tests can also be used as a wrapper around any dimension reduction algorithm.},
+  date        = {2020-05-13},
+  eprint      = {2005.06095},
+  eprintclass = {stat.ME},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2005.06095v1:PDF},
+  groups      = {conformal inference},
+  keywords    = {stat.ME, stat.AP, stat.ML},
+}
+
+@Article{Lei2019,
+  author    = {J Lei},
+  journal   = {Biometrika},
+  title     = {Fast exact conformalization of the lasso using piecewise linear homotopy},
+  year      = {2019},
+  month     = {sep},
+  number    = {4},
+  pages     = {749--764},
+  volume    = {106},
+  doi       = {10.1093/biomet/asz046},
+  groups    = {conformal inference},
+  publisher = {Oxford University Press ({OUP})},
+}
+
+@Article{Zhang2019,
+  author    = {Haozhe Zhang and Joshua Zimmerman and Dan Nettleton and Daniel J. Nordman},
+  journal   = {The American Statistician},
+  title     = {Random Forest Prediction Intervals},
+  year      = {2019},
+  month     = {jun},
+  number    = {4},
+  pages     = {392--406},
+  volume    = {74},
+  doi       = {10.1080/00031305.2019.1585288},
+  groups    = {conformal inference},
+  publisher = {Informa {UK} Limited},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
