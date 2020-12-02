@@ -9782,20 +9782,19 @@
 }
 
 @InBook{berger2001Obj,
-  pages     = {135--207},
-  title     = {Objective Bayesian Methods for Model Selection: Introduction and Comparison},
-  publisher = {Institute of Mathematical Statistics},
-  year      = {2001},
   author    = {Berger, James O. and Pericchi, Luis R.},
   editor    = {Lahiri, P.},
-  volume    = {Volume 38},
-  series    = {Lecture Notes--Monograph Series},
+  pages     = {135--207},
+  publisher = {Institute of Mathematical Statistics},
+  title     = {Objective Bayesian Methods for Model Selection: Introduction and Comparison},
+  year      = {2001},
   address   = {Beachwood, OH},
+  series    = {Lecture Notes--Monograph Series},
+  volume    = {Volume 38},
   booktitle = {Model selection},
   doi       = {10.1214/lnms/1215540968},
   file      = {:berger2001Obj.pdf:PDF},
   groups    = {Bayes factor},
-  url       = {https://doi.org/10.1214/lnms/1215540968},
 }
 
 @Article{O’Hagan1997,
@@ -22968,6 +22967,20 @@
   doi       = {10.1093/biomet/asr033},
   groups    = {likelihood},
   publisher = {Oxford University Press ({OUP})},
+}
+
+@Article{Jensen1991,
+  author    = {Jens Ledet Jensen},
+  journal   = {Journal of the American Statistical Association},
+  title     = {A Large Deviation-Type Approximation for the {\textquotedblleft}Box Class{\textquotedblright} of Likelihood Ratio Criteria},
+  year      = {1991},
+  month     = {jun},
+  number    = {414},
+  pages     = {437--440},
+  volume    = {86},
+  doi       = {10.1080/01621459.1991.10475062},
+  groups    = {likelihood},
+  publisher = {Informa {UK} Limited},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
