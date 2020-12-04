@@ -9781,22 +9781,6 @@
   timestamp = {2018.11.03},
 }
 
-@InBook{berger2001Obj,
-  author    = {Berger, James O. and Pericchi, Luis R.},
-  editor    = {Lahiri, P.},
-  pages     = {135--207},
-  publisher = {Institute of Mathematical Statistics},
-  title     = {Objective Bayesian Methods for Model Selection: Introduction and Comparison},
-  year      = {2001},
-  address   = {Beachwood, OH},
-  series    = {Lecture Notes--Monograph Series},
-  volume    = {Volume 38},
-  booktitle = {Model selection},
-  doi       = {10.1214/lnms/1215540968},
-  file      = {:berger2001Obj.pdf:PDF},
-  groups    = {Bayes factor},
-}
-
 @Article{O’Hagan1997,
   author   = {O'Hagan, A.},
   title    = {Properties of intrinsic and fractional Bayes factors},
@@ -21813,7 +21797,7 @@
   mrnumber = {1463565},
 }
 
-@Article{Wang2018a,
+@Article{Wang2018Bayesian,
   author    = {Yu-Bo Wang and Ming-Hui Chen and Lynn Kuo and Paul O. Lewis},
   journal   = {Bayesian Analysis},
   title     = {A New Monte Carlo Method for Estimating Marginal Likelihoods},
@@ -21823,6 +21807,7 @@
   pages     = {311--333},
   volume    = {13},
   doi       = {10.1214/17-ba1049},
+  file      = {:Wang2018Bayesian.pdf:PDF},
   groups    = {Bayes factor},
   publisher = {Institute of Mathematical Statistics},
 }
@@ -22981,6 +22966,57 @@
   doi       = {10.1080/01621459.1991.10475062},
   groups    = {likelihood},
   publisher = {Informa {UK} Limited},
+}
+
+@InCollection{berger2001Obj,
+  author    = {Berger, James O. and Pericchi, Luis R.},
+  booktitle = {Model selection},
+  publisher = {Inst. Math. Statist., Beachwood, OH},
+  title     = {Objective {B}ayesian methods for model selection: introduction and comparison},
+  year      = {2001},
+  address   = {Beachwood, OH},
+  pages     = {135--207},
+  series    = {Lecture Notes--Monograph Series},
+  volume    = {38},
+  doi       = {10.1214/lnms/1215540968},
+  file      = {:berger2001Obj.pdf:PDF},
+  groups    = {Bayes factor},
+  keywords  = {62C10},
+  mrnumber  = {2000753},
+}
+
+@Article{Pajor2017Estimating,
+  author    = {Anna Pajor},
+  journal   = {Bayesian Analysis},
+  title     = {Estimating the Marginal Likelihood Using the Arithmetic Mean Identity},
+  year      = {2017},
+  month     = {mar},
+  number    = {1},
+  pages     = {261--287},
+  volume    = {12},
+  doi       = {10.1214/16-ba1001},
+  file      = {:Pajor2017Estimating.pdf:PDF},
+  groups    = {Bayes factor},
+  publisher = {Institute of Mathematical Statistics},
+}
+
+@Article{Gao2020A,
+  author    = {Chao Gao and Aad W. van der Vaart and Harrison H. Zhou},
+  journal   = {Annals of Statistics},
+  title     = {A general framework for Bayes structured linear models},
+  year      = {2020},
+  month     = {oct},
+  number    = {5},
+  pages     = {2848--2878},
+  volume    = {48},
+  doi       = {10.1214/19-aos1909},
+  file      = {:Gao2020A.pdf:PDF;:Gao2020A_supp.pdf:PDF},
+  groups    = {Bayes},
+  publisher = {Institute of Mathematical Statistics},
+}
+
+@Article{,
+  groups = {Bayes},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
