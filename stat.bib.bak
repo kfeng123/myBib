@@ -18340,13 +18340,13 @@
 }
 
 @Book{Fisher1935experiments,
-  title     = {The design of experiments},
-  publisher = {Oliver and Boyd},
-  year      = {1935},
   author    = {Fisher, R. A.},
+  publisher = {Oliver and Boyd},
+  title     = {The design of experiments},
+  year      = {1935},
   address   = {Edinburgh},
   edition   = {1},
-  file      = {:Fisher1935experiments.pdf:PDF},
+  file      = {:Fisher1935experiments.djvu:Djvu},
   groups    = {books},
   owner     = {kfeng123},
   timestamp = {2019.10.16},
@@ -23956,7 +23956,7 @@
   publisher = {Association for Computing Machinery ({ACM})},
 }
 
-@Article{Drineas201Faster,
+@Article{Drineas2011Faster,
   author    = {Petros Drineas and Michael W. Mahoney and S. Muthukrishnan and Tam{\'{a}}s Sarl{\'{o}}s},
   journal   = {Numerische Mathematik},
   title     = {Faster least squares approximation},
@@ -24750,6 +24750,33 @@
   publisher = {Informa {UK} Limited},
 }
 
+@Book{Atkinson2007,
+  author    = {Atkinson, A. C. and Donev, A. N. and Tobias, R. D.},
+  publisher = {Oxford University Press, Oxford},
+  title     = {Optimum experimental designs, with {SAS}},
+  year      = {2007},
+  isbn      = {978-0-19-929660-6},
+  series    = {Oxford Statistical Science Series},
+  volume    = {34},
+  groups    = {books},
+  keywords  = {62-01 (62K05)},
+  mrnumber  = {2323647},
+  pages     = {xvi+511},
+}
+
+@Article{Kiefer1959Optimum,
+  author   = {Kiefer, J.},
+  journal  = {Journal of the Royal Statistical Society. Series B. Methodological},
+  title    = {Optimum experimental designs},
+  year     = {1959},
+  issn     = {0035-9246},
+  pages    = {272--319},
+  volume   = {21},
+  file     = {:Kiefer1959Optimum.pdf:PDF},
+  keywords = {62.00},
+  mrnumber = {113263},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
@@ -24768,8 +24795,8 @@
 2 StaticGroup:ultraHighRegression\;0\;1\;\;\;\;;
 1 StaticGroup:beta regression\;0\;1\;\;\;\;;
 1 StaticGroup:big data\;2\;1\;0x8a8a8aff\;\;\;;
-2 StaticGroup:Bayesian method\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:distributed\;0\;1\;0x8a8a8aff\;\;\;;
+3 StaticGroup:Bayesian method\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:divide and conquer\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:online method\;0\;1\;0x8a8a8aff\;\;\;;
 2 StaticGroup:statistical inference\;0\;1\;0x8a8a8aff\;\;\;;
