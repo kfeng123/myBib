@@ -8538,11 +8538,11 @@
   url       = {http://gen.lib.rus.ec/book/index.php?md5=81D4F626F589A846F9D4AEDFDFEAB7EF},
 }
 
-@Book{book:25295,
-  title     = {The Elements of Statistical Learning},
-  publisher = {Springer},
-  year      = {2003},
+@Book{Hastie2003ESL,
   author    = {T. Hastie, R. Tibshirani, J. H. Friedman},
+  publisher = {Springer},
+  title     = {The Elements of Statistical Learning},
+  year      = {2003},
   edition   = {Corrected},
   isbn      = {0387952845,9780387952840},
   file      = {:book_25295.pdf:PDF},
@@ -20405,7 +20405,7 @@
   mrnumber = {3405603},
 }
 
-@Article{Hoeffding1951,
+@Article{Hoeffding1951ACombinatorial,
   author    = {Wassily Hoeffding},
   journal   = {The Annals of Mathematical Statistics},
   title     = {A Combinatorial Central Limit Theorem},
@@ -23117,7 +23117,7 @@
 @Article{Ai2021Optimal,
   author    = {Mingyao Ai and Jun Yu and Huiming Zhang and HaiYing Wang},
   journal   = {Statistica Sinica},
-  title     = {{OPTIMAL} {SUBSAMPLING} {ALGORITHMS} {FOR} {BIG} {DATA} {REGRESSIONS}},
+  title     = {Optimal Subsampling Algorithms for Big Data Regressions},
   year      = {2021},
   doi       = {10.5705/ss.202018.0439},
   file      = {:Ai2021Optimal.pdf:PDF},
@@ -23125,13 +23125,14 @@
   publisher = {Institute of Statistical Science},
 }
 
-@Article{Wang2020a,
+@Article{Wang2020OptimalSubsampling,
   author    = {Wang, Haiying and Ma, Yanyuan},
   journal   = {Biometrika},
   title     = {Optimal subsampling for quantile regression in big data},
   year      = {2020},
   month     = {jul},
   doi       = {10.1093/biomet/asaa043},
+  file      = {:Wang2020OptimalSubsampling.pdf:PDF},
   groups    = {subsample},
   publisher = {Oxford University Press ({OUP})},
 }
@@ -24773,7 +24774,7 @@
   publisher = {Hindawi Limited},
 }
 
-@Article{Lumley2019,
+@Article{Lumley2019Fast,
   author    = {Thomas Lumley},
   journal   = {Journal of Computational and Graphical Statistics},
   title     = {Fast Generalized Linear Models by Database Sampling and One-Step Polishing},
@@ -25118,6 +25119,84 @@
   doi       = {10.5705/ss.202018.0279},
   groups    = {mean test},
   publisher = {Institute of Statistical Science},
+}
+
+@Article{Ernst2004,
+  author    = {Michael D. Ernst},
+  journal   = {Statistical Science},
+  title     = {Permutation Methods: A Basis for Exact Inference},
+  year      = {2004},
+  month     = {nov},
+  number    = {4},
+  pages     = {676--685},
+  volume    = {19},
+  doi       = {10.1214/088342304000000396},
+  groups    = {randomization test},
+  publisher = {Institute of Mathematical Statistics},
+}
+
+@Book{Lumley2010Complex,
+  author    = {Thomas Lumley},
+  publisher = {John Wiley {\&} Sons, Inc.},
+  title     = {Complex Surveys},
+  year      = {2010},
+  month     = {feb},
+  doi       = {10.1002/9780470580066},
+  file      = {:Lumley2010Complex.djvu:Djvu},
+  groups    = {books},
+}
+
+@Article{Katsevich2020,
+  author      = {Eugene Katsevich and Aaditya Ramdas},
+  title       = {The leave-one-covariate-out conditional randomization test},
+  abstract    = {Conditional independence testing is an important problem, yet provably hard without assumptions. One of the assumptions that has become popular of late is called "model-X", where we assume we know the joint distribution of the covariates, but assume nothing about the conditional distribution of the outcome given the covariates. Knockoffs is a popular methodology associated with this framework, but it suffers from two main drawbacks: only one-bit $p$-values are available for inference on each variable, and the method is randomized with significant variability across runs in practice. The conditional randomization test (CRT) is thought to be the "right" solution under model-X, but usually viewed as computationally inefficient. This paper proposes a computationally efficient leave-one-covariate-out (LOCO) CRT that addresses both drawbacks of knockoffs. LOCO CRT produces valid $p$-values that can be used to control the familywise error rate, and has nearly zero algorithmic variability. For L1 regularized M-estimators, we develop an even faster variant called L1ME CRT, which reuses computation by leveraging a novel observation about the stability of the cross-validated lasso to removing inactive variables. Last, for multivariate Gaussian covariates, we present a closed form expression for the LOCO CRT $p$-value, thus completely eliminating resampling in this important special case.},
+  date        = {2020-06-15},
+  eprint      = {2006.08482},
+  eprintclass = {stat.ME},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2006.08482v2:PDF},
+  groups      = {conditional randomization test},
+  keywords    = {stat.ME, stat.ML},
+}
+
+@Article{Wang2020,
+  author      = {Wenshuo Wang and Lucas Janson},
+  title       = {A Power Analysis of the Conditional Randomization Test and Knockoffs},
+  abstract    = {In many scientific problems, researchers try to relate a response variable $Y$ to a set of potential explanatory variables $X = (X_1,\dots,X_p)$, and start by trying to identify variables that contribute to this relationship. In statistical terms, this goal can be posed as trying to identify $X_j$'s upon which $Y$ is conditionally dependent. Sometimes it is of value to simultaneously test for each $j$, which is more commonly known as variable selection. The conditional randomization test (CRT) and model-X knockoffs are two recently proposed methods that respectively perform conditional independence testing and variable selection by, for each $X_j$, computing any test statistic on the data and assessing that test statistic's significance by comparing it to test statistics computed on synthetic variables generated using knowledge of $X$'s distribution. Our main contribution is to analyze their power in a high-dimensional linear model where the ratio of the dimension $p$ and the sample size $n$ converge to a positive constant. We give explicit expressions of the asymptotic power of the CRT, variable selection with CRT $p$-values, and model-X knockoffs, each with a test statistic based on either the marginal covariance, the least squares coefficient, or the lasso. One useful application of our analysis is the direct theoretical comparison of the asymptotic powers of variable selection with CRT $p$-values and model-X knockoffs; in the instances with independent covariates that we consider, the CRT provably dominates knockoffs. We also analyze the power gain from using unlabeled data in the CRT when limited knowledge of $X$'s distribution is available, and the power of the CRT when samples are collected retrospectively.},
+  date        = {2020-10-05},
+  eprint      = {2010.02304},
+  eprintclass = {math.ST},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2010.02304v1:PDF},
+  groups      = {conditional randomization test},
+  keywords    = {math.ST, stat.TH},
+}
+
+@Article{Pronzato2020,
+  author      = {Luc Pronzato and HaiYing Wang},
+  title       = {Sequential online subsampling for thinning experimental designs},
+  abstract    = {We consider a design problem where experimental conditions (design points $X_i$) are presented in the form of a sequence of i.i.d.\ random variables, generated with an unknown probability measure $\mu$, and only a given proportion $\alpha\in(0,1)$ can be selected. The objective is to select good candidates $X_i$ on the fly and maximize a concave function $\Phi$ of the corresponding information matrix. The optimal solution corresponds to the construction of an optimal bounded design measure $\xi_\alpha^*\leq \mu/\alpha$, with the difficulty that $\mu$ is unknown and $\xi_\alpha^*$ must be constructed online. The construction proposed relies on the definition of a threshold $\tau$ on the directional derivative of $\Phi$ at the current information matrix, the value of $\tau$ being fixed by a certain quantile of the distribution of this directional derivative. Combination with recursive quantile estimation yields a nonlinear two-time-scale stochastic approximation method. It can be applied to very long design sequences since only the current information matrix and estimated quantile need to be stored. Convergence to an optimum design is proved. Various illustrative examples are presented.},
+  date        = {2020-04-02},
+  eprint      = {2004.00792},
+  eprintclass = {stat.ME},
+  eprinttype  = {arXiv},
+  file        = {:http\://arxiv.org/pdf/2004.00792v2:PDF},
+  groups      = {online method},
+  keywords    = {stat.ME, math.ST, stat.CO, stat.TH, 62K05, 62L05, 62L20, 68Q32},
+}
+
+@Article{Wang2018OptimalSubsampling,
+  author    = {HaiYing Wang and Rong Zhu and Ping Ma},
+  journal   = {Journal of the American Statistical Association},
+  title     = {Optimal Subsampling for Large Sample Logistic Regression},
+  year      = {2018},
+  month     = {apr},
+  number    = {522},
+  pages     = {829--844},
+  volume    = {113},
+  doi       = {10.1080/01621459.2017.1292914},
+  groups    = {subsample},
+  publisher = {Informa {UK} Limited},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
