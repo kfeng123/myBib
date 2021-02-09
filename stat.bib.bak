@@ -23107,7 +23107,7 @@
   title     = {Optimal Distributed Subsampling for Maximum Quasi-Likelihood Estimators With Massive Data},
   year      = {2020},
   month     = {jul},
-  pages     = {1--12},
+  note      = {Online.},
   doi       = {10.1080/01621459.2020.1773832},
   file      = {:Yu2020Optimal.pdf:PDF},
   groups    = {subsample},
@@ -24784,6 +24784,7 @@
   pages     = {1007--1010},
   volume    = {28},
   doi       = {10.1080/10618600.2019.1610312},
+  file      = {:Lumley2019Fast.pdf:PDF},
   groups    = {subsample},
   publisher = {Informa {UK} Limited},
 }
@@ -25197,6 +25198,71 @@
   doi       = {10.1080/01621459.2017.1292914},
   groups    = {subsample},
   publisher = {Informa {UK} Limited},
+}
+
+@Article{Nemeth2021,
+  author    = {Christopher Nemeth and Paul Fearnhead},
+  journal   = {Journal of the American Statistical Association},
+  title     = {Stochastic Gradient Markov Chain Monte Carlo},
+  year      = {2021},
+  month     = {jan},
+  pages     = {1--18},
+  doi       = {10.1080/01621459.2020.1847120},
+  groups    = {Bayes},
+  publisher = {Informa {UK} Limited},
+}
+
+@Article{Fan2020,
+  author    = {Jianqing Fan and Yingying Fan and Xiao Han and Jinchi Lv},
+  journal   = {Journal of the American Statistical Association},
+  title     = {Asymptotic Theory of Eigenvectors for Random Matrices With Diverging Spikes},
+  year      = {2020},
+  month     = {dec},
+  pages     = {1--14},
+  doi       = {10.1080/01621459.2020.1840990},
+  groups    = {factor and PCA},
+  publisher = {Informa {UK} Limited},
+}
+
+@Article{Chen2020,
+  author    = {Haoyu Chen and Wenbin Lu and Rui Song},
+  journal   = {Journal of the American Statistical Association},
+  title     = {Statistical Inference for Online Decision Making via Stochastic Gradient Descent},
+  year      = {2020},
+  month     = {nov},
+  pages     = {1--12},
+  doi       = {10.1080/01621459.2020.1826325},
+  groups    = {online method},
+  publisher = {Informa {UK} Limited},
+}
+
+@Article{Zhang2017a,
+  author    = {Shuyi Zhang and Bin Guo and Anlan Dong and Jing He and Ziping Xu and Song Xi Chen},
+  journal   = {Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences},
+  title     = {Cautionary tales on air-quality improvement in Beijing},
+  year      = {2017},
+  month     = {sep},
+  number    = {2205},
+  pages     = {20170457},
+  volume    = {473},
+  doi       = {10.1098/rspa.2017.0457},
+  publisher = {The Royal Society},
+}
+
+@Book{Hastie2009ESL,
+  author    = {Hastie, Trevor and Tibshirani, Robert and Friedman, Jerome},
+  publisher = {Springer, New York},
+  title     = {The elements of statistical learning},
+  year      = {2009},
+  edition   = {Second},
+  isbn      = {978-0-387-84857-0},
+  note      = {Data mining, inference, and prediction},
+  series    = {Springer Series in Statistics},
+  doi       = {10.1007/978-0-387-84858-7},
+  groups    = {books},
+  keywords  = {62Gxx (62-09 62H25 62H30 62J07 68T05)},
+  mrnumber  = {2722294},
+  pages     = {xxii+745},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
